@@ -17,24 +17,12 @@ onMounted(loadWords)
 </script>
 
 <template>
-  <div mt-10>
-    <ul m-20>
-      <li v-for="item in words" :key="item.word" dark:bg-gray-800>
-        <strong>{{ item.word }}</strong><br> {{ item.meaning }}
-      </li>
-    </ul>
+  <div mt-12 p4>
+    <div
+      v-for="item in words" :key="item.word"
+      m-1 inline-block h-full w-auto gap-0 border rounded-xl p-1 dark:border-gray-7 bg-base
+    >
+      <span block font-bold>{{ item.word }}</span> {{ item.meaning }}
+    </div>
   </div>
 </template>
-
-<style scoped>
-ul {
-  list-style: none;
-  padding: 0;
-}
-li {
-  margin: 5px 0;
-  padding: 10px;
-  border-radius: 5px;
-  background: #f0f0f0;
-}
-</style>
