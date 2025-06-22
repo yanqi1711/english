@@ -4,7 +4,7 @@ import { onMounted, ref } from 'vue'
 // 响应式数据
 const showTextArea = ref(false)
 const newWords = ref('')
-const words = ref([])
+const words = ref<{ word: string }[]>([])
 
 // 从sessionStorage加载数据
 function loadWords() {
@@ -43,6 +43,12 @@ function clearList() {
     words.value = []
     sessionStorage.removeItem('words')
   }
+}
+
+// 删除单条单词
+function deleteWord(word: string) {
+  words.value = words.value.filter(item => item.word !== word)
+  saveWords()
 }
 
 // 切换显示文本区域
@@ -97,8 +103,14 @@ onMounted(() => {
       v-for="item in words" :key="item.word"
       class="flex items-center justify-center"
     >
-      <div mb-2 w-2xl border rounded-xl p-2 dark:border-gray-7 bg-base>
+      <div mb-2 w-2xl flex justify-between border rounded-xl p-2 dark:border-gray-7 bg-base>
         <span block font-size-6 font-bold>{{ item.word }}</span>
+        <div
+          ml-2 h-10 w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
+          @click="deleteWord(item.word)"
+        >
+          <div i-carbon-close-outline text-xl />
+        </div>
       </div>
     </div>
   </div>

@@ -10,11 +10,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     Dark: typeof import('./src/components/Dark.vue')['default']
     NavBar: typeof import('./src/components/NavBar.vue')['default']
-    Option: typeof import('./src/components/Option.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    TheCounter: typeof import('./src/components/TheCounter.vue')['default']
-    TheFooter: typeof import('./src/components/TheFooter.vue')['default']
-    TheInput: typeof import('./src/components/TheInput.vue')['default']
   }
 }
