@@ -6,17 +6,17 @@ const showTextArea = ref(false)
 const newWords = ref('')
 const words = ref<{ word: string }[]>([])
 
-// 从sessionStorage加载数据
+// 从localStorage加载数据
 function loadWords() {
-  const savedWords = sessionStorage.getItem('words')
+  const savedWords = localStorage.getItem('words')
   if (savedWords) {
     words.value = JSON.parse(savedWords)
   }
 }
 
-// 保存数据到sessionStorage
+// 保存数据到localStorage
 function saveWords() {
-  sessionStorage.setItem('words', JSON.stringify(words.value))
+  localStorage.setItem('words', JSON.stringify(words.value))
 }
 
 // 添加单词 回车或空行区分不同单词 空格不管
@@ -33,15 +33,15 @@ function addWord() {
   })
 
   newWords.value = '' // 清空输入框
-  saveWords() // 保存到sessionStorage
+  saveWords() // 保存到localStorage
 }
 
-// 删除sessionStorage中的所有单词
+// 删除localStorage中的所有单词
 function clearList() {
   // eslint-disable-next-line no-alert
   if (confirm('确定要清空所有单词吗？')) {
     words.value = []
-    sessionStorage.removeItem('words')
+    localStorage.removeItem('words')
   }
 }
 
