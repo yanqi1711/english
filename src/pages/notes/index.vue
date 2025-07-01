@@ -110,7 +110,7 @@ onMounted(() => {
       w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
       @click="toggleTranslation"
     >
-      <div v-if="showTextArea" i-carbon-view-filled text-xl />
+      <div v-if="showTranslation" i-carbon-view-filled text-xl />
       <div v-else i-carbon-view-off-filled text-xl />
     </div>
 
