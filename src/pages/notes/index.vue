@@ -4,7 +4,7 @@ import { onMounted, ref } from 'vue'
 // 响应式数据
 const showTextArea = ref(false)
 const newWords = ref('')
-const words = ref<{ word: string }[]>([])
+const words = ref<{ word: string, translation: string }[]>([])
 
 // 从localStorage加载数据
 function loadWords() {
@@ -19,8 +19,11 @@ function saveWords() {
   localStorage.setItem('words', JSON.stringify(words.value))
 }
 
-// 添加单词 回车或空行区分不同单词 空格不管
+// 添加单词
+// 匹配并保存对应单词和意思到浏览器中
 function addWord() {
+  let fore = ''
+  let rear = ''
   const trimmedWords = newWords.value
     .split('\n')
     .map(word => word.trim())
@@ -28,12 +31,19 @@ function addWord() {
 
   trimmedWords.forEach((word) => {
     if (!words.value.some(item => item.word === word)) {
-      words.value.push({ word })
+      // eslint-disable-next-line regexp/no-super-linear-backtracking
+      const match = word.match(/^([a-z\s;,]+)([^a-z].*)$/i)
+      if (match) {
+        fore = match[1].trim()
+        rear = match[2].trim()
+      }
+
+      words.value.push({ word: fore, translation: rear })
     }
   })
 
-  newWords.value = '' // 清空输入框
-  saveWords() // 保存到localStorage
+  newWords.value = ''
+  saveWords()
 }
 
 // 删除localStorage中的所有单词
@@ -104,7 +114,10 @@ onMounted(() => {
       class="flex items-center justify-center"
     >
       <div mb-2 w-2xl flex justify-between border rounded-xl p-2 dark:border-gray-7 bg-base>
-        <span block font-size-6 font-bold>{{ item.word }}</span>
+        <div>
+          <span mr-2 font-size-6 font-bold>{{ item.word }}</span>
+          <span font-size-6 font-bold class="hover-show">{{ item.translation }}</span>
+        </div>
         <div
           ml-2 h-10 w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
           @click="deleteWord(item.word)"
@@ -115,3 +128,14 @@ onMounted(() => {
     </div>
   </div>
 </template>
+
+<style scoped>
+/* 正常情况高斯模糊背景 */
+.hover-show {
+  filter: blur(0.7rem);
+  transition: filter 0.3s ease;
+}
+.hover-show:hover {
+  filter: blur(0);
+}
+</style>
