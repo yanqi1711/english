@@ -1,10 +1,35 @@
 <script lang="ts" setup>
 import { onMounted, ref } from 'vue'
 
-// 响应式数据
 const showTextArea = ref(false)
+const showTranslation = ref(false)
 const newWords = ref('')
 const words = ref<{ word: string, translation: string }[]>([])
+const textareaRef = ref(null)
+const color = ref('bg-[#888]')
+
+function autoResize() {
+  const el = textareaRef.value
+  if (el) {
+    el.style.height = 'auto'
+    el.style.height = `${el.scrollHeight}px`
+  }
+}
+
+function getBgColor() {
+  if (showTranslation.value) {
+    return 'bg-transparent'
+  }
+  return color.value
+}
+
+function toggleTextArea() {
+  showTextArea.value = !showTextArea.value
+}
+
+function toggleTranslation() {
+  showTranslation.value = !showTranslation.value
+}
 
 // 从localStorage加载数据
 function loadWords() {
@@ -61,14 +86,10 @@ function deleteWord(word: string) {
   saveWords()
 }
 
-// 切换显示文本区域
-function toggleTextArea() {
-  showTextArea.value = !showTextArea.value
-}
-
 // 组件挂载时加载数据
 onMounted(() => {
   loadWords()
+  nextTick(() => autoResize())
 })
 </script>
 
@@ -82,12 +103,22 @@ onMounted(() => {
       w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
       @click="toggleTextArea"
     >
+      <div i-carbon-square-outline text-xl />
+    </div>
+    <div
+      h-10
+      w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
+      @click="toggleTranslation"
+    >
       <div v-if="showTextArea" i-carbon-view-filled text-xl />
       <div v-else i-carbon-view-off-filled text-xl />
-    </div><div
+    </div>
+
+    <div
       h-10
       w-10
-      rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center" @click="clearList"
+      rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
+      @click="clearList"
     >
       <div i-carbon-close-outline text-xl />
     </div>
@@ -98,15 +129,18 @@ onMounted(() => {
       class="mb-4 flex items-center justify-center"
     >
       <textarea
+        ref="textareaRef"
         v-model="newWords"
-        placeholder="添加单词"
-        class="h-screen-sm w-screen-md border-2 rounded-xl outline-transparent outline dark:border-gray-7 bg-base"
+        placeholder="示例: bully 欺负, 恃强凌弱"
+        rows="1"
+        class="mr-4 w-screen-md resize-none overflow-hidden border-b-1 border-b-[#888] bg-transparent p-2 outline-transparent outline"
+        @input="autoResize"
       />
       <button
-        class="ml-2 rounded-xl bg-#42B883 px-4 py-2 text-white hover:bg-#345B4C"
+        class="border-1 border-[#9ca3af33] rounded-md p-2 px-5 text-white hover:border-[#0a9cae] hover:text-[#0a9cae]"
         @click="addWord"
       >
-        提交
+        保存
       </button>
     </div>
     <div
@@ -117,8 +151,9 @@ onMounted(() => {
         <div>
           <span mr-2 font-size-6 font-bold>{{ item.word }}</span>
           <span
+            :class="getBgColor()"
             font-size-6 font-bold
-            class="hover-show bg-[#888] text-[#888] transition-all duration-300 ease-in-out hover:bg-transparent"
+            class="getBgColor() text-[#888] transition-all duration-300 ease-in-out hover:bg-transparent"
           >{{ item.translation }}</span>
         </div>
         <div
