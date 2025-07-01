@@ -1,11 +1,10 @@
 <script lang="ts" setup>
 import { onMounted, ref } from 'vue'
 
-const showTextArea = ref(false)
 const showTranslation = ref(false)
 const newWords = ref('')
 const words = ref<{ word: string, translation: string }[]>([])
-const textareaRef = ref(null)
+const textareaRef = ref<HTMLTextAreaElement | null>(null)
 const color = ref('bg-[#888]')
 
 function autoResize() {
@@ -21,10 +20,6 @@ function getBgColor() {
     return 'bg-transparent'
   }
   return color.value
-}
-
-function toggleTextArea() {
-  showTextArea.value = !showTextArea.value
 }
 
 function toggleTranslation() {
@@ -47,6 +42,7 @@ function saveWords() {
 // 添加单词
 // 匹配并保存对应单词和意思到浏览器中
 function addWord() {
+  const el = textareaRef.value
   let fore = ''
   let rear = ''
   const trimmedWords = newWords.value
@@ -69,6 +65,9 @@ function addWord() {
 
   newWords.value = ''
   saveWords()
+  if (el) {
+    el.style.height = 'auto'
+  }
 }
 
 // 删除localStorage中的所有单词
@@ -101,13 +100,6 @@ onMounted(() => {
     <div
       h-10
       w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
-      @click="toggleTextArea"
-    >
-      <div i-carbon-square-outline text-xl />
-    </div>
-    <div
-      h-10
-      w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
       @click="toggleTranslation"
     >
       <div v-if="showTranslation" i-carbon-view-filled text-xl />
@@ -125,7 +117,6 @@ onMounted(() => {
   </div>
   <div mt-2 p-2>
     <div
-      v-if="showTextArea"
       class="mb-4 flex items-center justify-center"
     >
       <textarea
@@ -137,7 +128,7 @@ onMounted(() => {
         @input="autoResize"
       />
       <button
-        class="border-1 border-[#9ca3af33] rounded-md p-2 px-5 text-white hover:border-[#0a9cae] hover:text-[#0a9cae]"
+        class="border-1 border-[#9ca3af33] rounded-md p-2 px-5 hover:border-[#0a9cae] hover:text-[#0a9cae]"
         @click="addWord"
       >
         保存
