@@ -116,7 +116,10 @@ onMounted(() => {
       <div mb-2 w-2xl flex justify-between border rounded-xl p-2 dark:border-gray-7 bg-base>
         <div>
           <span mr-2 font-size-6 font-bold>{{ item.word }}</span>
-          <span font-size-6 font-bold class="hover-show">{{ item.translation }}</span>
+          <span
+            font-size-6 font-bold
+            class="hover-show bg-[#888] text-[#888] transition-all duration-300 ease-in-out hover:bg-transparent"
+          >{{ item.translation }}</span>
         </div>
         <div
           ml-2 h-10 w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
@@ -128,14 +131,3 @@ onMounted(() => {
     </div>
   </div>
 </template>
-
-<style scoped>
-/* 正常情况高斯模糊背景 */
-.hover-show {
-  filter: blur(0.7rem);
-  transition: filter 0.3s ease;
-}
-.hover-show:hover {
-  filter: blur(0);
-}
-</style>
