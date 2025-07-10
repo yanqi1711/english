@@ -65,3 +65,21 @@ h2 + p > em:first-child {
   margin-top: -20px;
   font-size: 0.9em;
 }
+
+.card {
+  --fg-light: #888;
+  --fg: #555;
+  --fg-deep: #222;
+  --fg-deeper: #000;
+}
+
+.card a {
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(125, 125, 125, 0.3);
+  transition: border 0.3s ease-in-out;
+}
+
+.card a:hover {
+  border-bottom: 1px solid var(--fg);
+}
