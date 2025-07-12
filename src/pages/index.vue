@@ -14,7 +14,7 @@ async function loadWords() {
 }
 
 function goToPage(word) {
-  const link = `https://translate.google.com/?sl=en&tl=zh-CN&text=${word}&op=translate`
+  const link = `https://translate.google.com/details?sl=en&tl=zh-CN&text=${word}&op=translate`
   window.open(link, '_blank')
 }
 
