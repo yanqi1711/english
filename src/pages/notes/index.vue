@@ -7,6 +7,8 @@ const words = ref<{ word: string, translation: string }[]>([])
 const textareaRef = ref<HTMLTextAreaElement | null>(null)
 const color = ref('bg-[#888]')
 
+useTitle('单词背诵')
+
 function autoResize() {
   const el = textareaRef.value
   if (el) {
@@ -95,11 +97,11 @@ onMounted(() => {
 <template>
   <div
     flex="~ items-center"
-    fixed right-36 top-4 z-panel-nav border border-base rounded-full shadow bg-glass
+    fixed right-36 top-4 z-panel-nav border border-base rounded-full bg-glass shadow
   >
     <div
-      h-10
-      w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
+
+      h-10 w-10 rounded-full op50 hover:bg-active hover:op100 flex="~ items-center justify-center"
       @click="toggleTranslation"
     >
       <div v-if="showTranslation" i-carbon-view-filled text-xl />
@@ -107,9 +109,8 @@ onMounted(() => {
     </div>
 
     <div
-      h-10
-      w-10
-      rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
+
+      h-10 w-10 rounded-full op50 hover:bg-active hover:op100 flex="~ items-center justify-center"
       @click="clearList"
     >
       <div i-carbon-close-outline text-xl />
@@ -138,7 +139,7 @@ onMounted(() => {
       v-for="item in words" :key="item.word"
       class="flex items-center justify-center"
     >
-      <div mb-2 w-2xl flex justify-between border rounded-xl p-2 dark:border-gray-7 bg-base>
+      <div mb-2 w-2xl flex justify-between border rounded-xl bg-base p-2 dark:border-gray-7>
         <div>
           <span mr-2 font-size-6 font-bold>{{ item.word }}</span>
           <span
@@ -148,7 +149,7 @@ onMounted(() => {
           >{{ item.translation }}</span>
         </div>
         <div
-          ml-2 h-10 w-10 rounded-full hover:bg-active op50 hover:op100 flex="~ items-center justify-center"
+          ml-2 h-10 w-10 rounded-full op50 hover:bg-active hover:op100 flex="~ items-center justify-center"
           @click="deleteWord(item.word)"
         >
           <div i-carbon-close-outline text-xl />
