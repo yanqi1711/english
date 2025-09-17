@@ -1,13 +1,10 @@
 <script lang="ts" setup>
-import { onMounted, ref } from 'vue'
-
+useTitle('单词背诵')
 const showTranslation = ref(false)
 const newWords = ref('')
 const words = ref<{ word: string, translation: string }[]>([])
 const textareaRef = ref<HTMLTextAreaElement | null>(null)
 const color = ref('bg-[#888]')
-
-useTitle('单词背诵')
 
 function autoResize() {
   const el = textareaRef.value
@@ -28,7 +25,6 @@ function toggleTranslation() {
   showTranslation.value = !showTranslation.value
 }
 
-// 从localStorage加载数据
 function loadWords() {
   const savedWords = localStorage.getItem('words')
   if (savedWords) {
@@ -36,13 +32,10 @@ function loadWords() {
   }
 }
 
-// 保存数据到localStorage
 function saveWords() {
   localStorage.setItem('words', JSON.stringify(words.value))
 }
 
-// 添加单词
-// 匹配并保存对应单词和意思到浏览器中
 function addWord() {
   const el = textareaRef.value
   let fore = ''
@@ -72,7 +65,6 @@ function addWord() {
   }
 }
 
-// 删除localStorage中的所有单词
 function clearList() {
   // eslint-disable-next-line no-alert
   if (confirm('确定要清空所有单词吗？')) {
@@ -81,13 +73,11 @@ function clearList() {
   }
 }
 
-// 删除单条单词
 function deleteWord(word: string) {
   words.value = words.value.filter(item => item.word !== word)
   saveWords()
 }
 
-// 组件挂载时加载数据
 onMounted(() => {
   loadWords()
   nextTick(() => autoResize())
