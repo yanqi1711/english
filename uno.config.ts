@@ -3,7 +3,7 @@ import {
   presetAttributify,
   presetIcons,
   presetWebFonts,
-  presetWind4,
+  presetWind3,
 } from 'unocss'
 
 export default defineConfig({
@@ -71,7 +71,7 @@ export default defineConfig({
     },
   },
   presets: [
-    presetWind4(),
+    presetWind3(),
     presetAttributify(),
     presetIcons({
       scale: 1.2,
