@@ -1,14 +1,9 @@
-import { fileURLToPath } from 'node:url'
-import { createLocalFontProcessor } from '@unocss/preset-web-fonts/local'
 import {
   defineConfig,
   presetAttributify,
   presetIcons,
-  presetTypography,
   presetWebFonts,
-  presetWind3,
-  transformerDirectives,
-  transformerVariantGroup,
+  presetWind4,
 } from 'unocss'
 
 export default defineConfig({
@@ -76,25 +71,18 @@ export default defineConfig({
     },
   },
   presets: [
-    presetWind3(),
+    presetWind4(),
     presetAttributify(),
     presetIcons({
       scale: 1.2,
+      warn: true,
     }),
-    presetTypography(),
     presetWebFonts({
       fonts: {
-        sans: 'DM Sans:200,400,700',
+        sans: 'DM Sans',
+        serif: 'DM Serif Display',
         mono: 'DM Mono',
       },
-      processors: createLocalFontProcessor({
-        fontAssetsDir: fileURLToPath(new URL('./public/fonts', import.meta.url)),
-        fontServeBaseUrl: '/fonts',
-      }),
     }),
-  ],
-  transformers: [
-    transformerDirectives(),
-    transformerVariantGroup(),
   ],
 })
