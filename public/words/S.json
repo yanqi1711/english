@@ -1,0 +1,2598 @@
+[
+  {
+    "word": "sack",
+    "meaning": "n.袋,包,麻袋 v.解雇"
+  },
+  {
+    "word": "sacred",
+    "meaning": "a.神圣的;宗教的;庄严的"
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "n.牺牲,牺牲品;祭品 v.(for,to)牺牲,献出"
+  },
+  {
+    "word": "sad",
+    "meaning": "a.悲哀的,忧愁的"
+  },
+  {
+    "word": "saddle",
+    "meaning": "n.鞍,马鞍,鞍状物"
+  },
+  {
+    "word": "safe",
+    "meaning": "a.安全的,牢靠的;谨慎的,可靠的 n.保险箱"
+  },
+  {
+    "word": "safeguard",
+    "meaning": "v.维护,保护,捍卫 n.安全装置,安全措施"
+  },
+  {
+    "word": "safety",
+    "meaning": "n.安全,保险;安全设备,保险装置"
+  },
+  {
+    "word": "sail",
+    "meaning": "n.帆,航行 v.航行"
+  },
+  {
+    "word": "sailor",
+    "meaning": "n.水手,海员"
+  },
+  {
+    "word": "saint",
+    "meaning": "n.圣人,基督教徒;(S-或St.用于人,地名前)圣"
+  },
+  {
+    "word": "sake",
+    "meaning": "n.缘故,理由"
+  },
+  {
+    "word": "salad",
+    "meaning": "n.色拉,凉拌菜"
+  },
+  {
+    "word": "salary",
+    "meaning": "n.薪金,薪水"
+  },
+  {
+    "word": "sale",
+    "meaning": "n.出售,上市;贱卖,廉价出售;销售额"
+  },
+  {
+    "word": "salesman",
+    "meaning": "n.售货员,推销员"
+  },
+  {
+    "word": "salt",
+    "meaning": "n.盐,盐,类 v.腌,盐渍"
+  },
+  {
+    "word": "salute",
+    "meaning": "v./n.敬礼,鸣礼炮;迎接,欢迎"
+  },
+  {
+    "word": "salvation",
+    "meaning": "n.拯救,救助;救济(者,品),救助工具;救世主"
+  },
+  {
+    "word": "same",
+    "meaning": "a.相同的 pron.相同的人(或物) ad.同样地"
+  },
+  {
+    "word": "sample",
+    "meaning": "n.样品,实例,标本,抽样检查 v.取样,采样"
+  },
+  {
+    "word": "sanction",
+    "meaning": "n./v.批准,同意,支持,认可 n.处罚,制裁"
+  },
+  {
+    "word": "sand",
+    "meaning": "n.沙;(pl.)沙滩,沙地"
+  },
+  {
+    "word": "sandwich",
+    "meaning": "n.三明治,夹肉面包 v.夹入,挤进"
+  },
+  {
+    "word": "sane",
+    "meaning": "a.心智健全的,神志清醒的,明智的,稳健的"
+  },
+  {
+    "word": "sarcastic",
+    "meaning": "a.讽刺的"
+  },
+  {
+    "word": "satellite",
+    "meaning": "n.卫星,人造卫星;附属物"
+  },
+  {
+    "word": "satire",
+    "meaning": "n.讽刺,讽刺文学,讽刺作品"
+  },
+  {
+    "word": "satisfaction",
+    "meaning": "n.满足,满意;乐事,愉快"
+  },
+  {
+    "word": "satisfactory",
+    "meaning": "a.令人满意的,圆满的,良好的,符合要求的"
+  },
+  {
+    "word": "satisfy",
+    "meaning": "v.满意,使满意,使相信,说服"
+  },
+  {
+    "word": "saturate",
+    "meaning": "vt.使湿透，浸透；使充满，使饱和"
+  },
+  {
+    "word": "Saturday",
+    "meaning": "n.星期六"
+  },
+  {
+    "word": "sauce",
+    "meaning": "n.酱汁,调味汁"
+  },
+  {
+    "word": "saucer",
+    "meaning": "n.茶托,碟子"
+  },
+  {
+    "word": "sausage",
+    "meaning": "n.香肠,腊肠"
+  },
+  {
+    "word": "savage",
+    "meaning": "a.野蛮的;凶恶的,残暴的 n.野人,未开化的人"
+  },
+  {
+    "word": "save",
+    "meaning": "v.救,拯救;储蓄,贮存;节省"
+  },
+  {
+    "word": "saving",
+    "meaning": "n.挽救,救助,节约,储蓄;(pl.)储蓄金,存款"
+  },
+  {
+    "word": "saw",
+    "meaning": "n.锯子,锯床 v.锯,锯开"
+  },
+  {
+    "word": "say",
+    "meaning": "vt.说，讲；说明；比如说 vi.说，发表意见"
+  },
+  {
+    "word": "scale",
+    "meaning": "n.刻度;天平,磅秤;比例尺;规模;音阶;鱼鳞"
+  },
+  {
+    "word": "scan",
+    "meaning": "v.细看,审视;浏览;扫描 n.扫描"
+  },
+  {
+    "word": "scandal",
+    "meaning": "n.丑闻,诽谤,耻辱,流言蜚语,反感,公愤"
+  },
+  {
+    "word": "scar",
+    "meaning": "n.疤,疤痕;创伤 v.使留下伤痕,创伤"
+  },
+  {
+    "word": "scarce",
+    "meaning": "a.缺乏的,不足的;稀少的,罕见的"
+  },
+  {
+    "word": "scarcely",
+    "meaning": "ad.几乎不,简直没有,勉强"
+  },
+  {
+    "word": "scare",
+    "meaning": "n.惊恐,恐慌v.惊吓,受惊"
+  },
+  {
+    "word": "scarf",
+    "meaning": "n.围巾,头巾,领巾,领带"
+  },
+  {
+    "word": "scatter",
+    "meaning": "v.散开,驱散;散布,散播"
+  },
+  {
+    "word": "scene",
+    "meaning": "n.景色,景象,舞台;(戏)一场"
+  },
+  {
+    "word": "scenery",
+    "meaning": "n.风景,舞台布景"
+  },
+  {
+    "word": "scent",
+    "meaning": "n.气味,香味,香水,线索,嗅觉 v.嗅,发觉"
+  },
+  {
+    "word": "schedule",
+    "meaning": "n.时间表,进度表 v.安排,预定"
+  },
+  {
+    "word": "scheme",
+    "meaning": "n.计划,方案;阴谋;配置 v.计划,策划;阴谋"
+  },
+  {
+    "word": "scholar",
+    "meaning": "n.学者"
+  },
+  {
+    "word": "scholarship",
+    "meaning": "n.奖学金;学问,学识"
+  },
+  {
+    "word": "school",
+    "meaning": "n.学校，(大学里的)学院；上学，学业；学派"
+  },
+  {
+    "word": "science",
+    "meaning": "n.科学;学科"
+  },
+  {
+    "word": "scientific",
+    "meaning": "a.科学上的"
+  },
+  {
+    "word": "scientist",
+    "meaning": "n.科学家"
+  },
+  {
+    "word": "scissors",
+    "meaning": "n.剪子"
+  },
+  {
+    "word": "scold",
+    "meaning": "v.责骂,训斥"
+  },
+  {
+    "word": "scope",
+    "meaning": "n.(活动)范围;机会,余地"
+  },
+  {
+    "word": "score",
+    "meaning": "n.得分,分数;二十 v.得(分),记(…的)分数"
+  },
+  {
+    "word": "scorn",
+    "meaning": "v./n.轻蔑,藐视"
+  },
+  {
+    "word": "scout",
+    "meaning": "n.侦察员,侦察机(舰) v.搜索,侦察"
+  },
+  {
+    "word": "scramble",
+    "meaning": "vi.(快速地)爬，攀登；互相争夺，争先"
+  },
+  {
+    "word": "scrap",
+    "meaning": "n.碎片;废料 v.废弃,报废"
+  },
+  {
+    "word": "scrape",
+    "meaning": "v.刮(掉),擦过,勉强通过 n.刮,擦痕,刮擦声"
+  },
+  {
+    "word": "scratch",
+    "meaning": "v.抓,搔,扒 n.抓,搔,抓痕;起跑线"
+  },
+  {
+    "word": "scream",
+    "meaning": "v./n.尖声叫,喊叫着说出,(风)呼啸"
+  },
+  {
+    "word": "screen",
+    "meaning": "n.屏幕,屏风;帘 v.掩蔽,包庇;筛选"
+  },
+  {
+    "word": "screw",
+    "meaning": "n.螺旋,螺丝(钉) v.拧,拧紧"
+  },
+  {
+    "word": "script",
+    "meaning": "n.剧本(原稿)；手稿，原稿；笔迹，手迹"
+  },
+  {
+    "word": "scrutiny",
+    "meaning": "n.周密的调查；仔细看；监视；选票复查"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "n.雕刻(术)，雕塑(术)；雕刻作品"
+  },
+  {
+    "word": "sea",
+    "meaning": "n.海，海洋，大量"
+  },
+  {
+    "word": "seal",
+    "meaning": "n.封铅,封条;印,图章;海豹 v.封,密封"
+  },
+  {
+    "word": "seam",
+    "meaning": "n.缝,接缝"
+  },
+  {
+    "word": "search",
+    "meaning": "v./n.(for)搜索,寻找,探查"
+  },
+  {
+    "word": "seaside",
+    "meaning": "n.海滨,海边"
+  },
+  {
+    "word": "season",
+    "meaning": "n.季,季节,时节"
+  },
+  {
+    "word": "seat",
+    "meaning": "n.座位,底座;所在地,场所 v.使坐下"
+  },
+  {
+    "word": "second",
+    "meaning": "a.第二;次等的,二等的 n.秒 v.赞成,附和"
+  },
+  {
+    "word": "secondary",
+    "meaning": "a.次要的,二级的;中级的,第二的"
+  },
+  {
+    "word": "secret",
+    "meaning": "a.秘密的,机密的 n.秘密"
+  },
+  {
+    "word": "secretary",
+    "meaning": "n.秘书,书记;部长,大臣"
+  },
+  {
+    "word": "section",
+    "meaning": "n.章节,部分;地区,部门,科;截面,剖面"
+  },
+  {
+    "word": "sector",
+    "meaning": "n.部门，部分；防御地段，防区；扇形"
+  },
+  {
+    "word": "secure",
+    "meaning": "a.(from,against)安全的,放心的v.得到;防护"
+  },
+  {
+    "word": "security",
+    "meaning": "n.安全(感),防御(物),保证(人),(pl.)证券"
+  },
+  {
+    "word": "see",
+    "meaning": "vt.看见；会面；探望；知道，获悉；送行"
+  },
+  {
+    "word": "seed",
+    "meaning": "n.种子 v.播种;结实,结籽"
+  },
+  {
+    "word": "seek",
+    "meaning": "v.(after,for)寻找,探索;试图,企图"
+  },
+  {
+    "word": "seem",
+    "meaning": "v.好像,似乎"
+  },
+  {
+    "word": "seemingly",
+    "meaning": "ad.外观上，表面上"
+  },
+  {
+    "word": "segment",
+    "meaning": "n.段,片,节,部分"
+  },
+  {
+    "word": "segregate",
+    "meaning": "vt.使•••分开，隔离（病患等）"
+  },
+  {
+    "word": "seize",
+    "meaning": "v.抓住,逮住;夺取,占领;没收,查封"
+  },
+  {
+    "word": "seldom",
+    "meaning": "ad.很少,不常"
+  },
+  {
+    "word": "select",
+    "meaning": "v.选择,挑选 a.精选的,选择的"
+  },
+  {
+    "word": "selection",
+    "meaning": "n.选择,挑选;选集,精选物"
+  },
+  {
+    "word": "self",
+    "meaning": "n.自我，自己(pl.selves)"
+  },
+  {
+    "word": "selfish",
+    "meaning": "adj.自私的，利己的"
+  },
+  {
+    "word": "sell",
+    "meaning": "v.卖,出售"
+  },
+  {
+    "word": "semester",
+    "meaning": "n.学期"
+  },
+  {
+    "word": "semiconductor",
+    "meaning": "n.半导体"
+  },
+  {
+    "word": "seminar",
+    "meaning": "n.(大学的)研究班,研讨会"
+  },
+  {
+    "word": "senate",
+    "meaning": "n.参议院,上院"
+  },
+  {
+    "word": "senator",
+    "meaning": "n.参议员"
+  },
+  {
+    "word": "send",
+    "meaning": "v.(sent,sent)1.打发；派遣 2.送；寄出"
+  },
+  {
+    "word": "senior",
+    "meaning": "a.年长的;地位较高的 n.(大学)四年级学生"
+  },
+  {
+    "word": "sensation",
+    "meaning": "n.感觉,知觉;激动,轰动,轰动一时的事情"
+  },
+  {
+    "word": "sense",
+    "meaning": "n.感官;感觉;判断力;意义 v.觉得,意识到"
+  },
+  {
+    "word": "sensible",
+    "meaning": "a.明智的,达理的;可觉察的,明显的"
+  },
+  {
+    "word": "sensitive",
+    "meaning": "a.(to)敏感的,易受伤害的;灵敏的"
+  },
+  {
+    "word": "sentence",
+    "meaning": "n.句子;判决,宣判 v.宣判,判决"
+  },
+  {
+    "word": "sentiment",
+    "meaning": "n.感情，柔情；看法；感觉"
+  },
+  {
+    "word": "separate",
+    "meaning": "a.(from)分离的,分开的"
+  },
+  {
+    "word": "September",
+    "meaning": "n.九月"
+  },
+  {
+    "word": "sequence",
+    "meaning": "n.先后,次序;连续,数列"
+  },
+  {
+    "word": "serial",
+    "meaning": "n.连载小说，连续剧；连载刊物 a.连续的"
+  },
+  {
+    "word": "series",
+    "meaning": "n.一系列,连续;丛书"
+  },
+  {
+    "word": "serious",
+    "meaning": "a.严肃的;主要的;严重的,危急的;认真的"
+  },
+  {
+    "word": "servant",
+    "meaning": "n.仆人"
+  },
+  {
+    "word": "serve",
+    "meaning": "v.服务,尽责;招待,侍候;符合,适用"
+  },
+  {
+    "word": "service",
+    "meaning": "n.服务;公共设施;维修保养;行政部门v.维修"
+  },
+  {
+    "word": "session",
+    "meaning": "n.(一届)会议,一段时间"
+  },
+  {
+    "word": "set",
+    "meaning": "n.一套,一副,装置,接受机v.提出,调整,日落"
+  },
+  {
+    "word": "setback",
+    "meaning": "n.挫折；失效；复发；倒退"
+  },
+  {
+    "word": "setting",
+    "meaning": "n.安置;落山;(固定东西的)柜架底座;环境"
+  },
+  {
+    "word": "settle",
+    "meaning": "v.安定,安顿;停息;定居;解决,调停"
+  },
+  {
+    "word": "settlement",
+    "meaning": "n.解决,决定,调停;居留区,住宅区"
+  },
+  {
+    "word": "seven",
+    "meaning": "num.七，七个(人或物)"
+  },
+  {
+    "word": "several",
+    "meaning": "a.几个，若干，数个；各个的，各自的"
+  },
+  {
+    "word": "severe",
+    "meaning": "a.严厉的;剧烈的,严重的,严峻的,艰难的"
+  },
+  {
+    "word": "sew",
+    "meaning": "v.缝,缝纫"
+  },
+  {
+    "word": "sex",
+    "meaning": "n.性别,性"
+  },
+  {
+    "word": "shabby",
+    "meaning": "a.简陋的,破旧的,卑鄙的,不公平的"
+  },
+  {
+    "word": "shade",
+    "meaning": "n.荫,阴影;遮光物,罩 v.遮蔽,遮光"
+  },
+  {
+    "word": "shadow",
+    "meaning": "n.阴影,影子,荫;暗处,阴暗"
+  },
+  {
+    "word": "shady",
+    "meaning": "a.成荫的,多荫的;可疑的,靠不住的"
+  },
+  {
+    "word": "shaft",
+    "meaning": "n.轴;杆状物"
+  },
+  {
+    "word": "shake",
+    "meaning": "n./v.摇动,摇;颤抖,震动"
+  },
+  {
+    "word": "shall",
+    "meaning": "aux.v.(我，我们)将要，会；必须，应该"
+  },
+  {
+    "word": "shallow",
+    "meaning": "a.浅的,浅薄的 n.浅滩,浅处"
+  },
+  {
+    "word": "sham",
+    "meaning": "n./a.假冒(的)，虚伪(的)"
+  },
+  {
+    "word": "shame",
+    "meaning": "n.羞耻,耻辱;可耻的人(或事物) v.使羞愧"
+  },
+  {
+    "word": "shampoo",
+    "meaning": "n.洗发膏,香波;洗发,洗头 v.洗发,洗头"
+  },
+  {
+    "word": "shape",
+    "meaning": "n.形状,外形;情况,状态;种类v.成型,塑造"
+  },
+  {
+    "word": "share",
+    "meaning": "v.(with)分配,共用;分担n.一份,份额;股份"
+  },
+  {
+    "word": "shark",
+    "meaning": "n.鲨鱼"
+  },
+  {
+    "word": "sharp",
+    "meaning": "a.锋利的;轮廓分明的;急转的ad.(指时刻)正"
+  },
+  {
+    "word": "shatter",
+    "meaning": "n.碎片；粉碎 v.粉碎；使疲惫；使震骇"
+  },
+  {
+    "word": "shave",
+    "meaning": "v.剃,刮,刨,削 n.刮脸"
+  },
+  {
+    "word": "she",
+    "meaning": "pron.(主格)她"
+  },
+  {
+    "word": "shear",
+    "meaning": "v.剪,修剪"
+  },
+  {
+    "word": "shed",
+    "meaning": "v.流出;发散,散发,脱落,脱去 n.棚,小屋"
+  },
+  {
+    "word": "sheep",
+    "meaning": "n.(绵)羊；易受人摆布的人"
+  },
+  {
+    "word": "sheer",
+    "meaning": "a.纯粹的,十足的,全然的;陡峭的,险峻的"
+  },
+  {
+    "word": "sheet",
+    "meaning": "n.被单;(一)张,(一)片,薄片;大片"
+  },
+  {
+    "word": "shelf",
+    "meaning": "n.架子,搁板"
+  },
+  {
+    "word": "shell",
+    "meaning": "n.壳,贝壳;炮弹"
+  },
+  {
+    "word": "shelter",
+    "meaning": "n.掩蔽处;掩蔽,保护 v.掩蔽,躲避,庇护"
+  },
+  {
+    "word": "shepherd",
+    "meaning": "n.牧民,牧羊人"
+  },
+  {
+    "word": "shield",
+    "meaning": "n.防护物,护罩;盾,盾状物 v.保护,防护"
+  },
+  {
+    "word": "shift",
+    "meaning": "v.替换,转移n.转换,转变;(轮)班,(换)班"
+  },
+  {
+    "word": "shilling",
+    "meaning": "n.先令"
+  },
+  {
+    "word": "shine",
+    "meaning": "v.照耀,发光;擦亮 n.光泽,光"
+  },
+  {
+    "word": "ship",
+    "meaning": "n.船舶，舰艇 v.装运，航运，运送；发货"
+  },
+  {
+    "word": "shipment",
+    "meaning": "n.装船,装运;装载的货物,装货量"
+  },
+  {
+    "word": "shirt",
+    "meaning": "n.衬衫"
+  },
+  {
+    "word": "shiver",
+    "meaning": "v./n.战栗,发抖"
+  },
+  {
+    "word": "shock",
+    "meaning": "n.震动;电击,触电;休克v.(使)震动/震惊"
+  },
+  {
+    "word": "shoe",
+    "meaning": "n.鞋"
+  },
+  {
+    "word": "shoot",
+    "meaning": "v.发射;掠过,疾驰而过 n.嫩枝,苗,射击"
+  },
+  {
+    "word": "shop",
+    "meaning": "n.商店，店铺；工厂，车间  v.买东西"
+  },
+  {
+    "word": "shopkeeper",
+    "meaning": "n.店主"
+  },
+  {
+    "word": "shore",
+    "meaning": "n.海滨,湖滨"
+  },
+  {
+    "word": "short",
+    "meaning": "a.短的,矮的;(of)缺乏,不足 n.(pl.)短裤"
+  },
+  {
+    "word": "shortage",
+    "meaning": "n.不足,缺少"
+  },
+  {
+    "word": "shortcoming",
+    "meaning": "n.短处,缺点"
+  },
+  {
+    "word": "shorthand",
+    "meaning": "n.速记"
+  },
+  {
+    "word": "shortly",
+    "meaning": "ad.立刻，不久；不耐烦地，简慢地"
+  },
+  {
+    "word": "shot",
+    "meaning": "n.开枪,射击;投篮;弹丸,炮弹,子弹"
+  },
+  {
+    "word": "should",
+    "meaning": "aux.v.应该；万一；可能，该；就；竟然会"
+  },
+  {
+    "word": "shoulder",
+    "meaning": "n.肩,肩部 v.肩负,承担"
+  },
+  {
+    "word": "shout",
+    "meaning": "v.大声叫，喊，呼出 n.呼喊，叫"
+  },
+  {
+    "word": "shove",
+    "meaning": "vt.乱推；乱塞vi.用力推，挤n.猛推"
+  },
+  {
+    "word": "show",
+    "meaning": "n.节目，表演 v.上演(戏剧等)，放映(电影)"
+  },
+  {
+    "word": "shower",
+    "meaning": "n.阵雨;沐浴;(一)阵/大批v.下阵雨,倾注"
+  },
+  {
+    "word": "shrewd",
+    "meaning": "a.机灵的,敏锐的;精明的"
+  },
+  {
+    "word": "shrink",
+    "meaning": "v.起皱,收缩;退缩,畏缩"
+  },
+  {
+    "word": "shrug",
+    "meaning": "vt./n.耸肩(表示冷淡、怀疑、无奈、不满等)"
+  },
+  {
+    "word": "shut",
+    "meaning": "v.关,关闭"
+  },
+  {
+    "word": "shutter",
+    "meaning": "n.百叶窗；(照相机)快门；关闭装置"
+  },
+  {
+    "word": "shuttle",
+    "meaning": "n.往返汽车/列车/飞机；穿梭 v.往返穿梭"
+  },
+  {
+    "word": "shy",
+    "meaning": "a.怕羞的，腼腆的；胆怯的vi.惊退，畏缩"
+  },
+  {
+    "word": "sick",
+    "meaning": "a.有病的,患病的;恶心的,想吐的"
+  },
+  {
+    "word": "side",
+    "meaning": "n.旁边，侧面；坡，岸；一边/侧/方 vi.支持"
+  },
+  {
+    "word": "sideways",
+    "meaning": "ad./a.向旁边(的),侧身,横着(的),斜着(的)"
+  },
+  {
+    "word": "siege",
+    "meaning": "n.包围，围攻，围困"
+  },
+  {
+    "word": "sigh",
+    "meaning": "n.叹息,叹息声 v.叹息,叹气"
+  },
+  {
+    "word": "sight",
+    "meaning": "n.视力;望见,瞥见;视域;眼界;情景,奇观"
+  },
+  {
+    "word": "sightseeing",
+    "meaning": "n.观光,游览"
+  },
+  {
+    "word": "sign",
+    "meaning": "n.标记,招牌;征兆,迹象v.签名(于),署名(于)"
+  },
+  {
+    "word": "signal",
+    "meaning": "n.信号,暗号 v.发信号,用信号通知"
+  },
+  {
+    "word": "signature",
+    "meaning": "n.签名,署名,签字"
+  },
+  {
+    "word": "significance",
+    "meaning": "n.意义,含义;重要性,重要的"
+  },
+  {
+    "word": "significant",
+    "meaning": "a.有意义的;重大的,重要的"
+  },
+  {
+    "word": "signify",
+    "meaning": "v.表示,意味;要紧,有重要性"
+  },
+  {
+    "word": "silence",
+    "meaning": "n.寂静,沉默 v.使沉默,使安静"
+  },
+  {
+    "word": "silent",
+    "meaning": "a.寂静,沉默的"
+  },
+  {
+    "word": "silicon",
+    "meaning": "n.硅"
+  },
+  {
+    "word": "silk",
+    "meaning": "n.丝,绸"
+  },
+  {
+    "word": "silly",
+    "meaning": "a.傻的,糊涂的,愚蠢的"
+  },
+  {
+    "word": "silver",
+    "meaning": "n.银;银器;银币 v.镀银"
+  },
+  {
+    "word": "similar",
+    "meaning": "a.(to)相似的,类似的"
+  },
+  {
+    "word": "simple",
+    "meaning": "a.简单的;单纯的,直率的;迟钝的,头脑简单的"
+  },
+  {
+    "word": "simplicity",
+    "meaning": "n.简单,简易;朴素;直率,单纯"
+  },
+  {
+    "word": "simplify",
+    "meaning": "v.简化,使单纯"
+  },
+  {
+    "word": "simply",
+    "meaning": "ad.简单地;完全,简直;仅仅,只不过;朴素地"
+  },
+  {
+    "word": "simulate",
+    "meaning": "v.模仿,模拟;假装,冒充"
+  },
+  {
+    "word": "simultaneous",
+    "meaning": "a.同时的,同时存在的"
+  },
+  {
+    "word": "sin",
+    "meaning": "n.罪,罪恶 v.犯罪"
+  },
+  {
+    "word": "since",
+    "meaning": "prep.自从 conj.自从；因为，既然  ad.后来"
+  },
+  {
+    "word": "sincere",
+    "meaning": "a.诚挚的,真实的,诚恳的"
+  },
+  {
+    "word": "sing",
+    "meaning": "v.唱,演唱;鸡叫"
+  },
+  {
+    "word": "single",
+    "meaning": "a.单人的;单一的,单个的;未婚的,独身的"
+  },
+  {
+    "word": "singular",
+    "meaning": "a.非凡的,卓越的;单数的"
+  },
+  {
+    "word": "sink",
+    "meaning": "v.(使)下沉,下落 n.水槽,水池"
+  },
+  {
+    "word": "sip",
+    "meaning": "v.小口地喝，抿，呷n.一小口的量"
+  },
+  {
+    "word": "sir",
+    "meaning": "n.先生，长官；[S -用于姓名前]…爵士"
+  },
+  {
+    "word": "siren",
+    "meaning": "n.警报声,警报器"
+  },
+  {
+    "word": "sister",
+    "meaning": "n.姐，妹；护士长；修女，女教士"
+  },
+  {
+    "word": "sit",
+    "meaning": "vi.坐，坐下；位于；栖息；孵卵 vt.使就坐"
+  },
+  {
+    "word": "site",
+    "meaning": "n.位置,场所,地点"
+  },
+  {
+    "word": "situated",
+    "meaning": "a.坐落在…的"
+  },
+  {
+    "word": "situation",
+    "meaning": "n.形势,处境,状况;位置,场所;职位,职务"
+  },
+  {
+    "word": "six",
+    "meaning": "num.六 pron./a.六(个，只...)"
+  },
+  {
+    "word": "size",
+    "meaning": "n.大小,尺寸,规模;尺码"
+  },
+  {
+    "word": "skate",
+    "meaning": "v.溜冰,滑冰 n.冰鞋"
+  },
+  {
+    "word": "skeleton",
+    "meaning": "n.骨骼;骨架,框架;梗概,提要"
+  },
+  {
+    "word": "skeptical",
+    "meaning": "a.怀疑的 [英]sceptical"
+  },
+  {
+    "word": "sketch",
+    "meaning": "n.素描;略图,草图;梗概 v.绘略图,速写,写生"
+  },
+  {
+    "word": "ski",
+    "meaning": "n.雪橇 v.滑雪"
+  },
+  {
+    "word": "skill",
+    "meaning": "n.技能,技巧,手艺;熟练"
+  },
+  {
+    "word": "skilled",
+    "meaning": "a.(in)熟练的,有技能的;需要技能的"
+  },
+  {
+    "word": "skillful",
+    "meaning": "a.(skilful)(in,at)灵巧的,娴熟的"
+  },
+  {
+    "word": "skim",
+    "meaning": "vt.撇去(液体表面)之漂浮物 vi.轻轻掠过"
+  },
+  {
+    "word": "skin",
+    "meaning": "n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮"
+  },
+  {
+    "word": "skip",
+    "meaning": "vi.略过，跳过 n.跳跃 vt.故意忽略；略过"
+  },
+  {
+    "word": "skirt",
+    "meaning": "n.裙子;边缘,郊区"
+  },
+  {
+    "word": "skull",
+    "meaning": "n.头盖骨，颅骨"
+  },
+  {
+    "word": "sky",
+    "meaning": "n.天空；[pl.]天色；气候"
+  },
+  {
+    "word": "skyscraper",
+    "meaning": "n.摩天大楼"
+  },
+  {
+    "word": "slack",
+    "meaning": "a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤"
+  },
+  {
+    "word": "slam",
+    "meaning": "v.(门、窗等)砰地关上 n.猛然关闭的声音"
+  },
+  {
+    "word": "slap",
+    "meaning": "n./v.拍,掌击"
+  },
+  {
+    "word": "slaughter",
+    "meaning": "n.屠杀，屠宰 vt.屠杀，宰杀"
+  },
+  {
+    "word": "slave",
+    "meaning": "n.奴隶,苦工 v.做苦工,拼命地干"
+  },
+  {
+    "word": "sleep",
+    "meaning": "v.(slept,slept)睡 n.睡眠"
+  },
+  {
+    "word": "sleeve",
+    "meaning": "n.袖子"
+  },
+  {
+    "word": "slender",
+    "meaning": "a.修长的,细长的,苗条的;微小的,微薄的"
+  },
+  {
+    "word": "slice",
+    "meaning": "n.薄片,切片;一份;部分切(片)"
+  },
+  {
+    "word": "slide",
+    "meaning": "v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片"
+  },
+  {
+    "word": "slight",
+    "meaning": "a.轻微的,微小的;纤细的,瘦弱的"
+  },
+  {
+    "word": "slim",
+    "meaning": "a.苗条的;(机会)少的 v.减轻体重,变苗条"
+  },
+  {
+    "word": "slip",
+    "meaning": "v.滑,滑倒;滑掉;溜走n.疏忽,小错,口误,笔误"
+  },
+  {
+    "word": "slipper",
+    "meaning": "n.便鞋,拖鞋"
+  },
+  {
+    "word": "slippery",
+    "meaning": "a.滑的,滑溜的"
+  },
+  {
+    "word": "slit",
+    "meaning": "v.切开,截开,纵割 n.细长裂缝,狭长切口"
+  },
+  {
+    "word": "slogan",
+    "meaning": "n.标语,口号"
+  },
+  {
+    "word": "slope",
+    "meaning": "n.斜坡,斜面;倾斜,斜度 v.(使)倾斜"
+  },
+  {
+    "word": "slot",
+    "meaning": "n.狭缝；空位vt.放入狭缝中；把…纳入"
+  },
+  {
+    "word": "slow",
+    "meaning": "a.慢的,不活跃的 v.(down)(使)放慢,减速"
+  },
+  {
+    "word": "slum",
+    "meaning": "n.贫民窟,贫民区,陋巷"
+  },
+  {
+    "word": "sly",
+    "meaning": "a.狡猾的,偷偷摸摸的"
+  },
+  {
+    "word": "small",
+    "meaning": "a.小的；年幼的；不重要的；小规模(经营)的"
+  },
+  {
+    "word": "smart",
+    "meaning": "a.漂亮的;聪明的;巧妙的 v.剧痛,刺疼"
+  },
+  {
+    "word": "smash",
+    "meaning": "v./n.打碎,粉碎"
+  },
+  {
+    "word": "smell",
+    "meaning": "n.气味;嗅觉 v.嗅,闻到;散发(…的)气味"
+  },
+  {
+    "word": "smile",
+    "meaning": "n.微笑，笑容 vi.微笑，露出笑容"
+  },
+  {
+    "word": "smog",
+    "meaning": "n.烟雾"
+  },
+  {
+    "word": "smoke",
+    "meaning": "n.烟,烟尘;吸烟,抽烟 v.抽(烟);冒烟,冒气"
+  },
+  {
+    "word": "smooth",
+    "meaning": "a.光滑的;顺利的;柔和的 v.(over)掩饰"
+  },
+  {
+    "word": "smuggle",
+    "meaning": "v.走私;偷运"
+  },
+  {
+    "word": "snack",
+    "meaning": "n.快餐,小吃,点心"
+  },
+  {
+    "word": "snake",
+    "meaning": "n.蛇"
+  },
+  {
+    "word": "snap",
+    "meaning": "v.啪地移动；(使）突然断开，断开（成两截)"
+  },
+  {
+    "word": "snatch",
+    "meaning": "n./v.攫取,抢夺"
+  },
+  {
+    "word": "sneak",
+    "meaning": "vi.偷偷地走，溜vt.偷偷地做(或拿、吃)"
+  },
+  {
+    "word": "sneeze",
+    "meaning": "vi.打喷嚏，发喷嚏声n.喷嚏"
+  },
+  {
+    "word": "sniff",
+    "meaning": "vi.嗅…味道；抽鼻涕；对嗤之以鼻，蔑视"
+  },
+  {
+    "word": "snow",
+    "meaning": "n.雪，下雪 vi.下雪；如雪一般地落下"
+  },
+  {
+    "word": "snowstorm",
+    "meaning": "n.暴风雪"
+  },
+  {
+    "word": "so",
+    "meaning": "ad.那么；非常；也；不错 conj.因此；以便"
+  },
+  {
+    "word": "soak",
+    "meaning": "v.浸泡,浸湿,浸透"
+  },
+  {
+    "word": "soap",
+    "meaning": "n.肥皂"
+  },
+  {
+    "word": "soar",
+    "meaning": "vi.(指鸟等)高飞，翱翔；飞涨；高耸"
+  },
+  {
+    "word": "sob",
+    "meaning": "v./n.哭泣,呜咽"
+  },
+  {
+    "word": "sober",
+    "meaning": "a.清醒的;认真的,冷静的,适度的"
+  },
+  {
+    "word": "so-called",
+    "meaning": "a.(贬)所谓的，号称的"
+  },
+  {
+    "word": "soccer",
+    "meaning": "n.足球"
+  },
+  {
+    "word": "sociable",
+    "meaning": "a.好交际的，友好的，合群的"
+  },
+  {
+    "word": "social",
+    "meaning": "a.社会的;交际的"
+  },
+  {
+    "word": "socialism",
+    "meaning": "n.社会主义"
+  },
+  {
+    "word": "society",
+    "meaning": "n.社会;社团,协会,社;社交界,上流社会"
+  },
+  {
+    "word": "sociology",
+    "meaning": "n.社会学"
+  },
+  {
+    "word": "sock",
+    "meaning": "n.(pl.)短袜"
+  },
+  {
+    "word": "soda",
+    "meaning": "n.苏打,汽水"
+  },
+  {
+    "word": "sofa",
+    "meaning": "n.长沙发，沙发"
+  },
+  {
+    "word": "soft",
+    "meaning": "a.软的;温柔的;细嫩的,光滑的;不含酒精的"
+  },
+  {
+    "word": "software",
+    "meaning": "n.软件"
+  },
+  {
+    "word": "soil",
+    "meaning": "n.泥土,土地,土壤 v.弄脏,(使)变脏"
+  },
+  {
+    "word": "solar",
+    "meaning": "a.太阳的,日光的"
+  },
+  {
+    "word": "soldier",
+    "meaning": "n.士兵,军人"
+  },
+  {
+    "word": "sole",
+    "meaning": "a.单独的,唯一的 n.脚垫,鞋底"
+  },
+  {
+    "word": "solemn",
+    "meaning": "a.庄严的,隆重的;严肃的"
+  },
+  {
+    "word": "solid",
+    "meaning": "a.固体的;结实的,稳固的,可靠的 n.固体"
+  },
+  {
+    "word": "solidarity",
+    "meaning": "n.团结；休戚相关"
+  },
+  {
+    "word": "solitary",
+    "meaning": "a.(好)孤独的；偏僻的；单一的，唯一的"
+  },
+  {
+    "word": "solo",
+    "meaning": "n.独奏 a.&ad.单独的(地)；独唱的(地)"
+  },
+  {
+    "word": "soluble",
+    "meaning": "a.可溶的"
+  },
+  {
+    "word": "solution",
+    "meaning": "n.解答,解决办法;溶解,溶液"
+  },
+  {
+    "word": "solve",
+    "meaning": "v.解决,解答"
+  },
+  {
+    "word": "some",
+    "meaning": "a.几个；一些；有些；某(人或物) pron.一些"
+  },
+  {
+    "word": "somebody",
+    "meaning": "pron.某人，有人 n.重要人物"
+  },
+  {
+    "word": "somehow",
+    "meaning": "ad.以某种方式，用某种方法；不知怎么地"
+  },
+  {
+    "word": "someone",
+    "meaning": "pron.某人(=somebody)"
+  },
+  {
+    "word": "something",
+    "meaning": "pron.某事，某物；被视为有意义的事物"
+  },
+  {
+    "word": "sometime",
+    "meaning": "ad.将来(或过去)某个时候a.以前的"
+  },
+  {
+    "word": "sometimes",
+    "meaning": "ad.不时，有时，间或"
+  },
+  {
+    "word": "somewhat",
+    "meaning": "pron.&ad.一点儿，几分"
+  },
+  {
+    "word": "somewhere",
+    "meaning": "ad.某地，在某处；在附近，前后，大约"
+  },
+  {
+    "word": "son",
+    "meaning": "n.儿子；孩子(长者对年青或年幼男子的称呼)"
+  },
+  {
+    "word": "song",
+    "meaning": "n.歌唱，(虫、鸟等)鸣声；歌曲，歌词"
+  },
+  {
+    "word": "soon",
+    "meaning": "ad.不久，即刻；快，早"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "a.尖端的,复杂的,先进的;老练的,老于世故的"
+  },
+  {
+    "word": "sophomore",
+    "meaning": "(中学、大学)二年级学生"
+  },
+  {
+    "word": "sore",
+    "meaning": "a.疼痛的;痛心的 n.痛处,疮口"
+  },
+  {
+    "word": "sorrow",
+    "meaning": "n.悲衰,悲痛"
+  },
+  {
+    "word": "sorry",
+    "meaning": "a.对不起，抱歉的；难过，悔恨的；使人伤心"
+  },
+  {
+    "word": "sort",
+    "meaning": "n.种类,类别 v.分类,整理"
+  },
+  {
+    "word": "soul",
+    "meaning": "n.灵魂,心灵;精神,精力;人"
+  },
+  {
+    "word": "sound",
+    "meaning": "n.声音v.发声,响a.健全的,完好的;正当的"
+  },
+  {
+    "word": "soup",
+    "meaning": "n.汤"
+  },
+  {
+    "word": "sour",
+    "meaning": "a.酸的;发酸的;酸痛的;脾气坏的;刻薄的"
+  },
+  {
+    "word": "source",
+    "meaning": "n.源,源泉;来源,出处"
+  },
+  {
+    "word": "south",
+    "meaning": "n.南,南方,南部 a.南方的,南部的"
+  },
+  {
+    "word": "southeast",
+    "meaning": "n./a.东南(的),东南部(的)"
+  },
+  {
+    "word": "southern",
+    "meaning": "a.南方的,南部的"
+  },
+  {
+    "word": "southwest",
+    "meaning": "n./a.西南(的),西南部(的)"
+  },
+  {
+    "word": "sovereign",
+    "meaning": "a.独立的，有主权的 n.君主，国王，统治者"
+  },
+  {
+    "word": "sow",
+    "meaning": "v.播种"
+  },
+  {
+    "word": "space",
+    "meaning": "n.间隔;空地,余地;空间 v.留间隔,隔开"
+  },
+  {
+    "word": "spacecraft",
+    "meaning": "n.宇宙飞船"
+  },
+  {
+    "word": "spaceship",
+    "meaning": "n.宇宙飞船"
+  },
+  {
+    "word": "spacious",
+    "meaning": "adj.广阔的，宽敞的"
+  },
+  {
+    "word": "spade",
+    "meaning": "n.铁锹,铲子"
+  },
+  {
+    "word": "span",
+    "meaning": "n.跨度,跨距"
+  },
+  {
+    "word": "spare",
+    "meaning": "a.多余的,备用的 v.节约,节省;抽出(时间)"
+  },
+  {
+    "word": "spark",
+    "meaning": "n.火花,火星 v.发火花,发电花"
+  },
+  {
+    "word": "sparkle",
+    "meaning": "v.发火花,闪耀"
+  },
+  {
+    "word": "speak",
+    "meaning": "v.说话，讲话；演说，发言；(in)说某种语言"
+  },
+  {
+    "word": "speaker",
+    "meaning": "n.说话者，发言者；说某种语言者；扬声器"
+  },
+  {
+    "word": "spear",
+    "meaning": "n.矛,枪"
+  },
+  {
+    "word": "special",
+    "meaning": "a.特殊的,专门的;附加的,额外的"
+  },
+  {
+    "word": "specialist",
+    "meaning": "n.专家"
+  },
+  {
+    "word": "speciality",
+    "meaning": "n.(specialty)特性，性质；专业/长；特产"
+  },
+  {
+    "word": "specialize",
+    "meaning": "v.(specialise)(in)专攻,专门研究,专业化"
+  },
+  {
+    "word": "species",
+    "meaning": "n.(物)种,种类"
+  },
+  {
+    "word": "specific",
+    "meaning": "a.明确的,具体的;特定的,特有的"
+  },
+  {
+    "word": "specification",
+    "meaning": "n.详述;(常pl.)规格,说明书,规范"
+  },
+  {
+    "word": "specify",
+    "meaning": "v.指定,详细说明"
+  },
+  {
+    "word": "specimen",
+    "meaning": "n.标本,样本"
+  },
+  {
+    "word": "spectacle",
+    "meaning": "n.(pl.)眼镜;场面,景象;奇观,壮观"
+  },
+  {
+    "word": "spectacular",
+    "meaning": "a.壮观的,引人注目的 n.壮观的演出"
+  },
+  {
+    "word": "spectator",
+    "meaning": "n.观众,旁观者"
+  },
+  {
+    "word": "spectrum",
+    "meaning": "n.谱，光谱，频谱；范围，幅度，系列"
+  },
+  {
+    "word": "speculate",
+    "meaning": "vi.思索；推测vt.投机；思索，推测"
+  },
+  {
+    "word": "speech",
+    "meaning": "n.演说,讲话;言语,语言"
+  },
+  {
+    "word": "speed",
+    "meaning": "n.速度,快 v.迅速,前进,急行;加速,使加速"
+  },
+  {
+    "word": "spell",
+    "meaning": "v.拼写"
+  },
+  {
+    "word": "spelling",
+    "meaning": "n.拼法,拼写法"
+  },
+  {
+    "word": "spend",
+    "meaning": "v.花费;消耗,用尽;度过,消磨"
+  },
+  {
+    "word": "sphere",
+    "meaning": "n.球,球体;范围,领域"
+  },
+  {
+    "word": "spicy",
+    "meaning": "a.加很多香料的；(口味)浓郁的"
+  },
+  {
+    "word": "spider",
+    "meaning": "n.蜘蛛"
+  },
+  {
+    "word": "spill",
+    "meaning": "v.溢出,溅出 n.摔下,跌下"
+  },
+  {
+    "word": "spin",
+    "meaning": "v.旋转;纺纱;织网,吐丝 n.旋转;自转"
+  },
+  {
+    "word": "spine",
+    "meaning": "n.脊柱，脊椎；(动植物的)刺；书脊"
+  },
+  {
+    "word": "spiral",
+    "meaning": "a.螺旋形的 n.螺旋，螺线 v.螺旋上升；盘旋"
+  },
+  {
+    "word": "spirit",
+    "meaning": "n.精神;志气;(pl.)情绪,心情;(pl.)酒精"
+  },
+  {
+    "word": "spiritual",
+    "meaning": "a.精神(上)的,心灵的"
+  },
+  {
+    "word": "spit",
+    "meaning": "v.吐(唾沫),吐痰 n.唾液"
+  },
+  {
+    "word": "spite",
+    "meaning": "n.恶意;怨恨"
+  },
+  {
+    "word": "splash",
+    "meaning": "v.溅,泼 n.溅,飞溅声"
+  },
+  {
+    "word": "splendid",
+    "meaning": "a.壮丽的,辉煌的;极好的"
+  },
+  {
+    "word": "split",
+    "meaning": "v.裂开,劈开;分裂,分离 n.分化,分裂,裂口"
+  },
+  {
+    "word": "spoil",
+    "meaning": "v.损坏,搞错;宠坏,溺爱"
+  },
+  {
+    "word": "spokesman",
+    "meaning": "n.发言人"
+  },
+  {
+    "word": "sponge",
+    "meaning": "n.海绵"
+  },
+  {
+    "word": "sponsor",
+    "meaning": "n.发起人,主力者,保证人 v.发起,主办"
+  },
+  {
+    "word": "spontaneous",
+    "meaning": "a.自发的,自然产生的"
+  },
+  {
+    "word": "spoon",
+    "meaning": "n.匙,调羹"
+  },
+  {
+    "word": "sport",
+    "meaning": "n.(体育)运动 (pl.)运动会 vi.开玩笑；玩耍"
+  },
+  {
+    "word": "sportsman",
+    "meaning": "n.爱好运动的人；运动员"
+  },
+  {
+    "word": "spot",
+    "meaning": "n.斑点;地点 v.认出,认清,发现;玷污,弄脏"
+  },
+  {
+    "word": "spouse",
+    "meaning": "n.配偶(指夫或妻)"
+  },
+  {
+    "word": "spray",
+    "meaning": "n.喷雾,飞沫,浪花,水花 v.喷,喷射"
+  },
+  {
+    "word": "spread",
+    "meaning": "v./n.伸开,伸展;散布,传播"
+  },
+  {
+    "word": "spring",
+    "meaning": "n.春;跳;泉,源泉;弹簧,发条 v.跳,跳跃"
+  },
+  {
+    "word": "sprinkle",
+    "meaning": "n.洒,喷,淋"
+  },
+  {
+    "word": "sprout",
+    "meaning": "vi.发芽，抽条 vt.使发芽 n.新芽，嫩苗"
+  },
+  {
+    "word": "spur",
+    "meaning": "n.靴刺,马刺;刺激,刺激物 v.刺激,激励"
+  },
+  {
+    "word": "spy",
+    "meaning": "n.间谍 v.当间谍,刺探;察觉,发现"
+  },
+  {
+    "word": "square",
+    "meaning": "n.正方形;广场a.正方形的v.使成方形"
+  },
+  {
+    "word": "squeeze",
+    "meaning": "v.压榨,挤 n.榨取,勒索"
+  },
+  {
+    "word": "squirrel",
+    "meaning": "n.松鼠"
+  },
+  {
+    "word": "stab",
+    "meaning": "v./n.刺,戳"
+  },
+  {
+    "word": "stability",
+    "meaning": "n.稳定,安定"
+  },
+  {
+    "word": "stable",
+    "meaning": "a.稳定的,安定的 n.马厩,马棚"
+  },
+  {
+    "word": "stack",
+    "meaning": "n.堆,一堆 v.堆积,堆起"
+  },
+  {
+    "word": "stadium",
+    "meaning": "n.体育场"
+  },
+  {
+    "word": "staff",
+    "meaning": "n.全体职工;杠,棒;参谋部 v.配备工作人员"
+  },
+  {
+    "word": "stage",
+    "meaning": "n.舞台,戏剧;阶段,时期"
+  },
+  {
+    "word": "stagger",
+    "meaning": "vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚"
+  },
+  {
+    "word": "stain",
+    "meaning": "n.污点,瑕疵 v.沾污;染色"
+  },
+  {
+    "word": "stair",
+    "meaning": "n.(pl.)楼梯"
+  },
+  {
+    "word": "staircase",
+    "meaning": "n.(stairway)楼梯"
+  },
+  {
+    "word": "stake",
+    "meaning": "n.桩,标桩;赌注,利害关系"
+  },
+  {
+    "word": "stale",
+    "meaning": "n.变质的,不新鲜的;陈旧的,陈腐的"
+  },
+  {
+    "word": "stalk",
+    "meaning": "n.茎，梗vt.悄悄地跟踪vi.高视阔步地走"
+  },
+  {
+    "word": "stall",
+    "meaning": "n.货摊;畜栏,厩 v.(使)停转,(使)停止"
+  },
+  {
+    "word": "stamp",
+    "meaning": "n.邮票;印;跺脚;标志v.跺脚,顿足;盖章"
+  },
+  {
+    "word": "stand",
+    "meaning": "vi.站立；位于；经受 n.台，座；货摊；立场"
+  },
+  {
+    "word": "standard",
+    "meaning": "n.标准,规则 a.标准的"
+  },
+  {
+    "word": "standpoint",
+    "meaning": "n.立场,观点"
+  },
+  {
+    "word": "staple",
+    "meaning": "n.主要产品；名产；纤维；主要成分，主食"
+  },
+  {
+    "word": "star",
+    "meaning": "n.星；恒星；明星 v.用星号标出；扮演主角"
+  },
+  {
+    "word": "stare",
+    "meaning": "v.(at)盯,凝视"
+  },
+  {
+    "word": "start",
+    "meaning": "v.开始;动身;吃惊;开办,开动 n.开端;惊起"
+  },
+  {
+    "word": "startle",
+    "meaning": "v.惊吓,使吃惊"
+  },
+  {
+    "word": "starve",
+    "meaning": "v.(使)饿死,饿得慌,挨饿"
+  },
+  {
+    "word": "state",
+    "meaning": "n.状态,情况;国,州 v.陈述,说明"
+  },
+  {
+    "word": "statement",
+    "meaning": "n.声明,陈述"
+  },
+  {
+    "word": "statesman",
+    "meaning": "n.政治家,国务活动家"
+  },
+  {
+    "word": "static",
+    "meaning": "a.(statical)静态的,静力的"
+  },
+  {
+    "word": "station",
+    "meaning": "n.车站;所,站,局;身份,地位 v.安置,驻扎"
+  },
+  {
+    "word": "stationary",
+    "meaning": "a.静止的,固定的"
+  },
+  {
+    "word": "stationery",
+    "meaning": "n.文具"
+  },
+  {
+    "word": "statistical",
+    "meaning": "a.统计的,统计学的"
+  },
+  {
+    "word": "statue",
+    "meaning": "n.塑像,雕像"
+  },
+  {
+    "word": "status",
+    "meaning": "n.地位,身份;情形,状况"
+  },
+  {
+    "word": "statute",
+    "meaning": "n.成文法，法令，法规；章程，规则，条例"
+  },
+  {
+    "word": "stay",
+    "meaning": "vi.逗留；保持vt.停止，延缓n.逗留，停留"
+  },
+  {
+    "word": "steady",
+    "meaning": "a.稳定的,不变的;坚定的v.(使)稳固/稳定"
+  },
+  {
+    "word": "steak",
+    "meaning": "n.牛排；大块肉(或鱼)片"
+  },
+  {
+    "word": "steal",
+    "meaning": "v.偷,窃取;偷偷地做,巧取"
+  },
+  {
+    "word": "steam",
+    "meaning": "n.水汽,蒸汽,水蒸气 v.蒸发;蒸;用蒸汽开动"
+  },
+  {
+    "word": "steamer",
+    "meaning": "n.汽船,轮船"
+  },
+  {
+    "word": "steel",
+    "meaning": "n.钢"
+  },
+  {
+    "word": "steep",
+    "meaning": "a.陡峭的；险峻的；急剧升降的vt.浸泡,沉浸"
+  },
+  {
+    "word": "steer",
+    "meaning": "vt.驾驶，为…操舵；引导vi.驾驶"
+  },
+  {
+    "word": "stem",
+    "meaning": "n.茎，干 vt.堵(挡)住 vi.起源于，由…造成"
+  },
+  {
+    "word": "step",
+    "meaning": "n.步;台阶,梯级;步骤,措施 v.踏,走,举步"
+  },
+  {
+    "word": "stereo",
+    "meaning": "n.立体声音响；立体声装置 n./a.立体声(的)"
+  },
+  {
+    "word": "stereotype",
+    "meaning": "n.陈规，老套，模式化 vt.使定型，使模式化"
+  },
+  {
+    "word": "stern",
+    "meaning": "a.严厉的;坚决的,坚定的 n.船尾,舟尾"
+  },
+  {
+    "word": "steward",
+    "meaning": "n.乘务员，服务员；看管人；膳食管理员"
+  },
+  {
+    "word": "stick",
+    "meaning": "n.棍,棒,手杖 v.刺,戳,扎;粘贴"
+  },
+  {
+    "word": "sticky",
+    "meaning": "a.粘的，粘性的；棘手的；(道路)泥泞的"
+  },
+  {
+    "word": "stiff",
+    "meaning": "a.硬的,僵直的;拘谨的;呆板的;艰难的"
+  },
+  {
+    "word": "still",
+    "meaning": "a.静止的，寂静的 ad.还，仍然；更；安静地"
+  },
+  {
+    "word": "stimulate",
+    "meaning": "v.刺激,使兴奋;激励,鼓舞"
+  },
+  {
+    "word": "sting",
+    "meaning": "v./n.刺,刺痛,剧痛;刺,叮"
+  },
+  {
+    "word": "stir",
+    "meaning": "v.搅拌,搅动;动,摇动;激动;轰动;煽动,鼓动"
+  },
+  {
+    "word": "stitch",
+    "meaning": "n.一针；(因跑步引起的)肋部剧痛 v.缝(合)"
+  },
+  {
+    "word": "stock",
+    "meaning": "n.备料,库存,现货;股票,公债 v.储存"
+  },
+  {
+    "word": "stocking",
+    "meaning": "n.长(统)袜"
+  },
+  {
+    "word": "stomach",
+    "meaning": "n.胃，胃口；肚子，腹部vt.承受，忍受"
+  },
+  {
+    "word": "stone",
+    "meaning": "n.石，石头；岩石，矿石；(水果的)核、子"
+  },
+  {
+    "word": "stool",
+    "meaning": "n.凳子；(pl.)大便"
+  },
+  {
+    "word": "stoop",
+    "meaning": "v.弯腰,俯身 n.弯腰,曲背"
+  },
+  {
+    "word": "stop",
+    "meaning": "v.停止;塞住;阻止,阻挠;逗留 n.停车站;停止"
+  },
+  {
+    "word": "storage",
+    "meaning": "n.贮藏(量),保管;库房"
+  },
+  {
+    "word": "store",
+    "meaning": "n.商店,店铺;贮藏,贮备品 v.贮藏,贮备"
+  },
+  {
+    "word": "storey",
+    "meaning": "n.(story)楼,层"
+  },
+  {
+    "word": "storm",
+    "meaning": "n.暴风雨,暴风雪;激动,爆发 v.猛攻,直捣"
+  },
+  {
+    "word": "story",
+    "meaning": "n.故事,传说,小说;(=storey)楼层"
+  },
+  {
+    "word": "stove",
+    "meaning": "n.炉子,火炉"
+  },
+  {
+    "word": "straight",
+    "meaning": "a.直的;整齐的,端正的 ad.直接;正直,直率"
+  },
+  {
+    "word": "straightforward",
+    "meaning": "a.正直的;简单的,易懂的 ad.坦率地"
+  },
+  {
+    "word": "strain",
+    "meaning": "v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担"
+  },
+  {
+    "word": "strange",
+    "meaning": "a.奇怪的,奇异的;陌生的,生疏的;外地的"
+  },
+  {
+    "word": "stranger",
+    "meaning": "n.陌生人,生客;外地人,外国人"
+  },
+  {
+    "word": "strap",
+    "meaning": "n.皮带，带子v.用带扣住，束牢；用绷带包扎"
+  },
+  {
+    "word": "strategy",
+    "meaning": "n.战略，策略；对策，政策"
+  },
+  {
+    "word": "straw",
+    "meaning": "n.稻草,麦杆;吸管"
+  },
+  {
+    "word": "strawberry",
+    "meaning": "n.草莓"
+  },
+  {
+    "word": "stream",
+    "meaning": "n.小河,溪流;流,一股,一串 v.流出,涌"
+  },
+  {
+    "word": "streamline",
+    "meaning": "a.流线型的 vt.使成流线型；使合理化"
+  },
+  {
+    "word": "street",
+    "meaning": "n.街，街道；行车道"
+  },
+  {
+    "word": "strength",
+    "meaning": "n.力，力量；实力；长处，优点；人力；兵力"
+  },
+  {
+    "word": "strengthen",
+    "meaning": "v.加强,巩固"
+  },
+  {
+    "word": "strenuous",
+    "meaning": "a.费力的，艰辛的；奋发的，努力的"
+  },
+  {
+    "word": "stress",
+    "meaning": "n.压力；重要性；应力；重音vt.强调，重读"
+  },
+  {
+    "word": "stretch",
+    "meaning": "v.伸展，延伸 n.拉长；伸展；一段时间/路程"
+  },
+  {
+    "word": "strict",
+    "meaning": "a.(with)严格的,严厉的;严谨的,精确的"
+  },
+  {
+    "word": "stride",
+    "meaning": "vi.大踏步走；跨越 n.一大步(pl.)长足进步"
+  },
+  {
+    "word": "strife",
+    "meaning": "n.争吵；冲突，斗争；竞争"
+  },
+  {
+    "word": "strike",
+    "meaning": "n./vi.罢工 vt.打，击；攻击；给…深刻印象"
+  },
+  {
+    "word": "striking",
+    "meaning": "a.显著的；惹人注目的，容貌出众的"
+  },
+  {
+    "word": "string",
+    "meaning": "n.弦,线,细绳;(一串),(一行) v.缚,捆"
+  },
+  {
+    "word": "strip",
+    "meaning": "v.剥,剥去 n.窄条,条纹"
+  },
+  {
+    "word": "stripe",
+    "meaning": "n.长条，条纹；军服上表示军阶的臂章条纹"
+  },
+  {
+    "word": "strive",
+    "meaning": "v.奋斗,努力"
+  },
+  {
+    "word": "stroke",
+    "meaning": "n.击;报时的钟声;一击/划/笔;中风 v.抚摸"
+  },
+  {
+    "word": "stroll",
+    "meaning": "n.&v.漫步；散步；游荡"
+  },
+  {
+    "word": "strong",
+    "meaning": "a.强壮的,强大的;强烈的,浓的"
+  },
+  {
+    "word": "structure",
+    "meaning": "n.结构,构造;建筑物 v.构造,建造"
+  },
+  {
+    "word": "struggle",
+    "meaning": "n./v.斗争,奋斗,努力"
+  },
+  {
+    "word": "stubborn",
+    "meaning": "a.顽固的,倔强的;难对付的,难以克服的"
+  },
+  {
+    "word": "student",
+    "meaning": "n.(大中学校的)学生；研究者，学者"
+  },
+  {
+    "word": "studio",
+    "meaning": "n.画室;播音室;(电影)制片厂"
+  },
+  {
+    "word": "study",
+    "meaning": "vt.学习；研究；细看 vi.读书 n.学习；研究"
+  },
+  {
+    "word": "stuff",
+    "meaning": "n.原料,材料,东西 v.填满,塞满"
+  },
+  {
+    "word": "stumble",
+    "meaning": "n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说"
+  },
+  {
+    "word": "stun",
+    "meaning": "vt.使…失去知觉；使目瞪口呆，使吃惊"
+  },
+  {
+    "word": "stupid",
+    "meaning": "a.愚蠢的,迟钝的"
+  },
+  {
+    "word": "sturdy",
+    "meaning": "a.坚定的，不屈不挠的；强健的，结实的"
+  },
+  {
+    "word": "style",
+    "meaning": "n.风格,文体;式样,时式,类型"
+  },
+  {
+    "word": "subject",
+    "meaning": "n.主题;学科 a.隶属的;易遭..的 v.使隶属"
+  },
+  {
+    "word": "subjective",
+    "meaning": "a.主观(上)的，个人的"
+  },
+  {
+    "word": "submarine",
+    "meaning": "n.潜水艇 a.水底的,海底的"
+  },
+  {
+    "word": "submerge",
+    "meaning": "v.沉没,淹没;潜入"
+  },
+  {
+    "word": "submit",
+    "meaning": "v.(to)使服从,屈服;(to)呈送,提交"
+  },
+  {
+    "word": "subordinate",
+    "meaning": "a.(to)次要的,从属的;下级的"
+  },
+  {
+    "word": "subscribe",
+    "meaning": "vi.(to)订阅，订购；同意vt.捐助，赞助"
+  },
+  {
+    "word": "subsequent",
+    "meaning": "a.随后的,后来的"
+  },
+  {
+    "word": "subsidy",
+    "meaning": "n.补助金；津贴费"
+  },
+  {
+    "word": "substance",
+    "meaning": "n.物质；实质，本质；主旨；财产，资产"
+  },
+  {
+    "word": "substantial",
+    "meaning": "a.实质的;相当的;显著的;坚固的;富裕的"
+  },
+  {
+    "word": "substitute",
+    "meaning": "n.代替者；替身；代用品 v.(for)代替,替换"
+  },
+  {
+    "word": "subtle",
+    "meaning": "a.精巧的,巧妙的;细微的,微妙的"
+  },
+  {
+    "word": "subtract",
+    "meaning": "v. (from)减(去)"
+  },
+  {
+    "word": "suburb",
+    "meaning": "n.市郊,郊区"
+  },
+  {
+    "word": "subway",
+    "meaning": "n.地铁；地下行人隧道"
+  },
+  {
+    "word": "succeed",
+    "meaning": "vi.成功；继承，接替 vt.接替；继…之后"
+  },
+  {
+    "word": "success",
+    "meaning": "n.成就，成功；成功的事物，有成就的人"
+  },
+  {
+    "word": "successful",
+    "meaning": "a.圆满的；顺利的；成功的"
+  },
+  {
+    "word": "succession",
+    "meaning": "n.连续,系列;继任,继承"
+  },
+  {
+    "word": "successive",
+    "meaning": "a.接连的,连续的"
+  },
+  {
+    "word": "successor",
+    "meaning": "n.接替的人或事物，继任者"
+  },
+  {
+    "word": "such",
+    "meaning": "a.这样的;上述的ad.那么pron.这样的人/事物"
+  },
+  {
+    "word": "suck",
+    "meaning": "v.&n.吸，舐；吸收(取)"
+  },
+  {
+    "word": "sudden",
+    "meaning": "a.出乎意料的，突然的"
+  },
+  {
+    "word": "sue",
+    "meaning": "v.控告,对…提出诉讼,起诉"
+  },
+  {
+    "word": "suffer",
+    "meaning": "v.(from)受痛苦,患病;受损失;遭受;忍受"
+  },
+  {
+    "word": "suffice",
+    "meaning": "v.充足，足够；vt.(食物等)使(某人)满足"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "a.(for)足够的,充分的(比enough拘谨、正式)"
+  },
+  {
+    "word": "sugar",
+    "meaning": "n.糖，食糖 vt.加糖于"
+  },
+  {
+    "word": "suggest",
+    "meaning": "v.建议,提出；使联想,使想起…；暗示"
+  },
+  {
+    "word": "suggestion",
+    "meaning": "n.建议，意见；细微的迹象；暗示，联想"
+  },
+  {
+    "word": "suicide",
+    "meaning": "n.自杀；给自己带来恶劣后果的行为"
+  },
+  {
+    "word": "suit",
+    "meaning": "v.合适,适合;相配,适应 n.一套西服;诉讼"
+  },
+  {
+    "word": "suitable",
+    "meaning": "a.(for)合适的,适宜的"
+  },
+  {
+    "word": "suite",
+    "meaning": "n.套间；一套家具；套，组，系列"
+  },
+  {
+    "word": "sulfur",
+    "meaning": "n.(sulphur)硫"
+  },
+  {
+    "word": "sum",
+    "meaning": "n.总数,和;金额;算术题;要旨 v.合计,总计"
+  },
+  {
+    "word": "summarize",
+    "meaning": "v.(summarise)概括,总结"
+  },
+  {
+    "word": "summary",
+    "meaning": "n.摘要,概要 a.概括的,简略的"
+  },
+  {
+    "word": "summer",
+    "meaning": "n.夏天，夏季 a.夏季的"
+  },
+  {
+    "word": "summit",
+    "meaning": "n.顶，最高点；颠峰，高峰；最高级会议"
+  },
+  {
+    "word": "summon",
+    "meaning": "v.召唤;传讯,传唤;鼓起(勇气),振作(精神)"
+  },
+  {
+    "word": "sun",
+    "meaning": "n.太阳；恒星；美国Sun公司"
+  },
+  {
+    "word": "Sunday",
+    "meaning": "n.星期日"
+  },
+  {
+    "word": "sunrise",
+    "meaning": "n.日出，拂晓；朝霞"
+  },
+  {
+    "word": "sunset",
+    "meaning": "n.日落，傍晚；晚霞"
+  },
+  {
+    "word": "sunshine",
+    "meaning": "n.日光,日照；晴天；"
+  },
+  {
+    "word": "super",
+    "meaning": "a.极好的,超级的"
+  },
+  {
+    "word": "superb",
+    "meaning": "a.极好的,杰出的；华丽的；"
+  },
+  {
+    "word": "superficial",
+    "meaning": "a.表面的;肤浅的,浅薄的"
+  },
+  {
+    "word": "superfluous",
+    "meaning": "a.多余的，过剩的，"
+  },
+  {
+    "word": "superior",
+    "meaning": "a.优良的,卓越的;上级的 n.上级;长者;高手"
+  },
+  {
+    "word": "superiority",
+    "meaning": "n.优越(性)，优势，优等；高傲，傲慢"
+  },
+  {
+    "word": "supermarket",
+    "meaning": "n.超级市场"
+  },
+  {
+    "word": "supersonic",
+    "meaning": "a.超音速的,超声波的 n.超声波，超声频"
+  },
+  {
+    "word": "superstition",
+    "meaning": "n.迷信，迷信的观念习俗"
+  },
+  {
+    "word": "supervise",
+    "meaning": "v.管理,监督"
+  },
+  {
+    "word": "supper",
+    "meaning": "n.晚餐"
+  },
+  {
+    "word": "supplement",
+    "meaning": "n.补遗;增刊;附录 v.增刊,补充"
+  },
+  {
+    "word": "supply",
+    "meaning": "v.(with,to)供给,供应,补足 n.供应,供应量"
+  },
+  {
+    "word": "support",
+    "meaning": "n./vt.支撑;支持;赡养;维持 n.支持者;支柱"
+  },
+  {
+    "word": "suppose",
+    "meaning": "v.料想,猜想;假定;conj.假使...结果会怎样"
+  },
+  {
+    "word": "suppress",
+    "meaning": "v.镇压,压制;抑制,忍住;查禁"
+  },
+  {
+    "word": "supreme",
+    "meaning": "a.极度的,最重要的;至高的,最高的"
+  },
+  {
+    "word": "sure",
+    "meaning": "a.肯定的；一定会…的；有信心的，有把握的"
+  },
+  {
+    "word": "surface",
+    "meaning": "n.表面；外表 a.表面的，肤浅的"
+  },
+  {
+    "word": "surge",
+    "meaning": "vi.汹涌；彭湃；蜂拥而至 n.巨浪;汹涌;彭湃"
+  },
+  {
+    "word": "surgeon",
+    "meaning": "n.外科医生"
+  },
+  {
+    "word": "surgery",
+    "meaning": "n.外科,外科学;手术室,诊疗室"
+  },
+  {
+    "word": "surname",
+    "meaning": "n.姓"
+  },
+  {
+    "word": "surpass",
+    "meaning": "vt.超过,胜过"
+  },
+  {
+    "word": "surplus",
+    "meaning": "n.过剩,剩余；余款,余额 a.过剩的,剩余的"
+  },
+  {
+    "word": "surprise",
+    "meaning": "v.使诧异,使惊异;奇袭 n.诧异,惊异;奇袭"
+  },
+  {
+    "word": "surrender",
+    "meaning": "vi.投降，屈服 vt.放弃，交出 n.投降，认输"
+  },
+  {
+    "word": "surround",
+    "meaning": "vt.包围，环绕 n.环绕物"
+  },
+  {
+    "word": "surroundings",
+    "meaning": "n.周围的事物,环境"
+  },
+  {
+    "word": "survey",
+    "meaning": "v./n.俯瞰,眺望;全面审视,调查;测量图,勘定"
+  },
+  {
+    "word": "survival",
+    "meaning": "n.幸存,生存;幸存者,残存物"
+  },
+  {
+    "word": "survive",
+    "meaning": "v.幸免于,幸存;比…长命"
+  },
+  {
+    "word": "susceptible",
+    "meaning": "a.易受影响的;易受感动的;易受感染的"
+  },
+  {
+    "word": "suspect",
+    "meaning": "v.猜想；怀疑；察觉 a.可疑的 n.嫌疑犯"
+  },
+  {
+    "word": "suspend",
+    "meaning": "v.悬(浮)，挂；暂停，取消；推迟"
+  },
+  {
+    "word": "suspicion",
+    "meaning": "n.怀疑，猜疑；一点儿，少量"
+  },
+  {
+    "word": "suspicious",
+    "meaning": "a.(of)可疑的,多疑的,疑心的"
+  },
+  {
+    "word": "sustain",
+    "meaning": "vt.支撑,撑住;维持,持续,经受,忍耐"
+  },
+  {
+    "word": "swallow",
+    "meaning": "n.燕子;吞咽vt.吞,咽;轻信;忍受;vi.咽口水"
+  },
+  {
+    "word": "swamp",
+    "meaning": "n.沼泽；湿地 vt.浸没；使…应接不暇"
+  },
+  {
+    "word": "swan",
+    "meaning": "n.天鹅 vi.闲荡，游荡"
+  },
+  {
+    "word": "swarm",
+    "meaning": "n.蜂群;一大群 vi.涌往;挤满;云集;成群移动"
+  },
+  {
+    "word": "sway",
+    "meaning": "vi.摇动；倾斜 vt.使摇动 n.摇动；影响力"
+  },
+  {
+    "word": "swear",
+    "meaning": "v.(at)诅咒,骂人;宣誓,发誓"
+  },
+  {
+    "word": "sweat",
+    "meaning": "n.汗 v.(使)出汗"
+  },
+  {
+    "word": "sweater",
+    "meaning": "n.毛衣,绒衣,厚运动衫"
+  },
+  {
+    "word": "sweep",
+    "meaning": "v.扫,打扫;席卷,冲光;扫过,掠过"
+  },
+  {
+    "word": "sweet",
+    "meaning": "a.甜的;可爱的,美好的 n.(常pl.)糖果;甜食"
+  },
+  {
+    "word": "swell",
+    "meaning": "n./v.肿胀;膨胀;增大;增加;"
+  },
+  {
+    "word": "swift",
+    "meaning": "a./ad.快的(地);敏捷的(地)a.立刻的n.雨燕"
+  },
+  {
+    "word": "swim",
+    "meaning": "vi.游泳;游;漂浮;眩晕;充溢 vt.游过 n.游泳"
+  },
+  {
+    "word": "swing",
+    "meaning": "v.摇摆,摇荡,回转,旋转 n.秋千;摇摆,摆动"
+  },
+  {
+    "word": "switch",
+    "meaning": "n.开关；转换；鞭子 v.转变,转换；抽打"
+  },
+  {
+    "word": "sword",
+    "meaning": "n.剑，刀；武力"
+  },
+  {
+    "word": "symbol",
+    "meaning": "n.符号,标志;象征"
+  },
+  {
+    "word": "symmetry",
+    "meaning": "n.对称(性);匀称,整齐"
+  },
+  {
+    "word": "sympathetic",
+    "meaning": "a.有同情心的；赞同的；n.交感神经"
+  },
+  {
+    "word": "sympathize",
+    "meaning": "v.(sympathise)(with)同情;共鸣,同感;赞成"
+  },
+  {
+    "word": "sympathy",
+    "meaning": "n.同情，同情心；赞同，同感；慰问"
+  },
+  {
+    "word": "symphony",
+    "meaning": "n.交响乐,交响曲"
+  },
+  {
+    "word": "symposium",
+    "meaning": "n.讨论会,专题报告会;专题论文集"
+  },
+  {
+    "word": "symptom",
+    "meaning": "n.(疾病的)症状；(不好事情的)征兆,表征"
+  },
+  {
+    "word": "syndrome",
+    "meaning": "n.综合病征；并存特性"
+  },
+  {
+    "word": "synthesis",
+    "meaning": "n.(pl.syntheses)综合,合成"
+  },
+  {
+    "word": "synthetic",
+    "meaning": "a.合成的,人造的;综合的"
+  },
+  {
+    "word": "system",
+    "meaning": "n.系统，体系；制度；方法，方式，步聚"
+  },
+  {
+    "word": "systematic",
+    "meaning": "a.(systematical)系统的,有组织的"
+  }
+]
