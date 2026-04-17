@@ -1,0 +1,754 @@
+[
+  {
+    "word": "habit",
+    "meaning": "n.习惯,习性,脾性"
+  },
+  {
+    "word": "habitat",
+    "meaning": "n.(动物的)栖息地，(植物的)产地"
+  },
+  {
+    "word": "hail",
+    "meaning": "v.下雹;欢呼,欢迎 n.雹"
+  },
+  {
+    "word": "hair",
+    "meaning": "n.毛发，头发；绒毛，毛状物"
+  },
+  {
+    "word": "half",
+    "meaning": "n.半，一半 a.一半的，不完全的 ad.一半地"
+  },
+  {
+    "word": "hall",
+    "meaning": "n.礼堂,会堂,办公大楼,门厅"
+  },
+  {
+    "word": "halt",
+    "meaning": "n.止步,停步,停止前进 v.止步,(使)停止"
+  },
+  {
+    "word": "ham",
+    "meaning": "n.火腿"
+  },
+  {
+    "word": "hamburger",
+    "meaning": "n.汉堡包,牛肉饼"
+  },
+  {
+    "word": "hammer",
+    "meaning": "n.铁锤,槌,榔头 v.锤击,敲打"
+  },
+  {
+    "word": "hamper",
+    "meaning": "v.妨碍,阻碍,牵制"
+  },
+  {
+    "word": "hand",
+    "meaning": "n.手，人手，雇员；专门业人员；指针 v.交"
+  },
+  {
+    "word": "handbook",
+    "meaning": "n.手册,指南"
+  },
+  {
+    "word": "handful",
+    "meaning": "n.一把;少数;一小撮"
+  },
+  {
+    "word": "handicap",
+    "meaning": "v.妨碍 n.(身体或智力方面的)缺陷;不利条件"
+  },
+  {
+    "word": "handkerchief",
+    "meaning": "n.手帕"
+  },
+  {
+    "word": "handle",
+    "meaning": "n.柄,把手,拉手 v.处理,对待,操纵;触,抚养"
+  },
+  {
+    "word": "handsome",
+    "meaning": "a.漂亮的,英俊的;慷慨的,数量可观的"
+  },
+  {
+    "word": "handwriting",
+    "meaning": "n.笔迹,手迹,书法"
+  },
+  {
+    "word": "handy",
+    "meaning": "a.手边的,近便的;方便的"
+  },
+  {
+    "word": "hang",
+    "meaning": "v.悬挂,垂吊;吊死,绞死"
+  },
+  {
+    "word": "happen",
+    "meaning": "v.(偶然)发生；碰巧，恰好"
+  },
+  {
+    "word": "happy",
+    "meaning": "a.快乐的，幸福的；乐意的；令人满意的"
+  },
+  {
+    "word": "harassment",
+    "meaning": "n.骚扰，扰乱；烦恼，烦乱"
+  },
+  {
+    "word": "harbor",
+    "meaning": "n.(harbour)海港;避难所 v.隐匿,窝藏"
+  },
+  {
+    "word": "hard",
+    "meaning": "a.坚硬的；结实的；困难的；难忍的；严厉的"
+  },
+  {
+    "word": "harden",
+    "meaning": "v.(使)变硬"
+  },
+  {
+    "word": "hardly",
+    "meaning": "ad.几乎不,简直不;仅仅"
+  },
+  {
+    "word": "hardship",
+    "meaning": "n.艰难,困苦"
+  },
+  {
+    "word": "hardware",
+    "meaning": "n.五金,金属制品;硬件"
+  },
+  {
+    "word": "harm",
+    "meaning": "n./v.伤害,损害,危害"
+  },
+  {
+    "word": "harmony",
+    "meaning": "n.协调,和谐;融洽"
+  },
+  {
+    "word": "harness",
+    "meaning": "v.治理,利用 n.马具,挽具"
+  },
+  {
+    "word": "harsh",
+    "meaning": "a.粗糙的；(声音)刺耳的；苛刻的，严酷的"
+  },
+  {
+    "word": "harvest",
+    "meaning": "n.收获,收成;成果,后果 v.收获,收割"
+  },
+  {
+    "word": "haste",
+    "meaning": "n.匆忙,急速;草率 v.赶快;匆忙"
+  },
+  {
+    "word": "hasty",
+    "meaning": "a.匆忙的,仓促的;草率的"
+  },
+  {
+    "word": "hat",
+    "meaning": "n.帽子(一般指有边的帽子)"
+  },
+  {
+    "word": "hatch",
+    "meaning": "v.孵,孵出;策划,图谋 n.舱口,小门"
+  },
+  {
+    "word": "hate",
+    "meaning": "v.恨,憎恨;不愿,不喜欢 n.恨,憎恶"
+  },
+  {
+    "word": "hatred",
+    "meaning": "n.憎恨,憎恶,怨恨"
+  },
+  {
+    "word": "haul",
+    "meaning": "v.拖曳,拖运,用力拖"
+  },
+  {
+    "word": "have",
+    "meaning": "v.有，具有；体会，经受；从事；使；吃，喝"
+  },
+  {
+    "word": "hawk",
+    "meaning": "n.鹰,隼"
+  },
+  {
+    "word": "hay",
+    "meaning": "n.干草"
+  },
+  {
+    "word": "hazard",
+    "meaning": "n.危险,冒险,危害 v.冒险,拼命"
+  },
+  {
+    "word": "he",
+    "meaning": "pron.他；(不论性别的)一个人"
+  },
+  {
+    "word": "head",
+    "meaning": "n.头；顶部；领导,首脑 v.主管；位于..顶部"
+  },
+  {
+    "word": "headache",
+    "meaning": "n.头痛"
+  },
+  {
+    "word": "heading",
+    "meaning": "n.标题"
+  },
+  {
+    "word": "headline",
+    "meaning": "n.大字标题,新闻标题"
+  },
+  {
+    "word": "headmaster",
+    "meaning": "n.校长"
+  },
+  {
+    "word": "headquarters",
+    "meaning": "n.司令部,指挥部;总部,总局"
+  },
+  {
+    "word": "heal",
+    "meaning": "v.治愈,愈合"
+  },
+  {
+    "word": "health",
+    "meaning": "n.健康,健康状况;卫生"
+  },
+  {
+    "word": "healthy",
+    "meaning": "a.健康的,健壮的;有益健康的,卫生的"
+  },
+  {
+    "word": "heap",
+    "meaning": "n.(一)堆,大量,许多 v.(up)堆,堆起"
+  },
+  {
+    "word": "hear",
+    "meaning": "v.听见；审讯；(from)收到..的信/电话;听说"
+  },
+  {
+    "word": "hearing",
+    "meaning": "n.听,倾听;听力;审讯"
+  },
+  {
+    "word": "heart",
+    "meaning": "n.心(脏)；内心，感情；热忱；中心，要点"
+  },
+  {
+    "word": "heat",
+    "meaning": "n.热,热度;热烈,激烈 v.(给)加热,(使)变热"
+  },
+  {
+    "word": "heave",
+    "meaning": "v.(用力)举，提，拉；扔；拖；呕吐n.举起"
+  },
+  {
+    "word": "heaven",
+    "meaning": "n.天,天空,天堂;(Heaven)上帝,神"
+  },
+  {
+    "word": "heavy",
+    "meaning": "a.重的,重型的;沉重的,大量的,猛烈的"
+  },
+  {
+    "word": "hedge",
+    "meaning": "n.篱笆,树篱,障碍物 v.用树篱围住"
+  },
+  {
+    "word": "heel",
+    "meaning": "n.脚后跟,踵,鞋跟"
+  },
+  {
+    "word": "height",
+    "meaning": "n.高,高度;(常pl.)高地,高处"
+  },
+  {
+    "word": "heighten",
+    "meaning": "v.提高,升高"
+  },
+  {
+    "word": "heir",
+    "meaning": "n.继承人"
+  },
+  {
+    "word": "helicopter",
+    "meaning": "n.直升(飞)机"
+  },
+  {
+    "word": "hell",
+    "meaning": "n.地狱,阴间;苦境,极大痛苦"
+  },
+  {
+    "word": "hello",
+    "meaning": "int.英(美)喂,你好(用来打招呼或引起注意)"
+  },
+  {
+    "word": "helmet",
+    "meaning": "n.头盔,钢盔"
+  },
+  {
+    "word": "help",
+    "meaning": "v.帮(援)助；有助于；[呼救]救命n.帮助(手)"
+  },
+  {
+    "word": "helpful",
+    "meaning": "a.(to)有帮助的,有益的,有用的"
+  },
+  {
+    "word": "hemisphere",
+    "meaning": "n.半球"
+  },
+  {
+    "word": "hen",
+    "meaning": "n.母鸡"
+  },
+  {
+    "word": "hence",
+    "meaning": "ad.从此,今后;因此"
+  },
+  {
+    "word": "henceforth",
+    "meaning": "ad.今后"
+  },
+  {
+    "word": "her",
+    "meaning": "pron.[she的宾格]她；[she的所有格]她的"
+  },
+  {
+    "word": "herb",
+    "meaning": "n.药草，(调味用的)香草，草本植物"
+  },
+  {
+    "word": "herd",
+    "meaning": "n.群,兽群,牛群 v.放牧,群集"
+  },
+  {
+    "word": "here",
+    "meaning": "ad.在(到，向)这里；这时；在这一点上"
+  },
+  {
+    "word": "heritage",
+    "meaning": "n.遗产,继承物;传统"
+  },
+  {
+    "word": "hero",
+    "meaning": "n.英雄，勇士；男主角，男主人公"
+  },
+  {
+    "word": "heroic",
+    "meaning": "a.英雄的，英勇的，崇高的"
+  },
+  {
+    "word": "heroin",
+    "meaning": "n.海洛因"
+  },
+  {
+    "word": "heroine",
+    "meaning": "n.女英雄;女主角"
+  },
+  {
+    "word": "hers",
+    "meaning": "pron.[she的物主代词]她的(所有物)"
+  },
+  {
+    "word": "herself",
+    "meaning": "pron.[反身代词]她自己；她亲自，她本人"
+  },
+  {
+    "word": "hesitate",
+    "meaning": "v.犹豫,踌躇;含糊,支吾"
+  },
+  {
+    "word": "hi",
+    "meaning": "interj.(hey)嗨!喂!"
+  },
+  {
+    "word": "hide",
+    "meaning": "v.隐藏,躲藏;隐瞒 n.皮革,兽皮"
+  },
+  {
+    "word": "hierarchy",
+    "meaning": "n.等级制度；统治集团，领导层"
+  },
+  {
+    "word": "high",
+    "meaning": "a.高的，高度的，高级的，高尚的 ad.高高地"
+  },
+  {
+    "word": "highland",
+    "meaning": "n. 高地,高原"
+  },
+  {
+    "word": "highlight",
+    "meaning": "v.使显著,使突出;强调 n.最精彩的部分"
+  },
+  {
+    "word": "highly",
+    "meaning": "ad.高度地,很,非常;赞许地"
+  },
+  {
+    "word": "highway",
+    "meaning": "n.公路,大路"
+  },
+  {
+    "word": "hijack",
+    "meaning": "v.劫持，劫机，拦路抢劫"
+  },
+  {
+    "word": "hike",
+    "meaning": "n.徒步旅行；增加vi.徒步旅行vt.提高"
+  },
+  {
+    "word": "hill",
+    "meaning": "n.小山，山岗，高地；[pl.]丘陵(地带)"
+  },
+  {
+    "word": "him",
+    "meaning": "pron.他(he的宾格形式)"
+  },
+  {
+    "word": "himself",
+    "meaning": "pron.[反身代词]他自己；他本人"
+  },
+  {
+    "word": "hinder",
+    "meaning": "v.(from)阻止,妨碍 a.后面的"
+  },
+  {
+    "word": "hinge",
+    "meaning": "n.合页,铰链 vi.依…而定"
+  },
+  {
+    "word": "hint",
+    "meaning": "n.暗示,提示,线索 v.暗示,示意"
+  },
+  {
+    "word": "hip",
+    "meaning": "n.臀部，髋；屋脊"
+  },
+  {
+    "word": "hire",
+    "meaning": "n./v.雇用,租借"
+  },
+  {
+    "word": "his",
+    "meaning": "pron.[he的所有格/物主代词]他的(所有物)"
+  },
+  {
+    "word": "historian",
+    "meaning": "n.历史学家"
+  },
+  {
+    "word": "historic",
+    "meaning": "a.有历史意义的;历史的"
+  },
+  {
+    "word": "historical",
+    "meaning": "a.历史的;有关历史的"
+  },
+  {
+    "word": "history",
+    "meaning": "n.历史,历史学;来历,经历"
+  },
+  {
+    "word": "hit",
+    "meaning": "v.打,击;碰撞 n.击中;成功而风行一时的事物"
+  },
+  {
+    "word": "hitherto",
+    "meaning": "ad.到目前为止,迄今"
+  },
+  {
+    "word": "hobby",
+    "meaning": "n.业余爱好,嗜好,兴趣"
+  },
+  {
+    "word": "hoist",
+    "meaning": "v.举起,升起,吊起"
+  },
+  {
+    "word": "hold",
+    "meaning": "v.拿着;保有;托住;举行;继续 n.握住;船舱"
+  },
+  {
+    "word": "holder",
+    "meaning": "n.持有者,占有者;(台,架等)支持物"
+  },
+  {
+    "word": "hole",
+    "meaning": "n.洞,孔"
+  },
+  {
+    "word": "holiday",
+    "meaning": "n.假日,节日,假期,休假"
+  },
+  {
+    "word": "hollow",
+    "meaning": "a.空的,中空的;空洞的,空虚的 v.挖空,凿空"
+  },
+  {
+    "word": "holy",
+    "meaning": "a.神圣的,圣洁的"
+  },
+  {
+    "word": "home",
+    "meaning": "ad.回家,在家 n.家；家乡a.家庭的；家乡的"
+  },
+  {
+    "word": "homework",
+    "meaning": "n.(学生的)家庭作业、课外人员"
+  },
+  {
+    "word": "homogeneous",
+    "meaning": "a.同种类的，同性质的，有相同特征的"
+  },
+  {
+    "word": "honest",
+    "meaning": "a.诚实的,正直的,老实的"
+  },
+  {
+    "word": "honey",
+    "meaning": "n.蜜,蜂蜜"
+  },
+  {
+    "word": "honor",
+    "meaning": "n.(honour)尊敬,敬意;荣誉,光荣 v.尊敬"
+  },
+  {
+    "word": "honorable",
+    "meaning": "a.(honourable)可敬的;荣誉的,光荣的"
+  },
+  {
+    "word": "hook",
+    "meaning": "n.钩,吊钩,钩状物 v.钩住"
+  },
+  {
+    "word": "hop",
+    "meaning": "v.人单足跳;跳上(车等) n.蹦跳;短程飞行"
+  },
+  {
+    "word": "hope",
+    "meaning": "n.希望，期望；希望的人或事 v.希望，期望"
+  },
+  {
+    "word": "hopeful",
+    "meaning": "a.给人希望的，抱有希望的"
+  },
+  {
+    "word": "horizon",
+    "meaning": "n.地平线;眼界,见识"
+  },
+  {
+    "word": "horizontal",
+    "meaning": "a.地平线的;水平的"
+  },
+  {
+    "word": "horn",
+    "meaning": "n.(牛羊等的)角;号,喇叭;角状物;角制品"
+  },
+  {
+    "word": "horrible",
+    "meaning": "a.令人恐惧的，可怕的；极讨厌的，糟透的"
+  },
+  {
+    "word": "horror",
+    "meaning": "n.恐怖,战栗"
+  },
+  {
+    "word": "horse",
+    "meaning": "n.马；跳马，鞍马 v.骑马"
+  },
+  {
+    "word": "horsepower",
+    "meaning": "n.[机]马力"
+  },
+  {
+    "word": "hose",
+    "meaning": "n.水龙带,软管 v.用软管(淋浇,冲洗)"
+  },
+  {
+    "word": "hospital",
+    "meaning": "n.医院"
+  },
+  {
+    "word": "hospitality",
+    "meaning": "n.好客,殷勤,款待"
+  },
+  {
+    "word": "host",
+    "meaning": "n.主人;旅店老板;节目主持人;一大群,许多"
+  },
+  {
+    "word": "hostage",
+    "meaning": "n.人质"
+  },
+  {
+    "word": "hostess",
+    "meaning": "n.女主人,女主持人"
+  },
+  {
+    "word": "hostile",
+    "meaning": "a.敌对的,敌方的,敌意的"
+  },
+  {
+    "word": "hot",
+    "meaning": "a.(炎)热的；辣的；急躁的；激动的；热衷的"
+  },
+  {
+    "word": "hotel",
+    "meaning": "n.旅馆"
+  },
+  {
+    "word": "hound",
+    "meaning": "n.猎狗；卑鄙的人 vt.用猎狗追，追逐"
+  },
+  {
+    "word": "hour",
+    "meaning": "n.小时，钟点；时刻；课时，工作时间"
+  },
+  {
+    "word": "house",
+    "meaning": "n.房屋；商业机构；[H-]议院 v.给...房子住"
+  },
+  {
+    "word": "household",
+    "meaning": "n.家庭，家人 a.家庭(务)的，家常的"
+  },
+  {
+    "word": "housewife",
+    "meaning": "n.家庭主妇"
+  },
+  {
+    "word": "housework",
+    "meaning": "n.家务，家事(不可数)"
+  },
+  {
+    "word": "housing",
+    "meaning": "n.住房，住房供给；(外、阀)壳，防护罩"
+  },
+  {
+    "word": "hover",
+    "meaning": "vi.(鸟)盘旋，翱翔，(人)逗留在附近徘徊"
+  },
+  {
+    "word": "how",
+    "meaning": "ad.1.(表示方法、手段、状态)怎样；如何"
+  },
+  {
+    "word": "however",
+    "meaning": "ad.然而，可是，不过，无论如何 conj.无论"
+  },
+  {
+    "word": "howl",
+    "meaning": "n.怒吼，嗥叫 vi.(风等)怒吼，咆哮"
+  },
+  {
+    "word": "huddle",
+    "meaning": "n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团"
+  },
+  {
+    "word": "hug",
+    "meaning": "v./n.热烈拥抱,紧抱"
+  },
+  {
+    "word": "huge",
+    "meaning": "a.巨大的,庞大的"
+  },
+  {
+    "word": "hum",
+    "meaning": "v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声"
+  },
+  {
+    "word": "human",
+    "meaning": "a.人的,人类的 n.人"
+  },
+  {
+    "word": "humanity",
+    "meaning": "n.人类,人性,人情;(pl.)人文科学"
+  },
+  {
+    "word": "humble",
+    "meaning": "a.谦卑的,恭顺的;地位低下的 v.降低,贬低"
+  },
+  {
+    "word": "humid",
+    "meaning": "a.湿的,湿气重的"
+  },
+  {
+    "word": "humidity",
+    "meaning": "n.湿气,湿度"
+  },
+  {
+    "word": "humiliate",
+    "meaning": "v.使羞辱，使丢脸[同]disgrace"
+  },
+  {
+    "word": "humor",
+    "meaning": "n.(humour)幽默,诙谐"
+  },
+  {
+    "word": "humorous",
+    "meaning": "a.富于幽默感的，幽默的；滑稽的"
+  },
+  {
+    "word": "hundred",
+    "meaning": "num.百，一百；[pl.]许多 a.一百的；许多"
+  },
+  {
+    "word": "hunger",
+    "meaning": "n./v.饥饿;渴望"
+  },
+  {
+    "word": "hungry",
+    "meaning": "a.饥饿的,渴望的"
+  },
+  {
+    "word": "hunt",
+    "meaning": "v./n.打猎,猎取;(for)搜索;寻找"
+  },
+  {
+    "word": "hurl",
+    "meaning": "vt.猛投，力掷；大声叫骂"
+  },
+  {
+    "word": "hurricane",
+    "meaning": "n.飓风"
+  },
+  {
+    "word": "hurry",
+    "meaning": "vi.匆忙 vt.催促;急运(派) n.急(匆)忙"
+  },
+  {
+    "word": "hurt",
+    "meaning": "n.伤痛,伤害 v.刺痛,伤害;伤…的感情"
+  },
+  {
+    "word": "husband",
+    "meaning": "n.丈夫"
+  },
+  {
+    "word": "hut",
+    "meaning": "n.小屋,棚屋"
+  },
+  {
+    "word": "hydrogen",
+    "meaning": "n.氢"
+  },
+  {
+    "word": "hypocrisy",
+    "meaning": "n.伪善，虚伪"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "n.假说,假设,前提"
+  },
+  {
+    "word": "hysterical",
+    "meaning": "a.情绪异常激动的,歇斯底里的"
+  }
+]

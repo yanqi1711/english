@@ -1,0 +1,1470 @@
+[
+  {
+    "word": "a",
+    "meaning": "art.一(个)；每一(个)；(同类事物中)任一个"
+  },
+  {
+    "word": "abandon",
+    "meaning": "vt.离弃，丢弃；遗弃，抛弃；放弃"
+  },
+  {
+    "word": "abdomen",
+    "meaning": "n.腹，下腹(胸部到腿部的部分)"
+  },
+  {
+    "word": "abide",
+    "meaning": "vi.(abode，abided)(by)遵守；坚持"
+  },
+  {
+    "word": "ability",
+    "meaning": "n.能力；本领；才能，才干；专门技能，天资"
+  },
+  {
+    "word": "able",
+    "meaning": "a.有(能力、时间、知识等)做某事，有本事的"
+  },
+  {
+    "word": "abnormal",
+    "meaning": "a.反常的，不正常的，不规则的"
+  },
+  {
+    "word": "aboard",
+    "meaning": "ad.&prep.在船(飞机、车)上；ad.上船(飞机)"
+  },
+  {
+    "word": "abolish",
+    "meaning": "vt.废除(法律、习惯等)；取消"
+  },
+  {
+    "word": "abound",
+    "meaning": "vi.大量存在；(in，with)充满，富于"
+  },
+  {
+    "word": "about",
+    "meaning": "ad.在周围；大约 prep.关于；在周围 a.准备"
+  },
+  {
+    "word": "above",
+    "meaning": "a.上述的 ad.在上面  prep.在..之上，高于"
+  },
+  {
+    "word": "abroad",
+    "meaning": "ad.到国外，在国外；在传播，在流传"
+  },
+  {
+    "word": "abrupt",
+    "meaning": "a.突然的，出其不意的；(行为等)粗鲁无礼的"
+  },
+  {
+    "word": "absence",
+    "meaning": "n.缺乏，不存在；缺席，不在；缺席的时间"
+  },
+  {
+    "word": "absent",
+    "meaning": "a.缺席的；缺乏的,不存在的;心不在焉的"
+  },
+  {
+    "word": "absolute",
+    "meaning": "a.绝对的，完全的；确实的，肯定的"
+  },
+  {
+    "word": "absorb",
+    "meaning": "vt.吸收(水、光、蒸汽等）；使全神贯注"
+  },
+  {
+    "word": "abstract",
+    "meaning": "a.抽象的 n.摘要，梗概 vt.提取；摘录要点"
+  },
+  {
+    "word": "absurd",
+    "meaning": "a.荒谬的，荒诞的，荒唐可笑的；不合理的"
+  },
+  {
+    "word": "abundance",
+    "meaning": "n.丰富，充裕，大量"
+  },
+  {
+    "word": "abundant",
+    "meaning": "a.大量(充足)的；(in)丰富(富裕)的"
+  },
+  {
+    "word": "abuse",
+    "meaning": "vt.滥用；辱骂；诋毁 n.滥用；恶习；弊端"
+  },
+  {
+    "word": "academic",
+    "meaning": "a.学院的，大学的；学术性的；理论的"
+  },
+  {
+    "word": "academy",
+    "meaning": "n.(高等)专科院校；学术社团，协会，研究院"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "v.使加速，使增速，促进 vi.加快，增加"
+  },
+  {
+    "word": "accent",
+    "meaning": "n.口音,腔调；重音(符号)vt.重读"
+  },
+  {
+    "word": "accept",
+    "meaning": "vt.接受，领受；认可，同意 vi.同意，认可"
+  },
+  {
+    "word": "acceptance",
+    "meaning": "n.接受，接收，验收，接纳；承认，认可"
+  },
+  {
+    "word": "access",
+    "meaning": "n.进入；接入；到达；享用权；入口 vi.存取"
+  },
+  {
+    "word": "accessory",
+    "meaning": "n.附件,附属品;(为全套衣服增加美感的)服饰"
+  },
+  {
+    "word": "accident",
+    "meaning": "n.意外遭遇,事故；意外(因素)"
+  },
+  {
+    "word": "accidental",
+    "meaning": "a.偶然的；意外的；无意中的"
+  },
+  {
+    "word": "acclaim",
+    "meaning": "v.向…欢呼，公认 n.欢呼，喝彩，称赞"
+  },
+  {
+    "word": "accommodate",
+    "meaning": "vt.向…提供住处；对...予以照顾性考虑"
+  },
+  {
+    "word": "accommodation",
+    "meaning": "n.(accommodations)住宿，留宿；膳宿供应"
+  },
+  {
+    "word": "accompany",
+    "meaning": "v.陪伴，陪同；伴随，和...一起发生，伴奏"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "v.实现(计划等)；达到(目的)；完成(任务)"
+  },
+  {
+    "word": "accord",
+    "meaning": "vt.给予(欢迎、称颂等) vi.&n.符合，一致"
+  },
+  {
+    "word": "accordance",
+    "meaning": "n.一致，和谐，符合"
+  },
+  {
+    "word": "according to",
+    "meaning": "prep.据/照…(所说、所写)；按…，视…"
+  },
+  {
+    "word": "accordingly",
+    "meaning": "ad.相应地，照着办，按照；于是，因此"
+  },
+  {
+    "word": "account",
+    "meaning": "a.叙述，说明；账目，账户 vi.说明，解释"
+  },
+  {
+    "word": "accountant",
+    "meaning": "n.会计人员，会计师"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "vt.堆积，积累，积聚vi.累积，聚积"
+  },
+  {
+    "word": "accuracy",
+    "meaning": "n.准确（性）；精确；准确度"
+  },
+  {
+    "word": "accurate",
+    "meaning": "a.正确无误的；准确的，精确的"
+  },
+  {
+    "word": "accuse",
+    "meaning": "vt.控告，指责 vi.指控，指责"
+  },
+  {
+    "word": "accustomed",
+    "meaning": "a.惯常的；习惯的，适应的(一般作表语)"
+  },
+  {
+    "word": "ache",
+    "meaning": "vi.痛；哀怜 n.(指连续)疼痛、酸痛"
+  },
+  {
+    "word": "achieve",
+    "meaning": "vt.实现，完成；达到，得到vi.达到预期目的"
+  },
+  {
+    "word": "acid",
+    "meaning": "n.酸,酸性物质a.酸的,酸味的；尖刻的"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "vt.承认；接受；告知(信件等的)收到；答谢"
+  },
+  {
+    "word": "acquaint",
+    "meaning": "vt.(with)使认识，使了解，使熟悉"
+  },
+  {
+    "word": "acquaintance",
+    "meaning": "n.认识，相识，了解；相识的人，熟人"
+  },
+  {
+    "word": "acquire",
+    "meaning": "v.获得；学到(知识等)；养成(习惯)"
+  },
+  {
+    "word": "acquisition",
+    "meaning": "n.取得，学到，养成(习惯)；获得的东西"
+  },
+  {
+    "word": "acre",
+    "meaning": "n.英亩；田地；地产"
+  },
+  {
+    "word": "acrobat",
+    "meaning": "n.特技演员，杂技演员"
+  },
+  {
+    "word": "across",
+    "meaning": "prep.横过，越过；在的对面 ad.横过，穿过"
+  },
+  {
+    "word": "act",
+    "meaning": "v.表演；举动；起作用 n.行为，法令；一幕"
+  },
+  {
+    "word": "action",
+    "meaning": "n.行动，动作；作用；运转；行为；战斗"
+  },
+  {
+    "word": "activate",
+    "meaning": "vt.启动，激活；驱动，驱使；使开始起作用"
+  },
+  {
+    "word": "active",
+    "meaning": "adj.活跃的，敏捷的，积极的；在活动中的"
+  },
+  {
+    "word": "activity",
+    "meaning": "n.活动；活力；能动性；"
+  },
+  {
+    "word": "actor",
+    "meaning": "n.男演员；演员，行动者"
+  },
+  {
+    "word": "actress",
+    "meaning": "n.女演员"
+  },
+  {
+    "word": "actual",
+    "meaning": "a.实际的；现实的，真实的，目前的"
+  },
+  {
+    "word": "acute",
+    "meaning": "a.剧烈的；敏锐的；成锐角的；尖的，高音的"
+  },
+  {
+    "word": "adapt",
+    "meaning": "vt.使适应，使适合；改编；改写 vi.适应"
+  },
+  {
+    "word": "add",
+    "meaning": "vt.加；增加(进)；进一步说/写 vi.(to)增添"
+  },
+  {
+    "word": "addict",
+    "meaning": "v.使沉溺；使上瘾 n.沉溺于不良嗜好的人"
+  },
+  {
+    "word": "addition",
+    "meaning": "n.加，加法；附加部分，增加(物)"
+  },
+  {
+    "word": "additional",
+    "meaning": "a.额外的，附加的，另外的"
+  },
+  {
+    "word": "address",
+    "meaning": "n.住址；致词 v.向...致词；在信封上写姓名"
+  },
+  {
+    "word": "adequate",
+    "meaning": "adj.充足的，足够的；适当的，胜任的"
+  },
+  {
+    "word": "adhere",
+    "meaning": "vi.(to)粘着；坚持，遵守；依附，追随"
+  },
+  {
+    "word": "adjacent",
+    "meaning": "a.(to)(时间上)紧接着的；邻近的，毗邻的"
+  },
+  {
+    "word": "adjective",
+    "meaning": "n.形容词 a.形容词的，用作形容词的"
+  },
+  {
+    "word": "adjoin",
+    "meaning": "v.临近，靠近；贴近，毗连"
+  },
+  {
+    "word": "adjust",
+    "meaning": "vt.调节；整顿，调整 vi.适应(to)；使调节"
+  },
+  {
+    "word": "administer",
+    "meaning": "v.施行，实施；掌管，料理...的事务；给予"
+  },
+  {
+    "word": "administration",
+    "meaning": "n.经营，管理；行政，行政机关，管理部门"
+  },
+  {
+    "word": "admire",
+    "meaning": "vt.钦佩,赞赏,羡慕；称赞,夸奖"
+  },
+  {
+    "word": "admission",
+    "meaning": "n.允许进入；承认；入场费，入会费，入场券"
+  },
+  {
+    "word": "admit",
+    "meaning": "vt.承认，供认；准许…进入，准许...加入"
+  },
+  {
+    "word": "adolescent",
+    "meaning": "n.青少年  a.青春期的，青少年的"
+  },
+  {
+    "word": "adopt",
+    "meaning": "vt.采用，采取(态度等)；选定；收养"
+  },
+  {
+    "word": "adore",
+    "meaning": "vt.崇拜,敬慕,爱慕；非常喜欢"
+  },
+  {
+    "word": "adult",
+    "meaning": "n.成年人 a.成年的，充分长成的，成熟的"
+  },
+  {
+    "word": "advance",
+    "meaning": "n.前进，预付 vi.前进，进展 vt.促进，推进"
+  },
+  {
+    "word": "advanced",
+    "meaning": "a.超前的，先进的；高级的；开明的；前进的"
+  },
+  {
+    "word": "advantage",
+    "meaning": "n.优点，长处，有利条件；利益，好处"
+  },
+  {
+    "word": "advent",
+    "meaning": "n.(重要事件等的)到来，来临"
+  },
+  {
+    "word": "adventure",
+    "meaning": "n.冒险，冒险活动，奇遇 vt.大胆进行"
+  },
+  {
+    "word": "adverb",
+    "meaning": "n.副词 a.副词的"
+  },
+  {
+    "word": "adverse",
+    "meaning": "a.逆的，相反的；敌对的；不利的；有害的"
+  },
+  {
+    "word": "advertise",
+    "meaning": "vt.公告，公布；为...做广告 vi.登广告"
+  },
+  {
+    "word": "advice",
+    "meaning": "n.劝告，忠告，(医生等的)意见"
+  },
+  {
+    "word": "advisable",
+    "meaning": "a.可取的，适当的，明智的"
+  },
+  {
+    "word": "advise",
+    "meaning": "vt.忠告，劝告，建议；通知，告知"
+  },
+  {
+    "word": "advocate",
+    "meaning": "n.辩护者，拥护者，鼓吹者 vt.拥护，提倡"
+  },
+  {
+    "word": "aerial",
+    "meaning": "a.(在或来自)空中的，航空的 n.天线"
+  },
+  {
+    "word": "aeroplane",
+    "meaning": "n.(airplane)(英)飞机"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": "a.(esthetic)美学的，艺术的；审美的"
+  },
+  {
+    "word": "affair",
+    "meaning": "n.[pl.]事务；事情(件)；(个人的)事"
+  },
+  {
+    "word": "affect",
+    "meaning": "vt.影响；(疾病)侵袭；感动 n.情感，感情"
+  },
+  {
+    "word": "affection",
+    "meaning": "n.爱，喜爱；爱慕之情；感情；疾病，不适"
+  },
+  {
+    "word": "affiliate",
+    "meaning": "v.使隶属(或附属)于 n.附属机构，分公司"
+  },
+  {
+    "word": "affirm",
+    "meaning": "vt.断言，坚持声称；肯定；证实,确认；"
+  },
+  {
+    "word": "affluent",
+    "meaning": "a.富裕的，富有的，丰富的，富饶的"
+  },
+  {
+    "word": "afford",
+    "meaning": "vt.担负得起(损失、费用、后果等)，买得起"
+  },
+  {
+    "word": "afraid",
+    "meaning": "adj.害怕的，恐惧的；犯愁的，不乐意的"
+  },
+  {
+    "word": "after",
+    "meaning": "prep.在...以后；在...后面 adv.以后，后来"
+  },
+  {
+    "word": "afternoon",
+    "meaning": "n.下午，午后"
+  },
+  {
+    "word": "afterward",
+    "meaning": "ad.(afterwards)以后，后来"
+  },
+  {
+    "word": "again",
+    "meaning": "ad.再次，另一次；重新；除此，再，更，还"
+  },
+  {
+    "word": "against",
+    "meaning": "prep.对着，逆；反对；违反；紧靠着；对比"
+  },
+  {
+    "word": "age",
+    "meaning": "n.年龄；时代；老年；长时间 v.(使)变老"
+  },
+  {
+    "word": "agency",
+    "meaning": "n.代理(处)；代办处；[美](政府的)机关，厅"
+  },
+  {
+    "word": "agenda",
+    "meaning": "n.议事日程，记事册"
+  },
+  {
+    "word": "agent",
+    "meaning": "n.代理人；代理商；产生作用的人或事物"
+  },
+  {
+    "word": "aggravate",
+    "meaning": "vt.加重(剧),使恶化；激怒,使恼火"
+  },
+  {
+    "word": "aggressive",
+    "meaning": "a.侵略的，好斗的，有进取心的，敢作敢为的"
+  },
+  {
+    "word": "agitate",
+    "meaning": "v.摇动(液体)；使焦虑不安；困扰；鼓动"
+  },
+  {
+    "word": "ago",
+    "meaning": "ad.(常和一般过去时的动词连用)以前，…前"
+  },
+  {
+    "word": "agony",
+    "meaning": "n.(精神或肉体的)极大痛苦，创伤"
+  },
+  {
+    "word": "agree",
+    "meaning": "vi.答应，赞同；适合，一致；商定，约定"
+  },
+  {
+    "word": "agreeable",
+    "meaning": "a.符合的；一致的；欣然同意的；令人愉快的"
+  },
+  {
+    "word": "agreement",
+    "meaning": "n.协定；协议；契约；达成协议；同意，一致"
+  },
+  {
+    "word": "agriculture",
+    "meaning": "n.农业，农艺，农耕"
+  },
+  {
+    "word": "ahead",
+    "meaning": "ad.在前面(头)；向(朝)前；提前"
+  },
+  {
+    "word": "Aid",
+    "meaning": "n.援助，救护；助手，辅助物 vi.援助，救援"
+  },
+  {
+    "word": "Aim",
+    "meaning": "n.目的；瞄准 vi.(at)目的在于 vt.把…瞄准"
+  },
+  {
+    "word": "Air",
+    "meaning": "n.空气；(复数)神气 vt.(使)通风；晾干"
+  },
+  {
+    "word": "air-conditioning",
+    "meaning": "n.空调设备，空调系统"
+  },
+  {
+    "word": "aircraft",
+    "meaning": "n.飞机，飞船，飞行器"
+  },
+  {
+    "word": "airline",
+    "meaning": "n.(飞机)航线  a.(飞机)航线的"
+  },
+  {
+    "word": "airport",
+    "meaning": "n.机场，航空站，航空港"
+  },
+  {
+    "word": "Aisle",
+    "meaning": "n.(教堂、教室、戏院等里的)过道，通道"
+  },
+  {
+    "word": "alarm",
+    "meaning": "n.惊恐；警报(器) vt.惊动，惊吓；向…报警"
+  },
+  {
+    "word": "album",
+    "meaning": "n.(同一表演者的)集锦密纹唱片;集邮册,相册"
+  },
+  {
+    "word": "alcohol",
+    "meaning": "n.酒精，乙醇；含酒精的饮料"
+  },
+  {
+    "word": "Alert",
+    "meaning": "a.机警的，警觉的；机灵的 vt.使…警觉"
+  },
+  {
+    "word": "Alien",
+    "meaning": "n.外侨，外国人；外星人 a.外国的；相异的"
+  },
+  {
+    "word": "Alike",
+    "meaning": "a.同样的，相像的ad.一样地；同程度地"
+  },
+  {
+    "word": "Alive",
+    "meaning": "a.活着的；存在的；活跃的；(to)敏感的"
+  },
+  {
+    "word": "All",
+    "meaning": "a.全部的；非常的 ad.完全地，很 pron.全部"
+  },
+  {
+    "word": "allege",
+    "meaning": "v.断言，宣称；指控"
+  },
+  {
+    "word": "alleviate",
+    "meaning": "v.减轻，缓和，缓解(痛苦等)"
+  },
+  {
+    "word": "alliance",
+    "meaning": "n.同盟，同盟国；结盟，联姻"
+  },
+  {
+    "word": "allocate",
+    "meaning": "v.分配，分派；拨给；划归"
+  },
+  {
+    "word": "Allow",
+    "meaning": "vt.允许，准许；承认；给予；(for)考虑到"
+  },
+  {
+    "word": "allowance",
+    "meaning": "n.补贴，津贴；零用钱；减价，折扣；允许"
+  },
+  {
+    "word": "Alloy",
+    "meaning": "n.合金vt.将…铸成合金"
+  },
+  {
+    "word": "Ally",
+    "meaning": "n.同盟者，同盟国，vt.使结盟；与…有关联"
+  },
+  {
+    "word": "almost",
+    "meaning": "adv.几乎，差不多"
+  },
+  {
+    "word": "alone",
+    "meaning": "a.单独的，孤独的 ad.单独地，独自地；仅仅"
+  },
+  {
+    "word": "along",
+    "meaning": "ad.向前；和...一起，一同 prep.沿着，顺着"
+  },
+  {
+    "word": "alongside",
+    "meaning": "ad.在旁边 prep.和...在一起；在...旁边"
+  },
+  {
+    "word": "aloud",
+    "meaning": "adv.出声地，大声地"
+  },
+  {
+    "word": "alphabet",
+    "meaning": "n.字母表；初步，入门"
+  },
+  {
+    "word": "already",
+    "meaning": "ad.已，已经，早已"
+  },
+  {
+    "word": "Also",
+    "meaning": "ad.而且(也)，此外(还)；同样地"
+  },
+  {
+    "word": "Alter",
+    "meaning": "vt.改变，更改；改做(衣服) vi.改变，变化"
+  },
+  {
+    "word": "alternate",
+    "meaning": "a.交替的，轮流的 v.(使)交替，(使)轮流"
+  },
+  {
+    "word": "alternative",
+    "meaning": "n.二选一；供选择的东西；取舍 a.二选一的"
+  },
+  {
+    "word": "although",
+    "meaning": "conj.尽管，虽然...但是"
+  },
+  {
+    "word": "altitude",
+    "meaning": "n.高度，海拔；[pl.]高处，高地"
+  },
+  {
+    "word": "altogether",
+    "meaning": "ad.完全，总之，全部地；总共；总而言之"
+  },
+  {
+    "word": "aluminum",
+    "meaning": "n.(aluminium)铝"
+  },
+  {
+    "word": "always",
+    "meaning": "ad.总是，无例外地；永远，始终"
+  },
+  {
+    "word": "amateur",
+    "meaning": "a.&n.业余(水平)的(运动员、艺术家等)"
+  },
+  {
+    "word": "amaze",
+    "meaning": "vt.使惊奇，使惊愕；使困惑 vi.表现出惊奇"
+  },
+  {
+    "word": "ambassador",
+    "meaning": "n.大使；特使，(派驻国际组织的)代表"
+  },
+  {
+    "word": "ambiguous",
+    "meaning": "a.引起歧义的，模棱两可的，含糊不清的"
+  },
+  {
+    "word": "ambition",
+    "meaning": "n.对(成功、权力等)的强烈欲望，野心；雄心"
+  },
+  {
+    "word": "ambitious",
+    "meaning": "a.有抱负的，雄心勃勃的；有野心的"
+  },
+  {
+    "word": "ambulance",
+    "meaning": "n.救护车，救护船，救护飞机"
+  },
+  {
+    "word": "amend",
+    "meaning": "vt.修改，修订，改进"
+  },
+  {
+    "word": "amiable",
+    "meaning": "a.和蔼可亲的，友善的，亲切的"
+  },
+  {
+    "word": "Amid",
+    "meaning": "prep.在…中间，在…之中，被…围绕"
+  },
+  {
+    "word": "among",
+    "meaning": "prep.在…之中；在一群(组)之中；于…之间"
+  },
+  {
+    "word": "amount",
+    "meaning": "n.总数，数量；数额 v.共计；等同,接近(to)"
+  },
+  {
+    "word": "ample",
+    "meaning": "a.充分的，富裕的；宽敞的，宽大的"
+  },
+  {
+    "word": "amplifier",
+    "meaning": "n.放大器，扩大器"
+  },
+  {
+    "word": "amplify",
+    "meaning": "vt.放大，增强；详述，详加解说"
+  },
+  {
+    "word": "amuse",
+    "meaning": "vt.向…提供娱乐，使…消遣；引人发笑"
+  },
+  {
+    "word": "analogue",
+    "meaning": "n.类似物；相似体；模拟"
+  },
+  {
+    "word": "analogy",
+    "meaning": "n.类似，相似，类比，类推"
+  },
+  {
+    "word": "analyse",
+    "meaning": "vt.（analyze）分析，分解"
+  },
+  {
+    "word": "analysis",
+    "meaning": "n.(pl.analyses)分析；分解"
+  },
+  {
+    "word": "analytic",
+    "meaning": "a.(analytical)分析的；分解的"
+  },
+  {
+    "word": "ancestor",
+    "meaning": "n.祖宗，祖先；原型，先驱"
+  },
+  {
+    "word": "anchor",
+    "meaning": "n./v.锚；危难时可依靠的人或物；用锚泊船"
+  },
+  {
+    "word": "ancient",
+    "meaning": "a.古代的，古老的，古式的"
+  },
+  {
+    "word": "and",
+    "meaning": "conj.和，与，而且；那么；接连，又"
+  },
+  {
+    "word": "anecdote",
+    "meaning": "n.轶事，趣闻，短故事"
+  },
+  {
+    "word": "angel",
+    "meaning": "n.天使，安琪儿"
+  },
+  {
+    "word": "anger",
+    "meaning": "n.愤怒，气愤 vt.使发怒，激怒 vi.发怒"
+  },
+  {
+    "word": "angle",
+    "meaning": "n.角，角度 v.钓鱼；(采用各种方法）取得"
+  },
+  {
+    "word": "angry",
+    "meaning": "a.生气的，愤怒的；(天气)风雨交加的"
+  },
+  {
+    "word": "anguish",
+    "meaning": "n.(尤指心灵上的)极度痛苦，烦恼"
+  },
+  {
+    "word": "animal",
+    "meaning": "n.动物，野兽，牲畜 a.动物的，野兽的"
+  },
+  {
+    "word": "ankle",
+    "meaning": "n.足踝，踝关节"
+  },
+  {
+    "word": "anniversary",
+    "meaning": "n.周年，周年纪念日"
+  },
+  {
+    "word": "announce",
+    "meaning": "v.正式宣布；发表；通告；广播（电台节目）"
+  },
+  {
+    "word": "annoy",
+    "meaning": "vt.使恼怒，使生气；打扰 vi.招人讨厌"
+  },
+  {
+    "word": "annual",
+    "meaning": "a.每年的，一年生的 n.年刊；一年生植物"
+  },
+  {
+    "word": "anonymous",
+    "meaning": "a.匿名的，无名的，姓氏不明的"
+  },
+  {
+    "word": "another",
+    "meaning": "a.另一个，又，再 pron.另一个，类似的一个"
+  },
+  {
+    "word": "answer",
+    "meaning": "vt.回答，答复，答案 v.回答，答复，响应"
+  },
+  {
+    "word": "ant",
+    "meaning": "n.蚁；蚂蚁"
+  },
+  {
+    "word": "antenna",
+    "meaning": "n.(无线电或电视的)天线"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "vt.预料；期望；预先考虑；抢先；提前使用"
+  },
+  {
+    "word": "antique",
+    "meaning": "a.古式的，过时的 n.有价值的古物，古董"
+  },
+  {
+    "word": "anxiety",
+    "meaning": "n.挂念，焦虑，焦急，忧虑；渴望，热望"
+  },
+  {
+    "word": "anxious",
+    "meaning": "a.焦虑的，担心的；急于(得到的)，渴望的"
+  },
+  {
+    "word": "any",
+    "meaning": "a.(用于否定句、疑问句等)什么,一些;任何的"
+  },
+  {
+    "word": "anybody",
+    "meaning": "pron.(否定句)任何人；(肯定句)随便哪个人"
+  },
+  {
+    "word": "anyhow",
+    "meaning": "ad.不管怎么说，无论如何；不论用何种方法"
+  },
+  {
+    "word": "anyone",
+    "meaning": "pron.(用于疑问句，否定式)任何人"
+  },
+  {
+    "word": "anything",
+    "meaning": "pron.任何东西(事物)；无论什么东西(事物)"
+  },
+  {
+    "word": "anyway",
+    "meaning": "ad.不管怎么说，无论如何；不论以何种方式"
+  },
+  {
+    "word": "anywhere",
+    "meaning": "ad.无论哪里；(用于否定、疑问等)任何地方"
+  },
+  {
+    "word": "apart",
+    "meaning": "ad.分离，离开，隔开 a.分离的，分隔的"
+  },
+  {
+    "word": "apartment",
+    "meaning": "n.[英]房间，套间；[美]公寓"
+  },
+  {
+    "word": "apologise",
+    "meaning": "v.(to,for)道歉，认错"
+  },
+  {
+    "word": "apology",
+    "meaning": "n.道歉，认错，辩解，辩护"
+  },
+  {
+    "word": "appal",
+    "meaning": "v.使惊骇，使恐怖"
+  },
+  {
+    "word": "apparatus",
+    "meaning": "n.器械，器具，仪器；机构，组织"
+  },
+  {
+    "word": "apparent",
+    "meaning": "a.表面上的,貌似真实的；显然的,明明白白的"
+  },
+  {
+    "word": "appeal",
+    "meaning": "vi.呼吁，恳求；申诉 n.呼吁；申诉；吸引力"
+  },
+  {
+    "word": "appear",
+    "meaning": "vi.出现；出场；问世；仿佛；出版，发表"
+  },
+  {
+    "word": "appearance",
+    "meaning": "n.出现，露面；外表；(在会议等)作短暂露面"
+  },
+  {
+    "word": "appendix",
+    "meaning": "n.附录，附属物；阑尾，盲肠"
+  },
+  {
+    "word": "appetite",
+    "meaning": "n.食欲，胃口；欲望，性欲；爱好，趣味"
+  },
+  {
+    "word": "applaud",
+    "meaning": "vt.鼓掌欢迎；赞同 vi.鼓掌欢迎，欢呼"
+  },
+  {
+    "word": "applause",
+    "meaning": "n.鼓掌；喝彩；夸奖，赞扬"
+  },
+  {
+    "word": "apple",
+    "meaning": "n.苹果，苹果树"
+  },
+  {
+    "word": "appliance",
+    "meaning": "n.电器；器械，装置；应用，适用"
+  },
+  {
+    "word": "applicable",
+    "meaning": "a.可应用(实施)的；适当的,合适的"
+  },
+  {
+    "word": "application",
+    "meaning": "n.申请，请求，申请书；应用，实施，实用性"
+  },
+  {
+    "word": "apply",
+    "meaning": "vi.(以书面形式)申请；请求 vt.应用；实施"
+  },
+  {
+    "word": "appoint",
+    "meaning": "vt.任命，委派；指定，约定(时间、地点等)"
+  },
+  {
+    "word": "appointment",
+    "meaning": "n.约会,约定；任命,委派;委任的职位"
+  },
+  {
+    "word": "appraisal",
+    "meaning": "n.对...作出的评价；评价，鉴定，评估"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "vt.为...表示感激，感谢；欣赏，赏识，评价"
+  },
+  {
+    "word": "approach",
+    "meaning": "v.靠近，接近n.接近；途径，入门;方式,方法"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "a.适当的,恰当的,特有的 vt.拨给,挪用,盗用"
+  },
+  {
+    "word": "approval",
+    "meaning": "n.批准，通过；赞成，同意"
+  },
+  {
+    "word": "approve",
+    "meaning": "v.(of)赞成，赞许，同意；批准，审议，通过"
+  },
+  {
+    "word": "approximate",
+    "meaning": "a.近似的 vi.(to)接近"
+  },
+  {
+    "word": "April",
+    "meaning": "(名)四月"
+  },
+  {
+    "word": "apt",
+    "meaning": "a.恰当的，适当的；易于…的，有…倾向的"
+  },
+  {
+    "word": "arbitrary",
+    "meaning": "a.任意的，任性的，主观的；专断的，武断的"
+  },
+  {
+    "word": "arch",
+    "meaning": "n.拱门，桥拱洞 v.拱起，(使)变成弓形"
+  },
+  {
+    "word": "architect",
+    "meaning": "n.建筑师；设计师；缔造者；创造者"
+  },
+  {
+    "word": "architecture",
+    "meaning": "n.建筑，建筑学；建筑式样或风格，建筑物"
+  },
+  {
+    "word": "area",
+    "meaning": "n.面积；地区，地域；领域，范围"
+  },
+  {
+    "word": "argue",
+    "meaning": "vi.辩论，争论 vt.辩论，论证；说服，劝说"
+  },
+  {
+    "word": "argument",
+    "meaning": "n.争论(吵)，辩论；理由;论证"
+  },
+  {
+    "word": "arise",
+    "meaning": "v.出现，发生；(from)由…引起，由…产生"
+  },
+  {
+    "word": "arithmetic",
+    "meaning": "n.算术，四则运算"
+  },
+  {
+    "word": "arm",
+    "meaning": "n.手臂，扶手，臂状物 v.武装；配备 n.武器"
+  },
+  {
+    "word": "army",
+    "meaning": "n.军队，陆军，军；大群，大批"
+  },
+  {
+    "word": "around",
+    "meaning": "ad.在...周围，到处 prep.在..四周(或附近)"
+  },
+  {
+    "word": "arouse",
+    "meaning": "vt.唤醒，叫醒；唤起，激起"
+  },
+  {
+    "word": "arrange",
+    "meaning": "v.安排，筹划；整理，使有条理，排列，布置"
+  },
+  {
+    "word": "array",
+    "meaning": "n.大量；排列；盛装 v.列阵；装扮；排列"
+  },
+  {
+    "word": "arrest",
+    "meaning": "n.逮捕，扣留 vt.逮捕，扣留；阻止；吸引"
+  },
+  {
+    "word": "arrival",
+    "meaning": "n.到达，到来；到达者，到达物"
+  },
+  {
+    "word": "arrive",
+    "meaning": "vi.到达；(时间、事件)到来，发生；达到"
+  },
+  {
+    "word": "arrogant",
+    "meaning": "a.傲慢的，自大的"
+  },
+  {
+    "word": "arrow",
+    "meaning": "n.箭，矢，箭状物；箭头符号"
+  },
+  {
+    "word": "art",
+    "meaning": "n.艺术，美术；技术，技艺；文科，人文科学"
+  },
+  {
+    "word": "artery",
+    "meaning": "n.动脉；干线，要道"
+  },
+  {
+    "word": "article",
+    "meaning": "n.文章，论文；条款，条文；物件；冠词"
+  },
+  {
+    "word": "articulate",
+    "meaning": "a.善于表达的；有关节相连的 v.清楚地讲话"
+  },
+  {
+    "word": "artificial",
+    "meaning": "a.人工的，人造的，人为的；虚伪的，做作的"
+  },
+  {
+    "word": "artist",
+    "meaning": "n.艺术家，美术家；(某方面的)能手"
+  },
+  {
+    "word": "artistic",
+    "meaning": "a.艺术(家)的，美术(家)的；善于艺术创作的"
+  },
+  {
+    "word": "as",
+    "meaning": "ad.同样地 conj.由于；像...一样 prep.作为"
+  },
+  {
+    "word": "ascend",
+    "meaning": "vi.渐渐上升，升高vt.攀登，登上"
+  },
+  {
+    "word": "ascertain",
+    "meaning": "vt.确定，查明，弄清"
+  },
+  {
+    "word": "ash",
+    "meaning": "n.灰，灰末；(pl.)骨灰；(pl.)废墟"
+  },
+  {
+    "word": "ashamed",
+    "meaning": "a.惭愧的，羞耻的，害臊的"
+  },
+  {
+    "word": "ashore",
+    "meaning": "ad.上岸；在岸上，向岸上"
+  },
+  {
+    "word": "aside",
+    "meaning": "ad.在旁边，到一边 n.旁白；离题的话"
+  },
+  {
+    "word": "ask",
+    "meaning": "vt.问，询问；请求，要求；邀请，约请"
+  },
+  {
+    "word": "asleep",
+    "meaning": "a.睡觉，睡着(用作表语)"
+  },
+  {
+    "word": "aspect",
+    "meaning": "n.样子, 外表, 面貌, (问题等的)方面"
+  },
+  {
+    "word": "aspire",
+    "meaning": "vi.(to，after)渴望，追求，有志于"
+  },
+  {
+    "word": "assassinate",
+    "meaning": "vt.暗杀，行刺；中伤"
+  },
+  {
+    "word": "assault",
+    "meaning": "v.猛烈地攻击，袭击 n.突然而猛烈的攻击"
+  },
+  {
+    "word": "assemble",
+    "meaning": "vt.集合，召集；装配；收集 vi.集合，聚集"
+  },
+  {
+    "word": "assembly",
+    "meaning": "n.集合；会议；装配；(美)洲议会的众议院"
+  },
+  {
+    "word": "assert",
+    "meaning": "vt.断言,宣称；坚持；主张（权利、权威等）"
+  },
+  {
+    "word": "assess",
+    "meaning": "vt.(为征税)评估(财产、收入)；征税；评价"
+  },
+  {
+    "word": "asset",
+    "meaning": "n.(pl.)资产,财产；有价值的物品；天赋"
+  },
+  {
+    "word": "assign",
+    "meaning": "vt.派给，分配；选定，指定(时间、地点等)"
+  },
+  {
+    "word": "assignment",
+    "meaning": "n.分配，指派；(指定的)作业，(分派的)任务"
+  },
+  {
+    "word": "assimilate",
+    "meaning": "vt.吸收，消化；使同化 vi.被吸收；被同化"
+  },
+  {
+    "word": "assist",
+    "meaning": "vt.协助，帮助，促进 vi.帮忙，参加"
+  },
+  {
+    "word": "assistance",
+    "meaning": "n.协作; 援助; 帮助"
+  },
+  {
+    "word": "assistant",
+    "meaning": "a.帮助的，辅助的 n.助手，助教；辅助物"
+  },
+  {
+    "word": "associate",
+    "meaning": "vt.联想；交往；联合；n.伙伴；a.联合的"
+  },
+  {
+    "word": "association",
+    "meaning": "n.联盟，协会，社团；交往，联合；联想"
+  },
+  {
+    "word": "assume",
+    "meaning": "vt.假装；假定，设想；承担；呈现，采取"
+  },
+  {
+    "word": "assumption",
+    "meaning": "n.假定，设想；采取；承担；推测；假装"
+  },
+  {
+    "word": "assurance",
+    "meaning": "n.保证,担保；确信,断言；信心,信念"
+  },
+  {
+    "word": "assure",
+    "meaning": "vt.使确信，使放心(of)；向…保证"
+  },
+  {
+    "word": "astonish",
+    "meaning": "vt.使惊讶，使吃惊"
+  },
+  {
+    "word": "astronaut",
+    "meaning": "n.太空人，太空旅行者"
+  },
+  {
+    "word": "astronomy",
+    "meaning": "n．天文学"
+  },
+  {
+    "word": "at",
+    "meaning": "prep.[表示价格、速度等]以，达；在..方面"
+  },
+  {
+    "word": "athlete",
+    "meaning": "n.运动员，体育家，身强力壮的人"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "n.大气(层)；空气；气氛，环境；大气压"
+  },
+  {
+    "word": "atom",
+    "meaning": "n.原子；微粒，微量"
+  },
+  {
+    "word": "attach",
+    "meaning": "v.系，贴，装，连接；使成为一部分；使依恋"
+  },
+  {
+    "word": "attack",
+    "meaning": "v./n.攻击，抨击；着手，开始  n.(病)发作"
+  },
+  {
+    "word": "attain",
+    "meaning": "vt.达到；完成；获得 vi.达到"
+  },
+  {
+    "word": "attempt",
+    "meaning": "vt.企图，试图 n.努力，尝试，企图"
+  },
+  {
+    "word": "attend",
+    "meaning": "vt.出席，参加；照顾，护理 vi.注意；侍奉"
+  },
+  {
+    "word": "attendance",
+    "meaning": "n.出席；出席人数；护理，照料"
+  },
+  {
+    "word": "attendant",
+    "meaning": "n.陪从；出席人；服务员 a.出席的；伴随的"
+  },
+  {
+    "word": "attention",
+    "meaning": "n.注意，注意力；立正；特别照顾；照料"
+  },
+  {
+    "word": "attitude",
+    "meaning": "n.态度，看法(to, toward, about)；姿势"
+  },
+  {
+    "word": "attorney",
+    "meaning": "n.(业务或法律事务上的)代理人；辩护律师"
+  },
+  {
+    "word": "attract",
+    "meaning": "vt.引起的注意(或兴趣等),吸引；引起；激起"
+  },
+  {
+    "word": "attractive",
+    "meaning": "a.吸引人的，引人注意的；漂亮的，迷人的"
+  },
+  {
+    "word": "attribute",
+    "meaning": "v.(to)归因于,归属于 n.属性,品质,特征"
+  },
+  {
+    "word": "auction",
+    "meaning": "n.／vt.拍卖"
+  },
+  {
+    "word": "audience",
+    "meaning": "n.听众，观众，读者；见面，会见"
+  },
+  {
+    "word": "audio",
+    "meaning": "n./a.音频(响)(的)；声音(的)，听觉(的)"
+  },
+  {
+    "word": "audit",
+    "meaning": "v.审计；查帐；核对；旁听"
+  },
+  {
+    "word": "auditorium",
+    "meaning": "n.观众席，听众席；会堂，礼堂"
+  },
+  {
+    "word": "augment",
+    "meaning": "vt.(使)增大，增加，增长，扩张"
+  },
+  {
+    "word": "August",
+    "meaning": "n.8月"
+  },
+  {
+    "word": "aunt",
+    "meaning": "n.姨母，姑母，伯母，婶母，舅母，阿姨"
+  },
+  {
+    "word": "aural",
+    "meaning": "a.听觉的，听力的"
+  },
+  {
+    "word": "authentic",
+    "meaning": "a.真的，真正的；可靠的，可信的，有根据的"
+  },
+  {
+    "word": "author",
+    "meaning": "n.作者，作家，著作人；创始人，发起人"
+  },
+  {
+    "word": "authority",
+    "meaning": "n.权力，权威；权威人士；(pl.)官方，当局"
+  },
+  {
+    "word": "auto",
+    "meaning": "n.(automobile)(口语)汽车"
+  },
+  {
+    "word": "automatic",
+    "meaning": "a.自动(装置)的；无意识的；n.自动机械"
+  },
+  {
+    "word": "automation",
+    "meaning": "n.自动，自动化，自动操作"
+  },
+  {
+    "word": "autonomy",
+    "meaning": "n.自治，自治权；"
+  },
+  {
+    "word": "autumn",
+    "meaning": "n.秋，秋季；成熟期，渐衰期"
+  },
+  {
+    "word": "auxiliary",
+    "meaning": "a.辅助的，支援的 n.辅助者，辅助设备"
+  },
+  {
+    "word": "avail",
+    "meaning": "n.[一般用于否定句或疑问句中]效用,利益"
+  },
+  {
+    "word": "available",
+    "meaning": "a.(用于物)可利用的；可见到的，接受采访的"
+  },
+  {
+    "word": "avenue",
+    "meaning": "n.林荫路，大街；(比喻)途径，渠道，方法"
+  },
+  {
+    "word": "average",
+    "meaning": "n.平均,平均数 a.平均的；普通的 v.平均"
+  },
+  {
+    "word": "avert",
+    "meaning": "v.防止，避免 ；转移(目光、注意力等)"
+  },
+  {
+    "word": "aviation",
+    "meaning": "n.航空，航空学；飞机制造业"
+  },
+  {
+    "word": "avoid",
+    "meaning": "vt.防止，避免；逃避，避开"
+  },
+  {
+    "word": "await",
+    "meaning": "vt.等候，期待；(事情等)降临于"
+  },
+  {
+    "word": "awake",
+    "meaning": "a.醒着的 vt.唤醒，使觉醒 vi.醒来，醒悟到"
+  },
+  {
+    "word": "award",
+    "meaning": "vt.授予,给予；判定 n.奖,奖金；仲裁"
+  },
+  {
+    "word": "aware",
+    "meaning": "a.知道的，意识到的；"
+  },
+  {
+    "word": "away",
+    "meaning": "ad.在远处；离开；渐渐远去；一直；去掉"
+  },
+  {
+    "word": "awe",
+    "meaning": "n.敬畏，惊惧vt.使敬畏，使惊惧"
+  },
+  {
+    "word": "awful",
+    "meaning": "a.极度的，极坏的；威严的，可怕的"
+  },
+  {
+    "word": "awkward",
+    "meaning": "a.笨拙的；尴尬的；使用不便的；难处理的"
+  },
+  {
+    "word": "axe",
+    "meaning": "n.（ax）斧子；削减 vt.用斧砍"
+  },
+  {
+    "word": "axis",
+    "meaning": "n.轴，轴线，中心线；坐标轴，基准线"
+  }
+]
