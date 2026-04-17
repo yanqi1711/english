@@ -1,0 +1,614 @@
+[
+  {
+    "word": "oak",
+    "meaning": "n.橡树,橡木 a.橡木的"
+  },
+  {
+    "word": "oar",
+    "meaning": "n.桨,橹 v.划,划动,划行"
+  },
+  {
+    "word": "oath",
+    "meaning": "n.誓言,誓约,诅咒"
+  },
+  {
+    "word": "obedience",
+    "meaning": "n.服从,顺从"
+  },
+  {
+    "word": "obedient",
+    "meaning": "a.服从的,顺从的"
+  },
+  {
+    "word": "obey",
+    "meaning": "v.服从, 顺从"
+  },
+  {
+    "word": "object",
+    "meaning": "n.物体;客体,对象;目标;宾语 v.(to)反对"
+  },
+  {
+    "word": "objection",
+    "meaning": "n.(to)反对,异议,不喜欢,反对的理由"
+  },
+  {
+    "word": "objective",
+    "meaning": "n.目标,目的 a.客观的,真实的"
+  },
+  {
+    "word": "obligation",
+    "meaning": "n.义务,责任"
+  },
+  {
+    "word": "oblige",
+    "meaning": "v.强迫,迫使;责成;(使)感激,施恩于"
+  },
+  {
+    "word": "obscure",
+    "meaning": "a.暗的,朦胧的;模糊的,晦涩的"
+  },
+  {
+    "word": "observation",
+    "meaning": "n.观察,观测,监视;(pl.)观察资料;观察力"
+  },
+  {
+    "word": "observe",
+    "meaning": "v.观察,观测,注意到,监视,遵守,评述,说"
+  },
+  {
+    "word": "obsession",
+    "meaning": "n.迷住, 困扰"
+  },
+  {
+    "word": "obsolete",
+    "meaning": "a.已废弃的,过时的"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "n.障碍(物),妨碍,阻碍,干扰"
+  },
+  {
+    "word": "obstruct",
+    "meaning": "v.阻隔,阻塞(道路、通道等)n.阻碍物,障碍物"
+  },
+  {
+    "word": "obstruction",
+    "meaning": "n.妨碍,障碍物"
+  },
+  {
+    "word": "obtain",
+    "meaning": "v.获得,得到"
+  },
+  {
+    "word": "obvious",
+    "meaning": "a.明显的,显而易见的"
+  },
+  {
+    "word": "occasion",
+    "meaning": "n.场合,时节,时刻;时机,机会"
+  },
+  {
+    "word": "occasional",
+    "meaning": "a.偶然的,非经常的,特殊场合的;临时的"
+  },
+  {
+    "word": "occupation",
+    "meaning": "n.占领,占据;占用;职业,工作"
+  },
+  {
+    "word": "occupy",
+    "meaning": "v.占,占用;占据,占领;使忙碌,使从事"
+  },
+  {
+    "word": "occur",
+    "meaning": "v.发生,出现;存在;想起,想到"
+  },
+  {
+    "word": "occurrence",
+    "meaning": "n.发生,出现;事件,事故,发生的事情"
+  },
+  {
+    "word": "ocean",
+    "meaning": "n.海洋"
+  },
+  {
+    "word": "o'clock",
+    "meaning": "ad.(…)点钟(与1至12数字连用)"
+  },
+  {
+    "word": "October",
+    "meaning": "n.十月"
+  },
+  {
+    "word": "odd",
+    "meaning": "a.奇数的;奇怪的;单只的;临时的;带零头的"
+  },
+  {
+    "word": "odds",
+    "meaning": "n.不平等,差异;机会"
+  },
+  {
+    "word": "odor",
+    "meaning": "n.(odour)气味,香味,臭味,名声"
+  },
+  {
+    "word": "of",
+    "meaning": "prep.…的；在…之中；用…制的；关于…的"
+  },
+  {
+    "word": "off",
+    "meaning": "ad.离开；在远处；脱开 prep.从，从...离开"
+  },
+  {
+    "word": "offend",
+    "meaning": "v.犯罪,冒犯,违反,得罪,使...不愉快"
+  },
+  {
+    "word": "offensive",
+    "meaning": "a.冒犯的,攻击的 n.攻势,进攻"
+  },
+  {
+    "word": "offer",
+    "meaning": "v.提供,提议,出现 n.出价,提议,意图"
+  },
+  {
+    "word": "office",
+    "meaning": "n.办公室,办事处;职务,公职;部,局,处"
+  },
+  {
+    "word": "officer",
+    "meaning": "n.官员,办事员;工作人员;军官"
+  },
+  {
+    "word": "official",
+    "meaning": "n.官员,行政官员 a.官方的,官方的,正式的"
+  },
+  {
+    "word": "offset",
+    "meaning": "n.分支,补偿 v.抵消,补偿"
+  },
+  {
+    "word": "offspring",
+    "meaning": "n.子孙,后代;结果,产物"
+  },
+  {
+    "word": "often",
+    "meaning": "ad.常常，经常，通常"
+  },
+  {
+    "word": "oil",
+    "meaning": "n.油，石油 v.给…加润滑油；涂油，上油"
+  },
+  {
+    "word": "okay",
+    "meaning": "a.(okey，OK，O.K.)好，行，不错 n.同意"
+  },
+  {
+    "word": "old",
+    "meaning": "a.年老的；…岁的；长时间的，老的；过去的"
+  },
+  {
+    "word": "omit",
+    "meaning": "v.省略,删去;遗漏,忽略"
+  },
+  {
+    "word": "on",
+    "meaning": "a.连接上 prep.在…上；靠近 ad.向前，继续"
+  },
+  {
+    "word": "once",
+    "meaning": "ad.一次，曾经 conj.一(旦)…就… n.一次"
+  },
+  {
+    "word": "one",
+    "meaning": "num.一 pron.一个(只)(表示代替可数的东西)"
+  },
+  {
+    "word": "oneself",
+    "meaning": "pron.[反身代词]自己；亲自，本人"
+  },
+  {
+    "word": "onion",
+    "meaning": "n.洋葱"
+  },
+  {
+    "word": "only",
+    "meaning": "ad.仅仅，只不过 a.唯一的 conj.可是，不过"
+  },
+  {
+    "word": "onto",
+    "meaning": "prep.在...上面；到...上面"
+  },
+  {
+    "word": "opaque",
+    "meaning": "a.不透明(光)的;难理解的,晦涩的"
+  },
+  {
+    "word": "open",
+    "meaning": "n.公开,户外 a.开的,开放的 v.开"
+  },
+  {
+    "word": "opening",
+    "meaning": "n.开,开放,开始,空缺,机会 a.开始的,开幕的"
+  },
+  {
+    "word": "opera",
+    "meaning": "n.歌剧"
+  },
+  {
+    "word": "operate",
+    "meaning": "v.操作,运转,开动,起作用,动手术"
+  },
+  {
+    "word": "operation",
+    "meaning": "n.运转,开动,操作,手术,运算,经营"
+  },
+  {
+    "word": "operational",
+    "meaning": "a.操作的,运转的,起作用的,经营的"
+  },
+  {
+    "word": "operator",
+    "meaning": "n.操作人员,(电话)接线员"
+  },
+  {
+    "word": "opinion",
+    "meaning": "n.意见,看法,主张"
+  },
+  {
+    "word": "opponent",
+    "meaning": "n.对手,反对者,敌手 a.对立的,对抗的"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "n.机会"
+  },
+  {
+    "word": "oppose",
+    "meaning": "v.反对,使对立,使对抗,使相对"
+  },
+  {
+    "word": "opposite",
+    "meaning": "a.对面的,相对的,相反的 n.对立面"
+  },
+  {
+    "word": "oppress",
+    "meaning": "v.压迫,压制"
+  },
+  {
+    "word": "opt",
+    "meaning": "vi.抉择，选择"
+  },
+  {
+    "word": "optical",
+    "meaning": "a.眼的,视力的;光学的"
+  },
+  {
+    "word": "optimistic",
+    "meaning": "a.乐观主义的"
+  },
+  {
+    "word": "optimum",
+    "meaning": "a.最适宜的 n.最适宜(条件)"
+  },
+  {
+    "word": "option",
+    "meaning": "n.选择(权),[商]选择买卖的特权"
+  },
+  {
+    "word": "optional",
+    "meaning": "a.可以任选的,随意的,非强制的"
+  },
+  {
+    "word": "or",
+    "meaning": "conj.或，或者(表示选择)；即，大约；否则"
+  },
+  {
+    "word": "oral",
+    "meaning": "a.口头的"
+  },
+  {
+    "word": "orange",
+    "meaning": "n.柑,桔,橙"
+  },
+  {
+    "word": "orbit",
+    "meaning": "n.轨道 v.(使)沿轨道行"
+  },
+  {
+    "word": "orchard",
+    "meaning": "n.果园,果园里的全部果树,<美俚>棒球场"
+  },
+  {
+    "word": "orchestra",
+    "meaning": "n.管弦乐队"
+  },
+  {
+    "word": "order",
+    "meaning": "n.命令;次序;整齐;定货单;等级 v.定制,订购"
+  },
+  {
+    "word": "orderly",
+    "meaning": "a.整齐的,有秩序的,有条理的 n.勤务兵"
+  },
+  {
+    "word": "ordinary",
+    "meaning": "a.普通的,平凡的,平常的;平庸的"
+  },
+  {
+    "word": "ore",
+    "meaning": "n.矿石,矿砂"
+  },
+  {
+    "word": "organ",
+    "meaning": "n.器官;机构,机关;风琴"
+  },
+  {
+    "word": "organic",
+    "meaning": "a.器官的;有机的;有机体的"
+  },
+  {
+    "word": "organism",
+    "meaning": "n.生物，有机体"
+  },
+  {
+    "word": "organization",
+    "meaning": "n.(organization)组织,团体,机构"
+  },
+  {
+    "word": "organize",
+    "meaning": "v.(organise)组织,编组"
+  },
+  {
+    "word": "orient",
+    "meaning": "n.东方,亚洲 v.使朝东,为…定位,使适应"
+  },
+  {
+    "word": "oriental",
+    "meaning": "a.东方的,东方诸国的 n.东方人"
+  },
+  {
+    "word": "orientation",
+    "meaning": "n.方向,方位,定位,倾向性,向东方"
+  },
+  {
+    "word": "origin",
+    "meaning": "n.起源,由来;出身,来历"
+  },
+  {
+    "word": "original",
+    "meaning": "a.最初的,原文的;新颖的 n.原物,原作,原文"
+  },
+  {
+    "word": "originate",
+    "meaning": "v.(in,from)起源,发生;首创,创造"
+  },
+  {
+    "word": "ornament",
+    "meaning": "v.装饰,美化 n.装饰,装饰物"
+  },
+  {
+    "word": "orphan",
+    "meaning": "n.孤儿"
+  },
+  {
+    "word": "orthodox",
+    "meaning": "a.传统的,正统的,习惯的,保守的,东正教的"
+  },
+  {
+    "word": "other",
+    "meaning": "a.另外的，其他的 n./pron.另一个人(或事)"
+  },
+  {
+    "word": "otherwise",
+    "meaning": "ad.另样,用别的方法;在其他方面conj.要不然"
+  },
+  {
+    "word": "ought",
+    "meaning": "aux.应该(使用时,之后应接to,再接动词原形)"
+  },
+  {
+    "word": "ounce",
+    "meaning": "n.盎司,英两"
+  },
+  {
+    "word": "our",
+    "meaning": "pron.[we的所有格]我们的"
+  },
+  {
+    "word": "ours",
+    "meaning": "pron.[we的物主代词]我们的(所有物)"
+  },
+  {
+    "word": "ourselves",
+    "meaning": "pron.[反身代词]我们自己；我们亲自"
+  },
+  {
+    "word": "out",
+    "meaning": "ad.出去；离家；突出来 a.外面的，往外去的"
+  },
+  {
+    "word": "outbreak",
+    "meaning": "n.(战争,愤怒,火灾等的)爆发,(疾病的)发作"
+  },
+  {
+    "word": "outcome",
+    "meaning": "n.结果,成果"
+  },
+  {
+    "word": "outdoor",
+    "meaning": "a.室外的,野外的"
+  },
+  {
+    "word": "outer",
+    "meaning": "a.外部的,外面的,外层的"
+  },
+  {
+    "word": "outfit",
+    "meaning": "n.用具,机构,全套装配 v.配备,(得到)装备"
+  },
+  {
+    "word": "outing",
+    "meaning": "n.外出,旅行,散步"
+  },
+  {
+    "word": "outlet",
+    "meaning": "n.出路,出口;销路,市场;发泄方法;电源插座"
+  },
+  {
+    "word": "outline",
+    "meaning": "n.轮廓,略图;大纲,梗概 v.概述,略述"
+  },
+  {
+    "word": "outlook",
+    "meaning": "n.景色,风光;观点,见解;展望,前景"
+  },
+  {
+    "word": "output",
+    "meaning": "n.产量,输出(量)"
+  },
+  {
+    "word": "outrage",
+    "meaning": "n.暴行,侮辱,愤怒 v.凌辱,引起…义愤,强奸"
+  },
+  {
+    "word": "outset",
+    "meaning": "n.开始,开端"
+  },
+  {
+    "word": "outside",
+    "meaning": "ad.向外面 n.外部 a.外部的 prep.在…外"
+  },
+  {
+    "word": "outskirts",
+    "meaning": "n.郊区"
+  },
+  {
+    "word": "outstanding",
+    "meaning": "a.突出的,显著的,杰出的"
+  },
+  {
+    "word": "outward",
+    "meaning": "a.外面的,公开的,向外的ad.向外,在外n.外表"
+  },
+  {
+    "word": "oval",
+    "meaning": "a.卵形的，椭圆形的 n.卵形，椭圆形"
+  },
+  {
+    "word": "oven",
+    "meaning": "n.炉,灶,灶箱"
+  },
+  {
+    "word": "over",
+    "meaning": "ad.在上方；遍及地 prep.在的上方 a.结束的"
+  },
+  {
+    "word": "overall",
+    "meaning": "a.全面的,综合的 n.(pl.)(套头)工作服"
+  },
+  {
+    "word": "overcoat",
+    "meaning": "n.外衣,大衣"
+  },
+  {
+    "word": "overcome",
+    "meaning": "v.战胜,克服"
+  },
+  {
+    "word": "overflow",
+    "meaning": "v.(使)外溢,(使)溢出;溢出,流出,漫出"
+  },
+  {
+    "word": "overhead",
+    "meaning": "a.在头顶上的;架空的 ad.在头顶上"
+  },
+  {
+    "word": "overhear",
+    "meaning": "v.偶然听到,从旁听到"
+  },
+  {
+    "word": "overlap",
+    "meaning": "v.重叠,与…交叠 n.重叠"
+  },
+  {
+    "word": "overlook",
+    "meaning": "v.看漏,忽略;俯瞰,眺望;宽容,放任"
+  },
+  {
+    "word": "overnight",
+    "meaning": "a.通宵的,晚上的 ad.在昨夜,一夜工夫,突然"
+  },
+  {
+    "word": "overpass",
+    "meaning": "n.过街天桥 vt.胜过,通过,忽视"
+  },
+  {
+    "word": "overseas",
+    "meaning": "a.外国的,海外的 ad.在海外"
+  },
+  {
+    "word": "overtake",
+    "meaning": "v.追上,超过,突然降临,压倒"
+  },
+  {
+    "word": "overthrow",
+    "meaning": "v./n.推翻,颠覆"
+  },
+  {
+    "word": "overtime",
+    "meaning": "a.超时的,加班的 ad.加班"
+  },
+  {
+    "word": "overturn",
+    "meaning": "n.倾覆,破灭,革命 v.打翻,推翻,颠倒,翻倒"
+  },
+  {
+    "word": "overwhelm",
+    "meaning": "v.淹没,覆没,压倒,制服,使不知所措"
+  },
+  {
+    "word": "overwhelming",
+    "meaning": "a.势不可挡的,压倒的"
+  },
+  {
+    "word": "owe",
+    "meaning": "v.欠(债等),应向…付出,归功于,得感谢"
+  },
+  {
+    "word": "owing",
+    "meaning": "a.欠的,未付的"
+  },
+  {
+    "word": "owl",
+    "meaning": "n.猫头鹰"
+  },
+  {
+    "word": "own",
+    "meaning": "a.(用在所有格后面，加强语气)自己的"
+  },
+  {
+    "word": "owner",
+    "meaning": "n.物主,所有者"
+  },
+  {
+    "word": "ownership",
+    "meaning": "n.所有(权),所有制"
+  },
+  {
+    "word": "ox",
+    "meaning": "n.牛,公牛"
+  },
+  {
+    "word": "oxide",
+    "meaning": "n.[化]氧化物"
+  },
+  {
+    "word": "oxygen",
+    "meaning": "n.氧,氧气"
+  },
+  {
+    "word": "ozone",
+    "meaning": "n.臭氧；(海岸等的)新鲜空气"
+  }
+]

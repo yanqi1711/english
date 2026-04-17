@@ -1,0 +1,590 @@
+[
+  {
+    "word": "gain",
+    "meaning": "v.获得；增加；表等走快 n.增进,增加；收益"
+  },
+  {
+    "word": "galaxy",
+    "meaning": "n.星系;(the Galaxy)银河(系);一群显赫的人"
+  },
+  {
+    "word": "gallery",
+    "meaning": "n.长廊,画廊,美术馆"
+  },
+  {
+    "word": "gallon",
+    "meaning": "n.加仑"
+  },
+  {
+    "word": "gallop",
+    "meaning": "v./n.奔驰,飞奔"
+  },
+  {
+    "word": "gamble",
+    "meaning": "n./v.投机,冒险;赌博"
+  },
+  {
+    "word": "game",
+    "meaning": "n.游戏，娱乐；比赛；(pl.)运动会 vi.赌博"
+  },
+  {
+    "word": "gang",
+    "meaning": "n.一帮,一群,一伙"
+  },
+  {
+    "word": "gaol",
+    "meaning": "n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢"
+  },
+  {
+    "word": "gap",
+    "meaning": "n.缺口;差距;空白;缺乏"
+  },
+  {
+    "word": "garage",
+    "meaning": "n.车库,飞机库;修车厂"
+  },
+  {
+    "word": "garbage",
+    "meaning": "n.垃圾"
+  },
+  {
+    "word": "garden",
+    "meaning": "n.(菜,花)园;公园"
+  },
+  {
+    "word": "garlic",
+    "meaning": "n.蒜，大蒜粉"
+  },
+  {
+    "word": "garment",
+    "meaning": "n.(一件)衣服"
+  },
+  {
+    "word": "gas",
+    "meaning": "n.气体；煤气；汽油；毒气vt.毒(死)；加油"
+  },
+  {
+    "word": "gasoline",
+    "meaning": "n.(gasolene)汽油"
+  },
+  {
+    "word": "gasp",
+    "meaning": "n.喘息,气喘 v.喘息;气吁吁地说"
+  },
+  {
+    "word": "gate",
+    "meaning": "n.大门；入口；观众人数，门票收入"
+  },
+  {
+    "word": "gather",
+    "meaning": "v.聚集,聚拢;推测,推断"
+  },
+  {
+    "word": "gauge",
+    "meaning": "n.标准尺寸;规格;量规,量表 v.测量"
+  },
+  {
+    "word": "gay",
+    "meaning": "a.快乐的,愉快的,色彩鲜艳的 n.同性恋"
+  },
+  {
+    "word": "gaze",
+    "meaning": "v./n.凝视,注视"
+  },
+  {
+    "word": "gear",
+    "meaning": "n.齿轮,传动装置 v.(to)调整,使适合"
+  },
+  {
+    "word": "gender",
+    "meaning": "n.(生理上的)性；(名词、代词等的)性"
+  },
+  {
+    "word": "gene",
+    "meaning": "n.基因"
+  },
+  {
+    "word": "general",
+    "meaning": "a.一般的,普通的;总的,大体的 n.将军"
+  },
+  {
+    "word": "generalize",
+    "meaning": "v.(generalise)归纳,概括;推广,普及"
+  },
+  {
+    "word": "generate",
+    "meaning": "vt.产生,发生;生殖"
+  },
+  {
+    "word": "generation",
+    "meaning": "n.产生,发生;一代(人)"
+  },
+  {
+    "word": "generator",
+    "meaning": "n.发电机,发生器"
+  },
+  {
+    "word": "generous",
+    "meaning": "a.宽宏大量的,慷慨的"
+  },
+  {
+    "word": "genetic",
+    "meaning": "a.遗传(学)的 n.[-s]遗传学"
+  },
+  {
+    "word": "genius",
+    "meaning": "n.天才"
+  },
+  {
+    "word": "gentle",
+    "meaning": "a.和蔼的,文雅的,有礼貌的"
+  },
+  {
+    "word": "gentleman",
+    "meaning": "n.绅士,先生"
+  },
+  {
+    "word": "gently",
+    "meaning": "ad.文雅地,有礼貌地;轻轻地"
+  },
+  {
+    "word": "genuine",
+    "meaning": "a.真正的,名副其实的"
+  },
+  {
+    "word": "geography",
+    "meaning": "n.地理(学)"
+  },
+  {
+    "word": "geology",
+    "meaning": "n.地质(学)"
+  },
+  {
+    "word": "geometry",
+    "meaning": "n.几何(学)"
+  },
+  {
+    "word": "germ",
+    "meaning": "n.微生物,细菌"
+  },
+  {
+    "word": "gesture",
+    "meaning": "n.姿势,姿态,手势 v.做手势"
+  },
+  {
+    "word": "get",
+    "meaning": "v.获得，得到；使，使得；变得，成为；到达"
+  },
+  {
+    "word": "ghost",
+    "meaning": "n.鬼魂,幽灵"
+  },
+  {
+    "word": "giant",
+    "meaning": "n.巨人 a.巨大的"
+  },
+  {
+    "word": "gift",
+    "meaning": "n.礼品,赠品;天赋,才能"
+  },
+  {
+    "word": "gigantic",
+    "meaning": "a.巨大的,庞大的"
+  },
+  {
+    "word": "giggle",
+    "meaning": "vi.／n.痴笑；咯咯地笑 vt.咯咯地笑着说"
+  },
+  {
+    "word": "girl",
+    "meaning": "n.少女，姑娘，女孩；女职员"
+  },
+  {
+    "word": "give",
+    "meaning": "v.给，授予；供给；献出，让步；捐赠；发表"
+  },
+  {
+    "word": "glad",
+    "meaning": "a.高兴的，快活的；乐意的，情愿的"
+  },
+  {
+    "word": "glamor",
+    "meaning": "n.(glamour)魅力;魔法 vt.迷惑"
+  },
+  {
+    "word": "glance",
+    "meaning": "v.(at,over)扫视 n.匆匆看,一瞥,一眼"
+  },
+  {
+    "word": "glare",
+    "meaning": "vi.怒目而视;发射强光 n.强光;怒视;炫耀"
+  },
+  {
+    "word": "glass",
+    "meaning": "n.玻璃;玻璃杯;镜子;(pl.)眼镜"
+  },
+  {
+    "word": "glide",
+    "meaning": "n./v.溜,滑行;(时间)消逝"
+  },
+  {
+    "word": "glimpse",
+    "meaning": "n./v.一瞥,瞥见"
+  },
+  {
+    "word": "glitter",
+    "meaning": "n.光辉,灿烂 v.闪闪发光;闪耀"
+  },
+  {
+    "word": "global",
+    "meaning": "a.球形的;全球的,全世界的;全面的"
+  },
+  {
+    "word": "globe",
+    "meaning": "n.球体,地球仪;地球,世界"
+  },
+  {
+    "word": "gloomy",
+    "meaning": "a.阴暗的,阴沉的,令人沮丧的,阴郁的"
+  },
+  {
+    "word": "glorious",
+    "meaning": "a.壮丽的,辉煌的;光荣的"
+  },
+  {
+    "word": "glory",
+    "meaning": "n.光荣,荣誉"
+  },
+  {
+    "word": "glove",
+    "meaning": "n.手套"
+  },
+  {
+    "word": "glow",
+    "meaning": "v.发热,发光,发红 n.白热"
+  },
+  {
+    "word": "glue",
+    "meaning": "n.胶,胶水 v.胶合,粘贴"
+  },
+  {
+    "word": "go",
+    "meaning": "v.去，离开；走；放置；变成；运转 n.围棋"
+  },
+  {
+    "word": "goal",
+    "meaning": "n.目的,目标;守门员,球门;进球"
+  },
+  {
+    "word": "goat",
+    "meaning": "n.山羊"
+  },
+  {
+    "word": "god",
+    "meaning": "n.上帝(小写god泛指所有的“神，神像”)"
+  },
+  {
+    "word": "gold",
+    "meaning": "n.金，黄金；金币；金黄色 a.金的，金制的"
+  },
+  {
+    "word": "golden",
+    "meaning": "a.金黄色的;贵重的,极好的"
+  },
+  {
+    "word": "golf",
+    "meaning": "n.高尔夫球"
+  },
+  {
+    "word": "good",
+    "meaning": "a.好的;善良的;擅长的;乖的 n.好处;利益"
+  },
+  {
+    "word": "goodby",
+    "meaning": "int.(goodbye)再见"
+  },
+  {
+    "word": "goodness",
+    "meaning": "n.善良，仁慈；(食物等)精华 int.天哪"
+  },
+  {
+    "word": "goods",
+    "meaning": "n.(pl.)货物，商品"
+  },
+  {
+    "word": "goose",
+    "meaning": "n.(pl.geese)鹅,雌鹅,鹅肉"
+  },
+  {
+    "word": "gorgeous",
+    "meaning": "a.华丽的；灿烂的；美丽的；宜人的；棒的"
+  },
+  {
+    "word": "gossip",
+    "meaning": "n./v.(说)闲话,闲聊"
+  },
+  {
+    "word": "govern",
+    "meaning": "v.统治,管理;决定,支配"
+  },
+  {
+    "word": "government",
+    "meaning": "n.政府,内阁;管理,支配;政治,政体"
+  },
+  {
+    "word": "governor",
+    "meaning": "n.统治者,管理者,总督,州(省)长"
+  },
+  {
+    "word": "gown",
+    "meaning": "n.长袍，特殊场合穿的长服"
+  },
+  {
+    "word": "grab",
+    "meaning": "v./n.(at)抓(住);夺(得)"
+  },
+  {
+    "word": "grace",
+    "meaning": "n.优美,文雅;恩惠,恩泽;宽限,缓刑;感恩祷告"
+  },
+  {
+    "word": "graceful",
+    "meaning": "a.优美的,文雅的,大方的"
+  },
+  {
+    "word": "gracious",
+    "meaning": "a.亲切的,客气的;宽厚的,仁慈的"
+  },
+  {
+    "word": "grade",
+    "meaning": "n.等级,级别;年级;分数 v.分等,分级"
+  },
+  {
+    "word": "gradual",
+    "meaning": "a.逐渐的,逐步的"
+  },
+  {
+    "word": "graduate",
+    "meaning": "n.大学毕业生,研究生 v.大学毕业a.毕了业的"
+  },
+  {
+    "word": "grain",
+    "meaning": "n.谷物,谷类;颗粒,细粒"
+  },
+  {
+    "word": "grammar",
+    "meaning": "n.语法,语法书"
+  },
+  {
+    "word": "gramme",
+    "meaning": "n.(gram)克"
+  },
+  {
+    "word": "grand",
+    "meaning": "a.盛大的,豪华的;重大的,主要的"
+  },
+  {
+    "word": "grandmother",
+    "meaning": "n.祖母,外祖母"
+  },
+  {
+    "word": "grant",
+    "meaning": "v.同意,准予;授予 n.授予物;津贴;转让证书"
+  },
+  {
+    "word": "grape",
+    "meaning": "n.葡萄"
+  },
+  {
+    "word": "graph",
+    "meaning": "n.图表,曲线图"
+  },
+  {
+    "word": "graphic",
+    "meaning": "a.绘画似的, 图解的,生动的"
+  },
+  {
+    "word": "grasp",
+    "meaning": "v./n.抓住,抓紧;掌握,领会"
+  },
+  {
+    "word": "grass",
+    "meaning": "n.草，草地"
+  },
+  {
+    "word": "grateful",
+    "meaning": "a.(to,for)感激的;感谢的"
+  },
+  {
+    "word": "gratitude",
+    "meaning": "n.感激,感谢"
+  },
+  {
+    "word": "grave",
+    "meaning": "n.坟墓 a.严肃的,庄重的"
+  },
+  {
+    "word": "gravity",
+    "meaning": "n.重力,引力;严肃,庄重"
+  },
+  {
+    "word": "graze",
+    "meaning": "vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)"
+  },
+  {
+    "word": "grease",
+    "meaning": "n.动物脂,油脂,润滑脂 v.抹油,润滑"
+  },
+  {
+    "word": "great",
+    "meaning": "a.伟大的；重要的；大量的；很好的；美好的"
+  },
+  {
+    "word": "greedy",
+    "meaning": "a.贪吃的,贪婪的,渴望的"
+  },
+  {
+    "word": "green",
+    "meaning": "a.绿色的;生的;未成熟的 n.绿色;蔬菜;植物"
+  },
+  {
+    "word": "greenhouse",
+    "meaning": "n.温室"
+  },
+  {
+    "word": "greet",
+    "meaning": "v.致敬,敬意,迎接;扑(鼻),入(耳),触(目)"
+  },
+  {
+    "word": "greeting",
+    "meaning": "n.问候,致敬"
+  },
+  {
+    "word": "grey",
+    "meaning": "n./a.(gray)灰色(的)"
+  },
+  {
+    "word": "grief",
+    "meaning": "n.悲伤，悲痛；悲伤的事，悲痛的缘由"
+  },
+  {
+    "word": "grieve",
+    "meaning": "v.使悲伤,使伤心"
+  },
+  {
+    "word": "grim",
+    "meaning": "a.严酷的，令人害怕的；不愉快的，讨厌的"
+  },
+  {
+    "word": "grin",
+    "meaning": "n./vi.露齿而笑，咧嘴一笑"
+  },
+  {
+    "word": "grind",
+    "meaning": "v.磨(碎),碾(碎)"
+  },
+  {
+    "word": "grip",
+    "meaning": "v./n.紧握,抓紧;掌握"
+  },
+  {
+    "word": "groan",
+    "meaning": "v./n.呻吟"
+  },
+  {
+    "word": "grocer",
+    "meaning": "n.食品商,杂货商"
+  },
+  {
+    "word": "grope",
+    "meaning": "n./v.摸索,探索"
+  },
+  {
+    "word": "gross",
+    "meaning": "a.总的,毛(重)的;粗鲁的,粗俗的 n.总额"
+  },
+  {
+    "word": "ground",
+    "meaning": "n.地，地面，土地；场地，场所；理由，根据"
+  },
+  {
+    "word": "group",
+    "meaning": "n.群,组 v.分组"
+  },
+  {
+    "word": "grow",
+    "meaning": "v.生长，成长；渐渐变成；栽培，种植；发展"
+  },
+  {
+    "word": "grown-up",
+    "meaning": "a.成长的,成熟的,成人的 n.成年人"
+  },
+  {
+    "word": "growth",
+    "meaning": "n.生长,增长,发展"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "n.保证,保证书 v.保证,担保"
+  },
+  {
+    "word": "guard",
+    "meaning": "v./n.保卫，守卫，提防 n.哨兵，警卫，看守"
+  },
+  {
+    "word": "guess",
+    "meaning": "v./n.猜测，推测；以为；猜想[同]surmise"
+  },
+  {
+    "word": "guest",
+    "meaning": "n.客人,宾客,旅客"
+  },
+  {
+    "word": "guidance",
+    "meaning": "n.引导,指导"
+  },
+  {
+    "word": "guide",
+    "meaning": "n.领路人;指南,导游 v.领路;指导;支配;管理"
+  },
+  {
+    "word": "guideline",
+    "meaning": "n.指导方针，指导原则，准则，标准"
+  },
+  {
+    "word": "guilt",
+    "meaning": "n.罪过,内疚"
+  },
+  {
+    "word": "guilty",
+    "meaning": "a.(of)有罪的,内疚的"
+  },
+  {
+    "word": "guitar",
+    "meaning": "n.吉他 vi.弹吉他"
+  },
+  {
+    "word": "gulf",
+    "meaning": "n.海湾"
+  },
+  {
+    "word": "gum",
+    "meaning": "n.树胶;口香糖"
+  },
+  {
+    "word": "gun",
+    "meaning": "n.枪，炮，手枪"
+  },
+  {
+    "word": "gut",
+    "meaning": "n.[pl.]胆量；内脏a.本能的vt.取出内脏"
+  },
+  {
+    "word": "guy",
+    "meaning": "n.家伙, 人"
+  },
+  {
+    "word": "gymnasium",
+    "meaning": "n.(gym)体育馆，健身房"
+  }
+]

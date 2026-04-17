@@ -1,0 +1,2250 @@
+[
+  {
+    "word": "cab",
+    "meaning": "n.出租车，出租马车；驾驶室 vi.乘出租马车"
+  },
+  {
+    "word": "cabbage",
+    "meaning": "n.洋白菜,卷心菜"
+  },
+  {
+    "word": "cabin",
+    "meaning": "n.客舱,机舱;小(木)屋"
+  },
+  {
+    "word": "cabinet",
+    "meaning": "n.内阁，内阁会议；(带玻璃门存物品的)橱柜"
+  },
+  {
+    "word": "cable",
+    "meaning": "n.电报;电缆;缆,索,钢丝绳 v.拍电报"
+  },
+  {
+    "word": "cafe",
+    "meaning": "n.咖啡馆,(小)餐馆"
+  },
+  {
+    "word": "cafeteria",
+    "meaning": "n.自助食堂"
+  },
+  {
+    "word": "cage",
+    "meaning": "n.鸟笼"
+  },
+  {
+    "word": "cake",
+    "meaning": "n.饼，糕，蛋糕；扁平的块状物"
+  },
+  {
+    "word": "calcium",
+    "meaning": "n.钙(化学符号Ca)"
+  },
+  {
+    "word": "calculate",
+    "meaning": "v.计算,推算;计划,打算"
+  },
+  {
+    "word": "calendar",
+    "meaning": "n.日历,月历"
+  },
+  {
+    "word": "call",
+    "meaning": "vt.叫，喊；打电话 vi.叫；访问 n.叫；号召"
+  },
+  {
+    "word": "calm",
+    "meaning": "a.(天气,海洋等)静的 n.平静 v.(使)平静"
+  },
+  {
+    "word": "calorie",
+    "meaning": "n.卡路里(食物所产生的热量或能量单位)"
+  },
+  {
+    "word": "camel",
+    "meaning": "n.骆驼"
+  },
+  {
+    "word": "camera",
+    "meaning": "n.照相机,摄影机"
+  },
+  {
+    "word": "camp",
+    "meaning": "n.野营,营地;帐篷,阵营 v.设营,宿营"
+  },
+  {
+    "word": "campaign",
+    "meaning": "n.战役;运动"
+  },
+  {
+    "word": "campus",
+    "meaning": "n.(大学)校园"
+  },
+  {
+    "word": "can",
+    "meaning": "aux.v.能；可以 n.罐头；容器 vt.把…装罐"
+  },
+  {
+    "word": "canal",
+    "meaning": "n.运河;(沟)渠"
+  },
+  {
+    "word": "cancel",
+    "meaning": "v.取消,把…作废;删去,划掉"
+  },
+  {
+    "word": "cancer",
+    "meaning": "n.癌"
+  },
+  {
+    "word": "candidate",
+    "meaning": "n.候选人,候补者;报考者"
+  },
+  {
+    "word": "candle",
+    "meaning": "n.蜡烛"
+  },
+  {
+    "word": "candy",
+    "meaning": "n.糖果"
+  },
+  {
+    "word": "cannon",
+    "meaning": "n.大炮,火炮"
+  },
+  {
+    "word": "canoe",
+    "meaning": "n.独木舟,小游艇"
+  },
+  {
+    "word": "canteen",
+    "meaning": "n.(工厂、办公室等)食堂或小卖部"
+  },
+  {
+    "word": "canvas",
+    "meaning": "n.帆布；帆布画布，(帆布)油画"
+  },
+  {
+    "word": "cap",
+    "meaning": "n.便帽,军帽;盖,罩,套 v.覆盖于…顶端"
+  },
+  {
+    "word": "capable",
+    "meaning": "a.有本领的,有能力的;(of)可以…的,能…的"
+  },
+  {
+    "word": "capacity",
+    "meaning": "n.容量,容积;能量,能力;接受力"
+  },
+  {
+    "word": "cape",
+    "meaning": "n.海角，岬；披肩，短披风"
+  },
+  {
+    "word": "capital",
+    "meaning": "n.首都;大写字母;资本 a.主要的,大写字母的"
+  },
+  {
+    "word": "capitalism",
+    "meaning": "n.资本主义"
+  },
+  {
+    "word": "capsule",
+    "meaning": "n.胶囊;太空舱"
+  },
+  {
+    "word": "captain",
+    "meaning": "n.首领,队长;船长;上尉 v.做…的首领,指挥"
+  },
+  {
+    "word": "captive",
+    "meaning": "n.俘虏 a.被俘虏的,被监禁的"
+  },
+  {
+    "word": "capture",
+    "meaning": "v./n.捕获,俘虏;夺得,攻占"
+  },
+  {
+    "word": "car",
+    "meaning": "n.汽车，车辆，车；(火车)车厢"
+  },
+  {
+    "word": "carbohydrate",
+    "meaning": "n.碳水化合物; 糖类；(plural)淀粉质或糖类"
+  },
+  {
+    "word": "carbon",
+    "meaning": "n.碳"
+  },
+  {
+    "word": "card",
+    "meaning": "n.卡片,名片;纸牌;纸片"
+  },
+  {
+    "word": "cardinal",
+    "meaning": "n.(天主教的)红衣主教 a.首要的，基本的"
+  },
+  {
+    "word": "care",
+    "meaning": "n.小心;关怀,照料 v.(about)关心,介意,计较"
+  },
+  {
+    "word": "career",
+    "meaning": "n.(个人的)事业；专业，生涯，职业，经历"
+  },
+  {
+    "word": "careful",
+    "meaning": "a.小心的,仔细的;细致的,精心的"
+  },
+  {
+    "word": "caress",
+    "meaning": "vt.／n.爱抚，抚摸"
+  },
+  {
+    "word": "cargo",
+    "meaning": "n.船货,货物"
+  },
+  {
+    "word": "carpenter",
+    "meaning": "n.木工,木匠"
+  },
+  {
+    "word": "carpet",
+    "meaning": "n.地毯"
+  },
+  {
+    "word": "carriage",
+    "meaning": "n.(四轮)马车;(火车)客车厢"
+  },
+  {
+    "word": "carrier",
+    "meaning": "n.搬运人;载体"
+  },
+  {
+    "word": "carrot",
+    "meaning": "n.胡萝卜"
+  },
+  {
+    "word": "carry",
+    "meaning": "v.运送,搬运;传送,传播;领,带"
+  },
+  {
+    "word": "cart",
+    "meaning": "n.(二轮货运)马车,手推车"
+  },
+  {
+    "word": "cartoon",
+    "meaning": "n.漫画,幽默画;动画片"
+  },
+  {
+    "word": "carve",
+    "meaning": "v.(雕)刻"
+  },
+  {
+    "word": "case",
+    "meaning": "n.箱,盒,容器;情况,事实;病例;案件"
+  },
+  {
+    "word": "cash",
+    "meaning": "n.现金,现款 v.兑现,付(或收)现款"
+  },
+  {
+    "word": "cashier",
+    "meaning": "n.收银员,出纳员"
+  },
+  {
+    "word": "cassette",
+    "meaning": "n.盒子;盒式磁带"
+  },
+  {
+    "word": "cast",
+    "meaning": "v.投,扔,掷,抛；铸造；投票；n.演员表"
+  },
+  {
+    "word": "castle",
+    "meaning": "n.城堡；(国际象棋中的)车"
+  },
+  {
+    "word": "casual",
+    "meaning": "a.偶然的,碰巧的;临时的,非正式的"
+  },
+  {
+    "word": "casualty",
+    "meaning": "n.伤亡人员；受害人；损失的东西；急诊室"
+  },
+  {
+    "word": "cat",
+    "meaning": "n.猫；猫科；"
+  },
+  {
+    "word": "catalog",
+    "meaning": "n.（catalogue）目录(册) v.编目(录)"
+  },
+  {
+    "word": "catastrophe",
+    "meaning": "n.大灾难；(悲剧)结局"
+  },
+  {
+    "word": "catch",
+    "meaning": "v.捕捉,捕获;赶上;感染;理解,听到"
+  },
+  {
+    "word": "category",
+    "meaning": "n.种类，部属，类目；范畴，类型"
+  },
+  {
+    "word": "cater",
+    "meaning": "vi.(for/to)满足,迎合;(for)提供饮食及服务"
+  },
+  {
+    "word": "cathedral",
+    "meaning": "n.大教堂"
+  },
+  {
+    "word": "Catholic",
+    "meaning": "a.天主教的 n.天主教徒"
+  },
+  {
+    "word": "cattle",
+    "meaning": "n.牛;牲口,家畜"
+  },
+  {
+    "word": "cause",
+    "meaning": "n.原因;事业,事件,奋斗目标 v.使产生,引起"
+  },
+  {
+    "word": "caution",
+    "meaning": "n.谨慎；注意(事项)，警告vt.劝…小心"
+  },
+  {
+    "word": "cautious",
+    "meaning": "a.(of)小心的,谨慎的"
+  },
+  {
+    "word": "cave",
+    "meaning": "n.洞,穴"
+  },
+  {
+    "word": "cease",
+    "meaning": "v./n.停止,中止"
+  },
+  {
+    "word": "ceiling",
+    "meaning": "n.天花板；(规定价格、工资等的)最高限额"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "vt.庆祝；颂扬，赞美vi.庆祝，过节"
+  },
+  {
+    "word": "celebrity",
+    "meaning": "n.名人，名流；著名，名声，名望"
+  },
+  {
+    "word": "cell",
+    "meaning": "n.细胞;小房间;蜂房;电池"
+  },
+  {
+    "word": "cellar",
+    "meaning": "n.地窑,地下室"
+  },
+  {
+    "word": "cement",
+    "meaning": "n.水泥;胶泥,胶接剂 v.胶合;巩固,加强"
+  },
+  {
+    "word": "cemetery",
+    "meaning": "n.坟墓，墓地，坟场"
+  },
+  {
+    "word": "census",
+    "meaning": "n.人口普查(调查)"
+  },
+  {
+    "word": "cent",
+    "meaning": "n.分(币);百 per cent百分之"
+  },
+  {
+    "word": "centigrade",
+    "meaning": "n./a.摄氏温度计(的);百分度(的)"
+  },
+  {
+    "word": "centimetre",
+    "meaning": "n.(centimeter)厘米"
+  },
+  {
+    "word": "central",
+    "meaning": "a.中心的,中央的,中枢的;主要的"
+  },
+  {
+    "word": "centre",
+    "meaning": "n.中心，中央，中间 vt.集中 vi.以..为中心"
+  },
+  {
+    "word": "century",
+    "meaning": "n.世纪,(一)百年"
+  },
+  {
+    "word": "cereal",
+    "meaning": "n.加工而成的谷类食物；谷类植物，谷物"
+  },
+  {
+    "word": "ceremony",
+    "meaning": "n.典礼,仪式;礼节,礼仪"
+  },
+  {
+    "word": "certain",
+    "meaning": "a.某,某一,某些;(of)一定的,确信的,可靠的"
+  },
+  {
+    "word": "certainly",
+    "meaning": "ad.一定,必定,无疑;当然,行"
+  },
+  {
+    "word": "certainty",
+    "meaning": "n.必然,肯定;必然的事"
+  },
+  {
+    "word": "certificate",
+    "meaning": "n.证(明)书,执照"
+  },
+  {
+    "word": "certify",
+    "meaning": "vt.证明，证实；发证书(或执照)给"
+  },
+  {
+    "word": "chain",
+    "meaning": "n.链(条);(pl.)镣铐;一连串 v.用链条拴住"
+  },
+  {
+    "word": "chair",
+    "meaning": "n.椅子；(会议的)主席 vt.当…的主席，主持"
+  },
+  {
+    "word": "chairman",
+    "meaning": "n.主席,议长,会长,董事长"
+  },
+  {
+    "word": "chalk",
+    "meaning": "n.粉笔,白垩"
+  },
+  {
+    "word": "challenge",
+    "meaning": "n.挑战(书);艰巨任务,难题 v.向…挑战"
+  },
+  {
+    "word": "chamber",
+    "meaning": "n.房间，室；会议室；议院；(动物体内)腔室"
+  },
+  {
+    "word": "champagne",
+    "meaning": "n.香槟酒；微黄色"
+  },
+  {
+    "word": "champion",
+    "meaning": "n.冠军,得胜者;拥护者,斗士"
+  },
+  {
+    "word": "chance",
+    "meaning": "n.机会;可能性;偶然性,运气v.碰巧,偶然发生"
+  },
+  {
+    "word": "chancellor",
+    "meaning": "n.(英)大臣；法官；(德、奥)总理；大学校长"
+  },
+  {
+    "word": "change",
+    "meaning": "n.改变,变化;零钱 v.更换,调换,交换;改变"
+  },
+  {
+    "word": "channel",
+    "meaning": "n.海峡,水道;信道,波道;路线,途径"
+  },
+  {
+    "word": "chaos",
+    "meaning": "n.混乱,紊乱"
+  },
+  {
+    "word": "chap",
+    "meaning": "n./v.(皮肤)变粗糙；发痛；n.小伙子"
+  },
+  {
+    "word": "chapter",
+    "meaning": "n. 章；回，篇"
+  },
+  {
+    "word": "character",
+    "meaning": "n.性格,品质,特性;人物,角色;字符,(汉)字"
+  },
+  {
+    "word": "characteristic",
+    "meaning": "a.(of)特有的,独特的 n.特征,特性"
+  },
+  {
+    "word": "characterize",
+    "meaning": "v.(characterise)表示…的特性;描述…特性"
+  },
+  {
+    "word": "charge",
+    "meaning": "v.索(价);控告;充电 n.(pl.)费用,代价;电荷"
+  },
+  {
+    "word": "charity",
+    "meaning": "n.慈善(团体),仁慈,施舍"
+  },
+  {
+    "word": "charm",
+    "meaning": "n.吸引力,魅力 v.迷人,(使)陶醉;施魔法于"
+  },
+  {
+    "word": "chart",
+    "meaning": "n.图表；航海图；航行图 vt.绘图表，制图表"
+  },
+  {
+    "word": "charter",
+    "meaning": "v.租船,租车,租用飞机；n.宪章，特许状"
+  },
+  {
+    "word": "chase",
+    "meaning": "v./n.追逐,追求"
+  },
+  {
+    "word": "chat",
+    "meaning": "v./n.闲谈,聊天"
+  },
+  {
+    "word": "cheap",
+    "meaning": "a.便宜的;低劣的,不值钱的"
+  },
+  {
+    "word": "cheat",
+    "meaning": "v.欺骗;作弊 n.骗子;欺诈,欺骗行为"
+  },
+  {
+    "word": "cheek",
+    "meaning": "n.面颊,脸"
+  },
+  {
+    "word": "cheer",
+    "meaning": "v.(使)振奋,(使)高兴 v./n.喝彩,欢呼"
+  },
+  {
+    "word": "cheese",
+    "meaning": "n.干酪,乳酪"
+  },
+  {
+    "word": "chef",
+    "meaning": "n.(餐馆等的)厨师长，厨师"
+  },
+  {
+    "word": "chemical",
+    "meaning": "a.化学的 n.(pl.)化学制品,化学药品"
+  },
+  {
+    "word": "chemist",
+    "meaning": "n.化学家;药剂师"
+  },
+  {
+    "word": "chemistry",
+    "meaning": "n.化学"
+  },
+  {
+    "word": "cheque",
+    "meaning": "n.(check)支票,空白支票;总收入"
+  },
+  {
+    "word": "cherish",
+    "meaning": "vt.抱有，怀有(希望等)；爱护，抚育；珍爱"
+  },
+  {
+    "word": "cherry",
+    "meaning": "n.樱桃(树)"
+  },
+  {
+    "word": "chess",
+    "meaning": "n.棋，国际象棋"
+  },
+  {
+    "word": "chest",
+    "meaning": "n.胸腔,胸膛;箱,柜"
+  },
+  {
+    "word": "chew",
+    "meaning": "v.咀嚼;思量"
+  },
+  {
+    "word": "chicken",
+    "meaning": "n.鸡肉；鸡，小鸡，小鸟"
+  },
+  {
+    "word": "chief",
+    "meaning": "a.主要的,首要的 n.首领,领袖"
+  },
+  {
+    "word": "child",
+    "meaning": "n.( [pl.] children)小孩，儿童，儿女"
+  },
+  {
+    "word": "childhood",
+    "meaning": "n.幼年,童年"
+  },
+  {
+    "word": "chill",
+    "meaning": "n.寒冷,寒气,寒战 v.使寒冷"
+  },
+  {
+    "word": "chimney",
+    "meaning": "n.烟囱"
+  },
+  {
+    "word": "chin",
+    "meaning": "n.下巴,颏"
+  },
+  {
+    "word": "china",
+    "meaning": "n.瓷器"
+  },
+  {
+    "word": "chip",
+    "meaning": "n.切屑,碎片;(土豆等的)薄片;集成电路块"
+  },
+  {
+    "word": "chocolate",
+    "meaning": "n.巧克力(糖),赭色"
+  },
+  {
+    "word": "choice",
+    "meaning": "n.选择(机会),抉择,选择项;入选者 a.精选的"
+  },
+  {
+    "word": "choke",
+    "meaning": "v.窒息,噎住;闷塞,堵塞,阻塞"
+  },
+  {
+    "word": "choose",
+    "meaning": "v.选择,挑选;甘愿"
+  },
+  {
+    "word": "chop",
+    "meaning": "v.砍,劈,斩 n.排骨,肉块"
+  },
+  {
+    "word": "chorus",
+    "meaning": "n.合唱队;合唱 v.异口同声地说,随声附和"
+  },
+  {
+    "word": "Christ",
+    "meaning": "n.基督，救世主，耶稣"
+  },
+  {
+    "word": "Christian",
+    "meaning": "n.基督教徒 a.基督教徒的"
+  },
+  {
+    "word": "Christmas",
+    "meaning": "n．圣诞节"
+  },
+  {
+    "word": "chronic",
+    "meaning": "a.(疾病)慢性的;积习难改的;严重的,坏的"
+  },
+  {
+    "word": "church",
+    "meaning": "n.教堂；教会,教派；（宗教的）礼拜仪式"
+  },
+  {
+    "word": "cigar",
+    "meaning": "n.雪茄烟"
+  },
+  {
+    "word": "cigaret",
+    "meaning": "n.(cigarette)香烟,纸烟,卷烟"
+  },
+  {
+    "word": "cinema",
+    "meaning": "n.电影院;电影,影片"
+  },
+  {
+    "word": "circle",
+    "meaning": "n.圆,圆周;集团;周期,循环 v.环绕,旋转"
+  },
+  {
+    "word": "circuit",
+    "meaning": "n.环行,周线,巡回;电路,线路"
+  },
+  {
+    "word": "circular",
+    "meaning": "a.圆(形)的,环形的;循环的 n.传单,通报"
+  },
+  {
+    "word": "circulate",
+    "meaning": "v.(使)循环,(使)流通"
+  },
+  {
+    "word": "circumference",
+    "meaning": "n.圆周,周围"
+  },
+  {
+    "word": "circus",
+    "meaning": "n.马戏团,杂技团;马戏场,杂技场"
+  },
+  {
+    "word": "cite",
+    "meaning": "v.引用,引证,举(例)"
+  },
+  {
+    "word": "citizen",
+    "meaning": "n.公民;市民,居民"
+  },
+  {
+    "word": "city",
+    "meaning": "n．城市；都市；市"
+  },
+  {
+    "word": "civil",
+    "meaning": "a.公民的,市民的;民间的;民用的;有礼貌的"
+  },
+  {
+    "word": "civilian",
+    "meaning": "n.平民 a.平民的;民用的"
+  },
+  {
+    "word": "civilization",
+    "meaning": "n.(=civilisation)文明,文化"
+  },
+  {
+    "word": "civilize",
+    "meaning": "v.(=civilise)使文明,开化"
+  },
+  {
+    "word": "claim",
+    "meaning": "v.要求;声称;索赔 n.要求;断言;索赔;权利"
+  },
+  {
+    "word": "clap",
+    "meaning": "v.拍手,拍,轻拍 n.拍(手),掌声,霹雳声"
+  },
+  {
+    "word": "clarify",
+    "meaning": "v.澄清,阐明"
+  },
+  {
+    "word": "clarity",
+    "meaning": "n.清晰,明晰"
+  },
+  {
+    "word": "clash",
+    "meaning": "v./n.碰撞 n.碰撞声"
+  },
+  {
+    "word": "clasp",
+    "meaning": "n.扣子,钩子;握手 v.扣住,钩住;紧握,紧抱"
+  },
+  {
+    "word": "class",
+    "meaning": "n.班级，年级；种类，等级，阶级；(一节)课"
+  },
+  {
+    "word": "classic",
+    "meaning": "n.(pl.)杰作,名著 a.第一流的,不朽的"
+  },
+  {
+    "word": "classical",
+    "meaning": "a.经典的,古典(文学)的"
+  },
+  {
+    "word": "classification",
+    "meaning": "n.分类,分级"
+  },
+  {
+    "word": "classify",
+    "meaning": "v.分类,分等(级)"
+  },
+  {
+    "word": "classmate",
+    "meaning": "(名)同班同学"
+  },
+  {
+    "word": "classroom",
+    "meaning": "n.教室，课堂"
+  },
+  {
+    "word": "clause",
+    "meaning": "n.(正式文件或法律文件的)条款;从句,分句"
+  },
+  {
+    "word": "claw",
+    "meaning": "n.爪,脚爪"
+  },
+  {
+    "word": "clay",
+    "meaning": "n.粘土,泥土"
+  },
+  {
+    "word": "clean",
+    "meaning": "a.清洁的，干净的v.除去..污垢,把...弄干净"
+  },
+  {
+    "word": "clear",
+    "meaning": "a./ad.清晰的(地)vt.清除；使清楚vi.变清澈"
+  },
+  {
+    "word": "clergy",
+    "meaning": "n.[总称]牧师，神职人员"
+  },
+  {
+    "word": "clerk",
+    "meaning": "n.职员,办事员;店员"
+  },
+  {
+    "word": "clever",
+    "meaning": "a.聪明的,伶俐的,机敏的,精巧的"
+  },
+  {
+    "word": "click",
+    "meaning": "n.滴答声；vi.发出滴答声"
+  },
+  {
+    "word": "client",
+    "meaning": "n.律师等的当事人，委托人；商店的顾客"
+  },
+  {
+    "word": "cliff",
+    "meaning": "n.悬崖;峭壁"
+  },
+  {
+    "word": "climate",
+    "meaning": "n.气候;风气,社会思潮"
+  },
+  {
+    "word": "climax",
+    "meaning": "n.顶点,高潮"
+  },
+  {
+    "word": "climb",
+    "meaning": "v./n.攀登,爬"
+  },
+  {
+    "word": "cling",
+    "meaning": "v.(to)粘住;依附;坚持"
+  },
+  {
+    "word": "clinic",
+    "meaning": "n.诊所"
+  },
+  {
+    "word": "clip",
+    "meaning": "v.剪,修剪;钳,夹住 n.夹,钳;回形针"
+  },
+  {
+    "word": "cloak",
+    "meaning": "n.斗蓬，披风；掩饰，幌子vt.掩盖，掩饰"
+  },
+  {
+    "word": "clock",
+    "meaning": "n.钟 vt.记录(时间、速度等)，为…计时"
+  },
+  {
+    "word": "clockwise",
+    "meaning": "a.顺时针方向"
+  },
+  {
+    "word": "clone",
+    "meaning": "n.无性繁殖，克隆；复制品v.克隆"
+  },
+  {
+    "word": "close",
+    "meaning": "v./n.关；结束 a./ad.近的(地)；紧密的(地)"
+  },
+  {
+    "word": "closet",
+    "meaning": "n.(壁)橱a.私下的vt.把…引进密室会谈"
+  },
+  {
+    "word": "cloth",
+    "meaning": "n.(一块)布,织物,衣料"
+  },
+  {
+    "word": "clothe",
+    "meaning": "v.(给…)穿衣,供给…衣服"
+  },
+  {
+    "word": "clothes",
+    "meaning": "n.衣服(虽为复数，亦不可数)"
+  },
+  {
+    "word": "clothing",
+    "meaning": "n.服装,被褥"
+  },
+  {
+    "word": "cloud",
+    "meaning": "n.云(状物);遮暗物,阴影;一大群"
+  },
+  {
+    "word": "cloudy",
+    "meaning": "a.多云的,阴(天)的;混浊的,模糊的"
+  },
+  {
+    "word": "club",
+    "meaning": "n.俱乐部,夜总会;社团;棍棒,球棒"
+  },
+  {
+    "word": "clue",
+    "meaning": "n.线索,暗示"
+  },
+  {
+    "word": "clumsy",
+    "meaning": "a.笨拙的,愚笨的"
+  },
+  {
+    "word": "cluster",
+    "meaning": "n.丛,群,串 v.群集,丛生"
+  },
+  {
+    "word": "clutch",
+    "meaning": "v.抓住,攫住,掌握 n.离合器"
+  },
+  {
+    "word": "coach",
+    "meaning": "n.长途公共汽车；教练 vt.训练，指导，培训"
+  },
+  {
+    "word": "coal",
+    "meaning": "n.煤,煤块"
+  },
+  {
+    "word": "coalition",
+    "meaning": "n.结合体，同盟；结合，联合"
+  },
+  {
+    "word": "coarse",
+    "meaning": "a.粗糙的,粗劣的;粗鲁的,粗俗的"
+  },
+  {
+    "word": "coast",
+    "meaning": "n.海岸,海滨"
+  },
+  {
+    "word": "coat",
+    "meaning": "n.上衣，外套；表皮；层,覆盖物 v.涂(盖)上"
+  },
+  {
+    "word": "cocaine",
+    "meaning": "n.可卡因，古柯碱（用作局部麻醉剂）"
+  },
+  {
+    "word": "cock",
+    "meaning": "n.公鸡,雄鸡;龙头,开关"
+  },
+  {
+    "word": "code",
+    "meaning": "n.代码,代号,密码;法典,法规,规划"
+  },
+  {
+    "word": "coffee",
+    "meaning": "n.咖啡(色)"
+  },
+  {
+    "word": "cognitive",
+    "meaning": "a.认知的，认识能力的"
+  },
+  {
+    "word": "coherent",
+    "meaning": "a.一致的，协调的；(话语等)条理清楚的"
+  },
+  {
+    "word": "cohesive",
+    "meaning": "a.粘合性的，有结合力的"
+  },
+  {
+    "word": "coil",
+    "meaning": "v.卷,盘绕 n.(一)卷,(一)圈;线圈,绕组"
+  },
+  {
+    "word": "coin",
+    "meaning": "n.硬币,货币 v.铸造(硬币),创造(新词)"
+  },
+  {
+    "word": "coincide",
+    "meaning": "vi.同时发生；巧合；一致；相符；"
+  },
+  {
+    "word": "coincidence",
+    "meaning": "n.巧合；同时发生，共同存在；符合，一致"
+  },
+  {
+    "word": "coke",
+    "meaning": "n.焦炭；可口可乐（COCA-COLA）的缩写"
+  },
+  {
+    "word": "cold",
+    "meaning": "a.冷的，寒冷的；冷淡的 n.冷，寒冷；伤风"
+  },
+  {
+    "word": "collaborate",
+    "meaning": "vi.协作，合作；(与敌人)勾结"
+  },
+  {
+    "word": "collapse",
+    "meaning": "v./n.倒塌；崩溃；(价格)暴跌；倒闭，破产"
+  },
+  {
+    "word": "collar",
+    "meaning": "n.衣领;环状物"
+  },
+  {
+    "word": "colleague",
+    "meaning": "n.同事,同僚"
+  },
+  {
+    "word": "collect",
+    "meaning": "v.收集,搜集;领取,接走;收(税等);聚集,堆积"
+  },
+  {
+    "word": "collection",
+    "meaning": "n.收藏(品),收集(物)"
+  },
+  {
+    "word": "collective",
+    "meaning": "n.集体 a.集体的,共同的"
+  },
+  {
+    "word": "college",
+    "meaning": "n.学院,高等专科学校,大学"
+  },
+  {
+    "word": "collide",
+    "meaning": "vi.[with]互撞，碰撞；冲突，抵触"
+  },
+  {
+    "word": "collision",
+    "meaning": "n.碰撞；(利益，意见等的)冲突，抵触"
+  },
+  {
+    "word": "colonel",
+    "meaning": "n.(陆军)上校"
+  },
+  {
+    "word": "colonial",
+    "meaning": "a.殖民地的，关于殖民的 n.殖民地居民"
+  },
+  {
+    "word": "colony",
+    "meaning": "n.殖民地；侨民；聚居区；(动植物的)群体"
+  },
+  {
+    "word": "color",
+    "meaning": "n.(=colour)颜色；颜料；肤色 v.给…着色"
+  },
+  {
+    "word": "column",
+    "meaning": "n.圆柱,柱状物;列;(报刊中的)专栏"
+  },
+  {
+    "word": "comb",
+    "meaning": "n.梳子 v.梳(理)"
+  },
+  {
+    "word": "combat",
+    "meaning": "v./n.战斗,搏斗,格斗"
+  },
+  {
+    "word": "combination",
+    "meaning": "n.结合，联合；化合；团体；组合数码"
+  },
+  {
+    "word": "combine",
+    "meaning": "v.联合；结合；化合 n.集团；联合企业"
+  },
+  {
+    "word": "come",
+    "meaning": "v.来；出现于，产生；是，成为；开始，终于"
+  },
+  {
+    "word": "comedy",
+    "meaning": "n.喜剧;喜剧性事件"
+  },
+  {
+    "word": "comfort",
+    "meaning": "n.舒适，安逸；安慰，慰问 v.安慰，使舒适"
+  },
+  {
+    "word": "comfortable",
+    "meaning": "a.舒适的，舒服的；感到舒适的，安逸的"
+  },
+  {
+    "word": "comic",
+    "meaning": "a.喜剧的，滑稽的n.连环漫画杂志；喜剧演员"
+  },
+  {
+    "word": "command",
+    "meaning": "n./v.命令，指挥，控制 n.掌握，运用能力"
+  },
+  {
+    "word": "commemorate",
+    "meaning": "vt.纪念，庆祝"
+  },
+  {
+    "word": "commence",
+    "meaning": "vt.开始 vi.获得学位"
+  },
+  {
+    "word": "commend",
+    "meaning": "v.称赞，表扬：委托保管；推荐"
+  },
+  {
+    "word": "comment",
+    "meaning": "n.注释,评论,意见 v.(on)注释,评论"
+  },
+  {
+    "word": "commerce",
+    "meaning": "n.商业，贸易；交际，交往"
+  },
+  {
+    "word": "commercial",
+    "meaning": "a.商业的；商务的；可获利的 n.广告节目"
+  },
+  {
+    "word": "commission",
+    "meaning": "n.委员会;委任,委托(书),代办;佣金,手续费"
+  },
+  {
+    "word": "commit",
+    "meaning": "v.把…交托给,提交;犯(错误),干(坏事)"
+  },
+  {
+    "word": "committee",
+    "meaning": "n.委员会,全体委员"
+  },
+  {
+    "word": "commodity",
+    "meaning": "n.(pl.)日用品；商品；农/矿产品；有用之物"
+  },
+  {
+    "word": "common",
+    "meaning": "a.普通的；共同的；一般的；n.公有地"
+  },
+  {
+    "word": "commonplace",
+    "meaning": "a.普通的，平庸的n.寻常的事物，平庸的东西"
+  },
+  {
+    "word": "commonwealth",
+    "meaning": "n.共和国,联邦,共同体"
+  },
+  {
+    "word": "communicate",
+    "meaning": "v.传达,传送;交流;通讯,通话"
+  },
+  {
+    "word": "communication",
+    "meaning": "n.通讯,传达;(pl.)通讯系统;交通(工具)"
+  },
+  {
+    "word": "communism",
+    "meaning": "n.共产主义"
+  },
+  {
+    "word": "community",
+    "meaning": "n.同一地区的全体居民,社会,社区;共同体"
+  },
+  {
+    "word": "commute",
+    "meaning": "v.乘公交车上下班,乘车(船等)往返于两地"
+  },
+  {
+    "word": "compact",
+    "meaning": "a.紧密的,结实的;简明的 v.使紧凑,压缩"
+  },
+  {
+    "word": "companion",
+    "meaning": "n.同伴,共事者;伴侣"
+  },
+  {
+    "word": "company",
+    "meaning": "n.公司;陪伴;宾客;连(队),(一)群,队,伙"
+  },
+  {
+    "word": "comparable",
+    "meaning": "a.(with,to)可比较的,比得上的"
+  },
+  {
+    "word": "comparative",
+    "meaning": "a.比较的,相当的"
+  },
+  {
+    "word": "compare",
+    "meaning": "vt.(to，with)比较；(to)把…比作vi.相比"
+  },
+  {
+    "word": "comparison",
+    "meaning": "n.比较,对比,比喻,比拟"
+  },
+  {
+    "word": "compartment",
+    "meaning": "n.卧车包房,(客车车厢内的)隔间;分隔的空间"
+  },
+  {
+    "word": "compass",
+    "meaning": "n.罗盘,指南针;(pl.)圆规"
+  },
+  {
+    "word": "compassion",
+    "meaning": "n.同情；怜悯(for)"
+  },
+  {
+    "word": "compatible",
+    "meaning": "a.能和睦相处的,合得来的;兼容的"
+  },
+  {
+    "word": "compel",
+    "meaning": "v.强迫,迫使"
+  },
+  {
+    "word": "compensate",
+    "meaning": "v.(for)补偿,赔偿"
+  },
+  {
+    "word": "compensation",
+    "meaning": "n.补偿(或赔偿)的款物；补偿，赔偿"
+  },
+  {
+    "word": "compete",
+    "meaning": "vi.比赛；竞争；对抗"
+  },
+  {
+    "word": "competent",
+    "meaning": "a.有能力的，能胜任的；足够的"
+  },
+  {
+    "word": "competition",
+    "meaning": "n.竞争，比赛；角逐，较量；[总称]竞争者"
+  },
+  {
+    "word": "competitive",
+    "meaning": "a.竞争的；好竞争的；(价格等的)有竞争力的"
+  },
+  {
+    "word": "compile",
+    "meaning": "vt.编辑，编制，搜集"
+  },
+  {
+    "word": "complain",
+    "meaning": "v.(about,of)抱怨;申诉"
+  },
+  {
+    "word": "complaint",
+    "meaning": "n.抱怨，诉苦，怨言，控告；疾病"
+  },
+  {
+    "word": "complement",
+    "meaning": "n.补足物，船上的定员；补语 vt.补充，补足"
+  },
+  {
+    "word": "complete",
+    "meaning": "a.完全的,圆满的 v.完成,结束,使完满"
+  },
+  {
+    "word": "complex",
+    "meaning": "a.复杂的;合成的,综合的 n.联合体"
+  },
+  {
+    "word": "complicate",
+    "meaning": "v.使..复杂；使..难懂；使（疾病等）恶化；"
+  },
+  {
+    "word": "complicated",
+    "meaning": "a.错综复杂的,麻烦的,难解的"
+  },
+  {
+    "word": "complication",
+    "meaning": "n.复杂,纠纷;并发症"
+  },
+  {
+    "word": "compliment",
+    "meaning": "n.(pl.)问候,致意 n./v.称赞,恭维"
+  },
+  {
+    "word": "comply",
+    "meaning": "v.(with)遵照，照做，应允；顺从，服从"
+  },
+  {
+    "word": "component",
+    "meaning": "n.组成部分,成分,元件 a.组成的,合成的"
+  },
+  {
+    "word": "compose",
+    "meaning": "v.组成,构成;(of)由…组成;创作(诗歌等)"
+  },
+  {
+    "word": "composite",
+    "meaning": "a.混合成的，综合成的n.合成物，复合材料"
+  },
+  {
+    "word": "composition",
+    "meaning": "n.作品,作文,乐曲;作曲;结构,组成,成分"
+  },
+  {
+    "word": "compound",
+    "meaning": "n.混合物,化合物 a.混合的,化合的；vt.混合"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "vt.理解，领会；包含，包括"
+  },
+  {
+    "word": "comprehension",
+    "meaning": "a.理解(力),领悟；包含，包含力"
+  },
+  {
+    "word": "comprehensive",
+    "meaning": "a.内容广泛的,总括性的，综合的"
+  },
+  {
+    "word": "compress",
+    "meaning": "vt.压紧，压缩；(把思想、文字等)浓缩"
+  },
+  {
+    "word": "comprise",
+    "meaning": "vt.包含，包括，由...组成；构成，组成"
+  },
+  {
+    "word": "compromise",
+    "meaning": "n.妥协，折衷vi.妥协vt.危及，放弃(原则等)"
+  },
+  {
+    "word": "compulsory",
+    "meaning": "a.必须做的，强制性的，(课程)必修的"
+  },
+  {
+    "word": "compute",
+    "meaning": "v./n.计算,估计"
+  },
+  {
+    "word": "computer",
+    "meaning": "n.计算机,电脑;计算者"
+  },
+  {
+    "word": "comrade",
+    "meaning": "n.同志,同事,同伴,朋友"
+  },
+  {
+    "word": "conceal",
+    "meaning": "v.隐藏,隐瞒,隐蔽"
+  },
+  {
+    "word": "concede",
+    "meaning": "vt.承认；容许；(比赛结束前)认输；退让"
+  },
+  {
+    "word": "conceive",
+    "meaning": "v.(of)设想,构思,想象;以为;怀胎,怀有"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "v.(on)集中,专心;浓缩 n.浓缩物"
+  },
+  {
+    "word": "concentration",
+    "meaning": "n.专心，专注；集中，集结；浓度"
+  },
+  {
+    "word": "concept",
+    "meaning": "n.概念，观念，设想"
+  },
+  {
+    "word": "concern",
+    "meaning": "v.涉及,关系到 v./n.关心 n.(利害)关系"
+  },
+  {
+    "word": "concerning",
+    "meaning": "prep.关于，论及"
+  },
+  {
+    "word": "concert",
+    "meaning": "n.音乐会,演奏会;一齐,一致"
+  },
+  {
+    "word": "concession",
+    "meaning": "n.让步，妥协；特许(权)；"
+  },
+  {
+    "word": "concise",
+    "meaning": "a.简明的,简洁的"
+  },
+  {
+    "word": "conclude",
+    "meaning": "v.结束,终止;断定,下结论;缔结,议定"
+  },
+  {
+    "word": "conclusion",
+    "meaning": "n.结论，推论；结尾；缔结，议定"
+  },
+  {
+    "word": "concrete",
+    "meaning": "a.具体的,实质性的n.混凝土v.用混凝土修筑"
+  },
+  {
+    "word": "condemn",
+    "meaning": "v.谴责,指责;判刑,宣告有罪"
+  },
+  {
+    "word": "condense",
+    "meaning": "v.(使)冷凝，(使)凝结；浓缩，压缩，简缩"
+  },
+  {
+    "word": "condition",
+    "meaning": "n.条件，状况，环境 vt.决定；支配；训练"
+  },
+  {
+    "word": "conduct",
+    "meaning": "n.行为,品行 v.引导;管理;指挥(乐队);传导"
+  },
+  {
+    "word": "conductor",
+    "meaning": "n.管理者；(汽车)售票员；领队，指挥；导体"
+  },
+  {
+    "word": "confer",
+    "meaning": "v.商讨；授予，颁给(勋衔，学位等)"
+  },
+  {
+    "word": "conference",
+    "meaning": "n.(正式)会议；讨论，商谈"
+  },
+  {
+    "word": "confess",
+    "meaning": "v.供认，承认，坦白，忏悔"
+  },
+  {
+    "word": "confidence",
+    "meaning": "n.(in)信任;信心,自信;秘密,机密"
+  },
+  {
+    "word": "confident",
+    "meaning": "n.(of,in)确信的,自信的"
+  },
+  {
+    "word": "confidential",
+    "meaning": "a.秘(机)密的；表示信任的；担任机密工作的"
+  },
+  {
+    "word": "confine",
+    "meaning": "vt.限制；使不外出，禁闭n.[pl.]界限，范围"
+  },
+  {
+    "word": "confirm",
+    "meaning": "v.使更坚固,使更坚定;(进一步)证实;确认"
+  },
+  {
+    "word": "conflict",
+    "meaning": "n.战斗,斗争;抵触,冲突 v.(with)抵触,冲突"
+  },
+  {
+    "word": "conform",
+    "meaning": "vi.(to)遵守，适应；相似，一致，符合"
+  },
+  {
+    "word": "confront",
+    "meaning": "v.使面临,使遭遇;面对(危险等)"
+  },
+  {
+    "word": "confuse",
+    "meaning": "v.使混乱,混淆"
+  },
+  {
+    "word": "confusion",
+    "meaning": "n.困惑，糊涂；混淆；混乱，骚乱"
+  },
+  {
+    "word": "congratulate",
+    "meaning": "v.(on)祝贺,向…致贺词"
+  },
+  {
+    "word": "congratulation",
+    "meaning": "n.(on)祝贺,(pl.)祝贺词"
+  },
+  {
+    "word": "congress",
+    "meaning": "n.(代表)大会;(美国等国的)国会,议会"
+  },
+  {
+    "word": "conjunction",
+    "meaning": "n.接合，连接，联合；连(接)词"
+  },
+  {
+    "word": "connect",
+    "meaning": "vt.连接；与…联系，接通(电话) vi.连接"
+  },
+  {
+    "word": "connection",
+    "meaning": "n.(connexion)联系,连接；亲戚，社会关系"
+  },
+  {
+    "word": "conquer",
+    "meaning": "v.征服,战胜,占领;克服,破除(坏习惯等)"
+  },
+  {
+    "word": "conquest",
+    "meaning": "n.征服，征服地，掠取物"
+  },
+  {
+    "word": "conscience",
+    "meaning": "n.良心,良知"
+  },
+  {
+    "word": "conscientious",
+    "meaning": "a.审慎正直的，认真的，本着良心的"
+  },
+  {
+    "word": "conscious",
+    "meaning": "a.(of)意识到的,自觉的;神志清醒的"
+  },
+  {
+    "word": "consecutive",
+    "meaning": "a.连续的；连贯的；顺序的"
+  },
+  {
+    "word": "consensus",
+    "meaning": "n.(意见等的)一致，一致同意，共识"
+  },
+  {
+    "word": "consent",
+    "meaning": "v./n.(to)同意,赞成,答应"
+  },
+  {
+    "word": "consequence",
+    "meaning": "n.结果,后果,影响;重要性"
+  },
+  {
+    "word": "consequently",
+    "meaning": "ad.结果，因此，所以"
+  },
+  {
+    "word": "conservation",
+    "meaning": "n.保存,保护,保守;守恒,不灭"
+  },
+  {
+    "word": "conservative",
+    "meaning": "a.保守的,守旧的 n.保守主义者"
+  },
+  {
+    "word": "consider",
+    "meaning": "v.考虑，细想；体谅，顾及；认为，把…看作"
+  },
+  {
+    "word": "considerable",
+    "meaning": "a.相当大(或多)的,可观的;值得考虑的"
+  },
+  {
+    "word": "considerate",
+    "meaning": "a.考虑周到的,体谅的"
+  },
+  {
+    "word": "consideration",
+    "meaning": "n.需要考虑的事,理由;考虑,思考;体谅,照顾"
+  },
+  {
+    "word": "consist",
+    "meaning": "v.(in)在于,存在于;(of)由…组成,由…构成"
+  },
+  {
+    "word": "consistent",
+    "meaning": "a.(in)前后一致的；（with）一致，符合"
+  },
+  {
+    "word": "console",
+    "meaning": "n.控制台，仪表板；落地柜 vt.安慰，慰问"
+  },
+  {
+    "word": "consolidate",
+    "meaning": "v.使加固，使加强；(把...)联为一体，合并"
+  },
+  {
+    "word": "conspicuous",
+    "meaning": "a.显眼的,明显的"
+  },
+  {
+    "word": "conspiracy",
+    "meaning": "n.阴谋，密谋，共谋"
+  },
+  {
+    "word": "constant",
+    "meaning": "a.固定的，持续的,忠实的 n.常数,恒量"
+  },
+  {
+    "word": "constituent",
+    "meaning": "n.选民；成分，组分a.组成的，构成的"
+  },
+  {
+    "word": "constitute",
+    "meaning": "vt.组成，构成，形成；设立，建立，任命"
+  },
+  {
+    "word": "constitution",
+    "meaning": "n.构成,构造,组成(方式),成分;体格;宪法"
+  },
+  {
+    "word": "constrain",
+    "meaning": "vt.限制，约束；克制，抑制"
+  },
+  {
+    "word": "construct",
+    "meaning": "v.建设,建造,构造;创立"
+  },
+  {
+    "word": "construction",
+    "meaning": "n.建造，构造；建筑物，结构；释义，解释"
+  },
+  {
+    "word": "consult",
+    "meaning": "v.请教，向...咨询，找...商量；查阅，查看"
+  },
+  {
+    "word": "consultant",
+    "meaning": "n.会诊医师,顾问医生;顾问"
+  },
+  {
+    "word": "consume",
+    "meaning": "vt.消耗；吃完，喝光；(with)使着迷；烧毁"
+  },
+  {
+    "word": "consumption",
+    "meaning": "n.消费(量),消耗"
+  },
+  {
+    "word": "contact",
+    "meaning": "v./n.(使)接触,联系,交往"
+  },
+  {
+    "word": "contain",
+    "meaning": "v.包含，容纳；容忍，抑制；可被...除尽"
+  },
+  {
+    "word": "container",
+    "meaning": "n.容器;集装箱"
+  },
+  {
+    "word": "contaminate",
+    "meaning": "v.弄污,弄脏,毒害,传染,染污"
+  },
+  {
+    "word": "contemplate",
+    "meaning": "vt.盘算，计议；周密考虑；注视，凝视"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "a.现代的,当代的;同时代的"
+  },
+  {
+    "word": "contempt",
+    "meaning": "n.轻视，藐视；受辱，丢脸"
+  },
+  {
+    "word": "contend",
+    "meaning": "v.竞争,斗争;坚决主张"
+  },
+  {
+    "word": "content",
+    "meaning": "n.容量,内容,(pl.)目录 a.(with)满足的"
+  },
+  {
+    "word": "contest",
+    "meaning": "n.竞争,竞赛,比赛 v.竞争,比赛,争论"
+  },
+  {
+    "word": "context",
+    "meaning": "n.（文章等）前后关系；(事件等发生的)背景"
+  },
+  {
+    "word": "continent",
+    "meaning": "n.大陆,洲"
+  },
+  {
+    "word": "continual",
+    "meaning": "a.不断的,连续的,频繁的"
+  },
+  {
+    "word": "continue",
+    "meaning": "v.继续,连续,延伸"
+  },
+  {
+    "word": "continuous",
+    "meaning": "a.连续的,持续的"
+  },
+  {
+    "word": "contract",
+    "meaning": "n.(承包)合同/契约 v.订合同/契约；使缩小"
+  },
+  {
+    "word": "contradict",
+    "meaning": "v.反驳;同…矛盾,同…抵触"
+  },
+  {
+    "word": "contradiction",
+    "meaning": "n.反驳，否认；矛盾，不一致"
+  },
+  {
+    "word": "contrary",
+    "meaning": "a.(to)相反的,矛盾的 n.反对,矛盾;相反"
+  },
+  {
+    "word": "contrast",
+    "meaning": "n.对比，对照 vi.形成对比 vt.把…与…对比"
+  },
+  {
+    "word": "contribute",
+    "meaning": "v.(to)贡献,捐助,捐献;投稿"
+  },
+  {
+    "word": "contribution",
+    "meaning": "n.贡献；捐款，捐献物；投稿"
+  },
+  {
+    "word": "contrive",
+    "meaning": "vt.谋划，策划；设法做到；设计，想出"
+  },
+  {
+    "word": "control",
+    "meaning": "n.(over)控制,支配 v.控制,支配"
+  },
+  {
+    "word": "controversial",
+    "meaning": "a.引起争论的,有争议的"
+  },
+  {
+    "word": "controversy",
+    "meaning": "n.争论，辩论，争吵"
+  },
+  {
+    "word": "convenience",
+    "meaning": "n.便利,方便;(pl.)便利设备"
+  },
+  {
+    "word": "convenient",
+    "meaning": "a.(to)便利的,方便的"
+  },
+  {
+    "word": "convention",
+    "meaning": "n.大会,会议;惯例,常规,习俗;公约,协定"
+  },
+  {
+    "word": "conventional",
+    "meaning": "a.惯例的,常规的"
+  },
+  {
+    "word": "conversation",
+    "meaning": "n.会话,谈话"
+  },
+  {
+    "word": "conversely",
+    "meaning": "ad.相反地"
+  },
+  {
+    "word": "conversion",
+    "meaning": "n.转变，转换；信仰的改变；"
+  },
+  {
+    "word": "convert",
+    "meaning": "v.变换,转换；改变（信仰等）；兑换（钱）"
+  },
+  {
+    "word": "convey",
+    "meaning": "v.运送,搬运,转运;传达,传播"
+  },
+  {
+    "word": "convict",
+    "meaning": "v.(经审讯)证明…有罪,宣判…有罪 n.囚犯"
+  },
+  {
+    "word": "conviction",
+    "meaning": "n.深信,确信；定罪，判罪；"
+  },
+  {
+    "word": "convince",
+    "meaning": "v.(of)使信服,使确信"
+  },
+  {
+    "word": "cook",
+    "meaning": "n.厨师 v.烹调，烧煮；纂改(账目)，捏造"
+  },
+  {
+    "word": "cool",
+    "meaning": "a.凉的；冷静的 n.凉快 ad.冷静地 v.使变凉"
+  },
+  {
+    "word": "cooperate",
+    "meaning": "v.(with)合作,协作,相配合"
+  },
+  {
+    "word": "cooperative",
+    "meaning": "a.合作的,协作的 n.合作社"
+  },
+  {
+    "word": "coordinate",
+    "meaning": "a.同等的,并列的;坐标的 n.同等者,坐标 vt.协作，协调"
+  },
+  {
+    "word": "cop",
+    "meaning": "n.警察(slang 俚语)"
+  },
+  {
+    "word": "cope",
+    "meaning": "v.(with)竞争,对抗;(with)对付,妥善处理"
+  },
+  {
+    "word": "copper",
+    "meaning": "n.铜;铜币,铜制器"
+  },
+  {
+    "word": "copy",
+    "meaning": "n.抄本，摹本；(一)本 vt.抄写；考试中抄袭"
+  },
+  {
+    "word": "copyright",
+    "meaning": "n.／a.版权(的)"
+  },
+  {
+    "word": "cord",
+    "meaning": "n.绳,索"
+  },
+  {
+    "word": "cordial",
+    "meaning": "a.诚恳的,亲切的,热诚的"
+  },
+  {
+    "word": "core",
+    "meaning": "n.果核;中心,核心"
+  },
+  {
+    "word": "corn",
+    "meaning": "n.谷物,庄稼,玉米"
+  },
+  {
+    "word": "corner",
+    "meaning": "n.角，街角；偏僻处； vt.将…逼入困境；"
+  },
+  {
+    "word": "corporation",
+    "meaning": "n.市镇自治机关；法人；公司，企业"
+  },
+  {
+    "word": "correct",
+    "meaning": "a.正确的,恰当的,端正的 v.改正,纠正,矫正"
+  },
+  {
+    "word": "correlate",
+    "meaning": "n.相互关联的事物 v.(with,to)(使)互相关联"
+  },
+  {
+    "word": "correspond",
+    "meaning": "v.通信,(with)符合,一致;(to)相当于,对应"
+  },
+  {
+    "word": "correspondence",
+    "meaning": "n.通信,信件;(with)符合;(to)相当于,对应"
+  },
+  {
+    "word": "correspondent",
+    "meaning": "n.记者,通讯员;通信者"
+  },
+  {
+    "word": "corresponding",
+    "meaning": "a.符合的,相应的,对应的"
+  },
+  {
+    "word": "corridor",
+    "meaning": "n.走廊,通路"
+  },
+  {
+    "word": "corrode",
+    "meaning": "v.(受)腐蚀,侵蚀"
+  },
+  {
+    "word": "corrupt",
+    "meaning": "v.贿赂,收买 a.腐败的,贪污的"
+  },
+  {
+    "word": "cosmic",
+    "meaning": "a.宇宙的；无比巨大的，无穷尽的"
+  },
+  {
+    "word": "cost",
+    "meaning": "n.成本,费用,代价 v.价值为,花费"
+  },
+  {
+    "word": "costly",
+    "meaning": "a.昂贵的,价值高的,豪华的"
+  },
+  {
+    "word": "costume",
+    "meaning": "n.(流行的)服饰；戏装，(特定场合的)套装"
+  },
+  {
+    "word": "cosy",
+    "meaning": "a.暖和舒服的；舒适的 [反]uncomfortable"
+  },
+  {
+    "word": "cottage",
+    "meaning": "n.村舍,小屋,别墅"
+  },
+  {
+    "word": "cotton",
+    "meaning": "n.棉花;棉线,棉纱;棉制品"
+  },
+  {
+    "word": "couch",
+    "meaning": "n.长沙发；(病人躺的)长榻vt.表达"
+  },
+  {
+    "word": "cough",
+    "meaning": "v./n.咳嗽"
+  },
+  {
+    "word": "could",
+    "meaning": "v.aux.(口语)(表示许可或请求）可以...，行"
+  },
+  {
+    "word": "council",
+    "meaning": "n.理事会,委员会,议事机构"
+  },
+  {
+    "word": "counsel",
+    "meaning": "v./n.劝告,忠告 n.法律顾问,辩护人"
+  },
+  {
+    "word": "count",
+    "meaning": "v.数,计算;算入;看作,认为 n.计数,总数"
+  },
+  {
+    "word": "counter",
+    "meaning": "n.柜台;计数器 a./ad.相反(的) v.反对,反击"
+  },
+  {
+    "word": "counterpart",
+    "meaning": "n.对应的人(或物)"
+  },
+  {
+    "word": "country",
+    "meaning": "n.国家;农村,乡下"
+  },
+  {
+    "word": "countryside",
+    "meaning": "n.乡下,农村"
+  },
+  {
+    "word": "county",
+    "meaning": "n.(英国)郡,(美国)县"
+  },
+  {
+    "word": "couple",
+    "meaning": "n.(一)对,双;夫妇; v.连接,结合"
+  },
+  {
+    "word": "coupon",
+    "meaning": "n.证明持券人有某种权利的卡片，票证，赠券"
+  },
+  {
+    "word": "courage",
+    "meaning": "n.勇气,胆量"
+  },
+  {
+    "word": "course",
+    "meaning": "n.课程,教程;过程,进程;路程,路线;一道菜"
+  },
+  {
+    "word": "court",
+    "meaning": "n.法院,法庭;宫廷,朝廷;院子;球场"
+  },
+  {
+    "word": "courtesy",
+    "meaning": "n.谦恭有礼;有礼貌的举止(或言词)"
+  },
+  {
+    "word": "courtyard",
+    "meaning": "n.院子，庭院，天井"
+  },
+  {
+    "word": "cousin",
+    "meaning": "n.堂(或表)兄弟,堂(或表)姐妹"
+  },
+  {
+    "word": "cover",
+    "meaning": "v.覆盖,包括,涉及 n.盖子,套子;(书的)封面"
+  },
+  {
+    "word": "cow",
+    "meaning": "n.母牛,奶牛"
+  },
+  {
+    "word": "coward",
+    "meaning": "n.懦夫,胆怯者"
+  },
+  {
+    "word": "crab",
+    "meaning": "n.螃蟹,蟹肉"
+  },
+  {
+    "word": "crack",
+    "meaning": "n.裂纹,缝隙;破裂声 v.(使)破裂,砸开"
+  },
+  {
+    "word": "cradle",
+    "meaning": "n.摇篮;发源地"
+  },
+  {
+    "word": "craft",
+    "meaning": "n.工艺,手艺,技巧;飞机,飞船"
+  },
+  {
+    "word": "crane",
+    "meaning": "n.起重机,鹤"
+  },
+  {
+    "word": "crash",
+    "meaning": "v./n.碰撞,坠落,摔坏 n.失败,瓦解;爆裂声"
+  },
+  {
+    "word": "crawl",
+    "meaning": "v./n.爬行,蠕动;缓慢(的)行进"
+  },
+  {
+    "word": "crazy",
+    "meaning": "a.疯狂的,古怪的,蠢的;(about)狂热的"
+  },
+  {
+    "word": "cream",
+    "meaning": "n.乳脂,(鲜)奶油;奶油色"
+  },
+  {
+    "word": "create",
+    "meaning": "v.创造,创作;引起,造成,建立"
+  },
+  {
+    "word": "creative",
+    "meaning": "a.有创造力的,创造性的"
+  },
+  {
+    "word": "creature",
+    "meaning": "n.人,动物;生物"
+  },
+  {
+    "word": "credential",
+    "meaning": "n.凭证，(pl.)国书，证明书"
+  },
+  {
+    "word": "credit",
+    "meaning": "v./n.信用,信任 n.信用贷款,赊欠;名誉,名望"
+  },
+  {
+    "word": "creep",
+    "meaning": "v.爬,爬行;(植物)蔓延"
+  },
+  {
+    "word": "crew",
+    "meaning": "n.全体船员,全体乘务员"
+  },
+  {
+    "word": "cricket",
+    "meaning": "n.板球;蟋蟀"
+  },
+  {
+    "word": "crime",
+    "meaning": "n.罪行,犯罪"
+  },
+  {
+    "word": "criminal",
+    "meaning": "n.罪犯,刑事犯 a.犯罪的,刑事的"
+  },
+  {
+    "word": "cripple",
+    "meaning": "n.跛子,残疾人 v.使跛,使残疾"
+  },
+  {
+    "word": "crisis",
+    "meaning": "n.(pl.crises)危机,紧要关头"
+  },
+  {
+    "word": "crisp",
+    "meaning": "a.脆的,易碎的;简明扼要的；（空气）清爽的"
+  },
+  {
+    "word": "criterion",
+    "meaning": "n.(pl.criteria或criterions)标准，尺度"
+  },
+  {
+    "word": "critic",
+    "meaning": "n.批评家,评论家"
+  },
+  {
+    "word": "critical",
+    "meaning": "a.批评的,评论的;危急,紧要的;临界的"
+  },
+  {
+    "word": "criticism",
+    "meaning": "n.评论性的文章，评论；批评，指责，非难"
+  },
+  {
+    "word": "criticize",
+    "meaning": "v.(criticise)批评,评论"
+  },
+  {
+    "word": "crop",
+    "meaning": "n.作物,庄稼;(谷类等的)一熟收成;一批,大量"
+  },
+  {
+    "word": "cross",
+    "meaning": "n.十字(架)；苦难 a.交叉的；发怒的 v.穿过"
+  },
+  {
+    "word": "crow",
+    "meaning": "n.乌鸦 v./n.鸡啼,鸣叫"
+  },
+  {
+    "word": "crowd",
+    "meaning": "n.人群;一群,一伙 v.聚集,群集;挤满,拥挤"
+  },
+  {
+    "word": "crown",
+    "meaning": "n.王冠,冕;君权,君王 v.为…加冕"
+  },
+  {
+    "word": "crucial",
+    "meaning": "a.至关重要的,决定性的"
+  },
+  {
+    "word": "crude",
+    "meaning": "a.天然的,未加工的;未熟的;粗鲁的,粗野的"
+  },
+  {
+    "word": "cruel",
+    "meaning": "a.残忍的,残酷的"
+  },
+  {
+    "word": "cruise",
+    "meaning": "v.巡航；以节省燃料的速度前进 n.乘船巡游"
+  },
+  {
+    "word": "crush",
+    "meaning": "n./v.压碎,压坏 v.压服,压垮"
+  },
+  {
+    "word": "crust",
+    "meaning": "n.外皮,壳;地壳"
+  },
+  {
+    "word": "cry",
+    "meaning": "n.&v.叫，喊，哭；(鸟兽)叫，啼，鸣，嗥"
+  },
+  {
+    "word": "crystal",
+    "meaning": "n.水晶,水晶饰品;结晶 a.水晶的,透明的"
+  },
+  {
+    "word": "cube",
+    "meaning": "n.立方形,立方体;立方,三次幂"
+  },
+  {
+    "word": "cucumber",
+    "meaning": "n.黄瓜"
+  },
+  {
+    "word": "cue",
+    "meaning": "暗示, 提示, 球杆"
+  },
+  {
+    "word": "cultivate",
+    "meaning": "v.耕作,栽培,养殖;培养,教养,磨炼"
+  },
+  {
+    "word": "culture",
+    "meaning": "n.文化,文明;修养;耕种；栽培,培育;"
+  },
+  {
+    "word": "cunning",
+    "meaning": "a./n.狡猾(的),狡诈(的)"
+  },
+  {
+    "word": "cup",
+    "meaning": "n.杯子；奖杯，优胜杯；(一)杯，一杯的容量"
+  },
+  {
+    "word": "cupboard",
+    "meaning": "n.碗柜,小橱"
+  },
+  {
+    "word": "curb",
+    "meaning": "n.路边，场外证券市场，vt.制止，抑制"
+  },
+  {
+    "word": "cure",
+    "meaning": "v.(of)治愈,医治;矫正 n.治愈,痊愈;良药"
+  },
+  {
+    "word": "curiosity",
+    "meaning": "n.好奇心;古董,古玩"
+  },
+  {
+    "word": "curious",
+    "meaning": "a.好奇的, 求知的, 古怪的, 爱挑剔的"
+  },
+  {
+    "word": "curl",
+    "meaning": "v.(使)卷曲,蜷缩 n.卷发;卷曲状;卷曲物"
+  },
+  {
+    "word": "currency",
+    "meaning": "n.流传,流通；通货,货币"
+  },
+  {
+    "word": "current",
+    "meaning": "n.电流,水流;潮流,趋势 a.当前的;流通的"
+  },
+  {
+    "word": "curriculum",
+    "meaning": "n.(pl.curricula)课程,(学校等的)全部课程"
+  },
+  {
+    "word": "curse",
+    "meaning": "n.诅咒,咒语,祸因 vt.诅咒,咒骂,使受罪"
+  },
+  {
+    "word": "curtain",
+    "meaning": "n.窗帘,门帘;幕(布);结束； vt遮掩"
+  },
+  {
+    "word": "curve",
+    "meaning": "n.曲线,弯曲(物) v.弄弯,成曲形"
+  },
+  {
+    "word": "cushion",
+    "meaning": "n.垫子,软垫 vt.装垫子;缓和,减轻;"
+  },
+  {
+    "word": "custom",
+    "meaning": "n.习惯,风俗,惯例;(pl.)海关,关税"
+  },
+  {
+    "word": "customary",
+    "meaning": "a.习惯的,惯例的"
+  },
+  {
+    "word": "customer",
+    "meaning": "n.顾客,主顾"
+  },
+  {
+    "word": "cut",
+    "meaning": "n./v.切，割，削;削减，删节 n.切口，伤口"
+  },
+  {
+    "word": "cyberspace",
+    "meaning": "n.虚拟信息空间;网络空间"
+  },
+  {
+    "word": "cycle",
+    "meaning": "n.自行车;周期,循环 v.骑自行车;循环"
+  },
+  {
+    "word": "cylinder",
+    "meaning": "n.圆筒,圆锥体;汽缸"
+  }
+]
