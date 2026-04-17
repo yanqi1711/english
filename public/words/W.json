@@ -1,0 +1,618 @@
+[
+  {
+    "word": "wage",
+    "meaning": "n.(常pl.)工资,报酬 vt.进行,开展"
+  },
+  {
+    "word": "wagon",
+    "meaning": "n.运货马车,运货车;敞蓬车厢"
+  },
+  {
+    "word": "waist",
+    "meaning": "n.腰,腰部"
+  },
+  {
+    "word": "wait",
+    "meaning": "v.(for)等待；(on)侍候 n.等候，等待时间"
+  },
+  {
+    "word": "waiter",
+    "meaning": "n.侍者,服务员"
+  },
+  {
+    "word": "waitress",
+    "meaning": "n.女侍者,女服务员"
+  },
+  {
+    "word": "wake",
+    "meaning": "v.醒来,唤醒;使觉醒,激发,引起"
+  },
+  {
+    "word": "waken",
+    "meaning": "v.醒,弄醒,唤醒"
+  },
+  {
+    "word": "walk",
+    "meaning": "v.走，步行，散步；走遍 n.走，步行，散步"
+  },
+  {
+    "word": "wall",
+    "meaning": "n.墙，壁，围墙vt.筑墙围住，用墙隔开"
+  },
+  {
+    "word": "wallet",
+    "meaning": "n.皮夹,钱包"
+  },
+  {
+    "word": "wander",
+    "meaning": "v.漫步,徘徊;迷路,迷失方向;离题"
+  },
+  {
+    "word": "want",
+    "meaning": "vt.想要;希望;需要;缺,缺少 n.需要;短缺"
+  },
+  {
+    "word": "war",
+    "meaning": "n.战争(状态)；冲突 vi.作战"
+  },
+  {
+    "word": "ward",
+    "meaning": "n.病房;行政区;监护;被监护人 vt.挡住"
+  },
+  {
+    "word": "wardrobe",
+    "meaning": "n.衣柜,衣厨;衣服;行头;剧装"
+  },
+  {
+    "word": "warehouse",
+    "meaning": "n.仓库,货栈"
+  },
+  {
+    "word": "warfare",
+    "meaning": "n.战争(状态);斗争;冲突"
+  },
+  {
+    "word": "warm",
+    "meaning": "a.温暖的，热心的，热情的  v.(使)变暖"
+  },
+  {
+    "word": "warmth",
+    "meaning": "n.暖和,温暖;热心,热情"
+  },
+  {
+    "word": "warn",
+    "meaning": "vt.警告 vi.发出警告"
+  },
+  {
+    "word": "warrant",
+    "meaning": "n.正当理由;许可证,委任状 v.保证,担保"
+  },
+  {
+    "word": "wash",
+    "meaning": "n.洗；洗的衣物 vt.冲刷，洗；冲出 vi.洗澡"
+  },
+  {
+    "word": "waste",
+    "meaning": "v.浪费 a.无用的;荒芜的 n.浪费;废物"
+  },
+  {
+    "word": "watch",
+    "meaning": "v.观看；看守；(for)窥伺，等待 n.看管；注视;手表;守护"
+  },
+  {
+    "word": "water",
+    "meaning": "n.水 vt.浇灌；给…饮水 vi.流泪，加水"
+  },
+  {
+    "word": "waterfall",
+    "meaning": "n.瀑布"
+  },
+  {
+    "word": "waterproof",
+    "meaning": "a.防水的,耐水的"
+  },
+  {
+    "word": "watt",
+    "meaning": "n.瓦,瓦特"
+  },
+  {
+    "word": "wave",
+    "meaning": "n.波浪;(挥手)示意;飘扬 v.(挥手)示意,致意"
+  },
+  {
+    "word": "wax",
+    "meaning": "n.蜡,蜂蜡 v.打蜡"
+  },
+  {
+    "word": "way",
+    "meaning": "n.道路，路程；方法/式，手段；习惯；状态"
+  },
+  {
+    "word": "we",
+    "meaning": "pron．我们<主格>"
+  },
+  {
+    "word": "weak",
+    "meaning": "a.虚弱的,软弱的;不够标准的;淡薄的,稀的"
+  },
+  {
+    "word": "wealth",
+    "meaning": "n.财富,财产;大量"
+  },
+  {
+    "word": "wealthy",
+    "meaning": "a.富有的,丰裕的,充分的 n.富人,有钱人"
+  },
+  {
+    "word": "weapon",
+    "meaning": "n.武器,兵器"
+  },
+  {
+    "word": "wear",
+    "meaning": "v.穿着，戴着；磨损，用旧 n.穿，戴；磨损"
+  },
+  {
+    "word": "weary",
+    "meaning": "a.疲倦的;令人厌烦的 v.使疲倦,使厌倦"
+  },
+  {
+    "word": "weather",
+    "meaning": "n.天气,气象"
+  },
+  {
+    "word": "weave",
+    "meaning": "v.编(织) n.编织法，编织式样"
+  },
+  {
+    "word": "web",
+    "meaning": "n.网,蜘蛛网"
+  },
+  {
+    "word": "wedding",
+    "meaning": "n.婚礼"
+  },
+  {
+    "word": "wedge",
+    "meaning": "n.楔,楔形 vt.楔牢,楔入,挤进"
+  },
+  {
+    "word": "Wednesday",
+    "meaning": "n.星期三"
+  },
+  {
+    "word": "weed",
+    "meaning": "n.杂草,野草 v.除草,锄草"
+  },
+  {
+    "word": "week",
+    "meaning": "n.星期，周"
+  },
+  {
+    "word": "weekday",
+    "meaning": "n.平常日,工作日"
+  },
+  {
+    "word": "weekend",
+    "meaning": "n.周末"
+  },
+  {
+    "word": "weekly",
+    "meaning": "a.每星期的,一周的ad.每周一次 n.周刊,周报"
+  },
+  {
+    "word": "weep",
+    "meaning": "v.哭泣,流泪;滴下 n.哭泣"
+  },
+  {
+    "word": "weigh",
+    "meaning": "v.称…重量,称;重达;考虑,权衡"
+  },
+  {
+    "word": "weight",
+    "meaning": "n.重量;负荷,重担;重要性,分量;砝码,秤砣"
+  },
+  {
+    "word": "weird",
+    "meaning": "a.古怪的，离奇的；怪诞的，神秘而可怕的"
+  },
+  {
+    "word": "welcome",
+    "meaning": "int.欢迎 a.受欢迎的 vt./n.欢迎；迎接"
+  },
+  {
+    "word": "weld",
+    "meaning": "v.焊接 n.焊接,焊缝"
+  },
+  {
+    "word": "welfare",
+    "meaning": "n.福利；幸福；福利事业"
+  },
+  {
+    "word": "well",
+    "meaning": "ad.好，令人满意地；很 int.哎呀，好啦，嗯"
+  },
+  {
+    "word": "well-known",
+    "meaning": "a.有名的,著名的"
+  },
+  {
+    "word": "west",
+    "meaning": "n./a.西,西方(的),西部(的) ad.向西"
+  },
+  {
+    "word": "western",
+    "meaning": "a.西方的,西部的"
+  },
+  {
+    "word": "wet",
+    "meaning": "a.湿的,潮湿的;有雨的,多雨的 v.弄湿,沾湿"
+  },
+  {
+    "word": "whale",
+    "meaning": "n.鲸；庞然大物"
+  },
+  {
+    "word": "what",
+    "meaning": "pron.什么 a.多么，何等；什么；尽可能多的"
+  },
+  {
+    "word": "whatever",
+    "meaning": "pron.无论什么 a.无论什么样的"
+  },
+  {
+    "word": "whatsoever",
+    "meaning": "ad.(用于否定句中以加强语气)任何"
+  },
+  {
+    "word": "wheat",
+    "meaning": "n.小麦"
+  },
+  {
+    "word": "wheel",
+    "meaning": "n.轮,车轮"
+  },
+  {
+    "word": "when",
+    "meaning": "ad./pron.何时；当时 conj.那时；然后；而"
+  },
+  {
+    "word": "whenever",
+    "meaning": "conj.无论何时,随时;每当"
+  },
+  {
+    "word": "where",
+    "meaning": "ad.在哪/那里 conj./pron.哪里 conj.然而"
+  },
+  {
+    "word": "whereas",
+    "meaning": "conj.而,却,反之"
+  },
+  {
+    "word": "wherever",
+    "meaning": "conj.无论在哪里 ad.无论在哪里,究竟在哪里"
+  },
+  {
+    "word": "whether",
+    "meaning": "conj.是否，会不会，不管，无论"
+  },
+  {
+    "word": "which",
+    "meaning": "a./pron.哪个，哪些；什么样的；那个，那些"
+  },
+  {
+    "word": "whichever",
+    "meaning": "pron./a.无论哪个,无论哪些"
+  },
+  {
+    "word": "while",
+    "meaning": "conj.当…的时候；而；虽然；尽管 n.一会儿"
+  },
+  {
+    "word": "whip",
+    "meaning": "n.鞭子;车夫 v.鞭打,抽打;突然移动"
+  },
+  {
+    "word": "whirl",
+    "meaning": "v.(使)旋转,打转 n.旋转;-连串快速的活动"
+  },
+  {
+    "word": "whisky",
+    "meaning": "n.威士忌酒"
+  },
+  {
+    "word": "whisper",
+    "meaning": "v.耳语;私下说,偷偷告诉 n.耳语;传闻"
+  },
+  {
+    "word": "whistle",
+    "meaning": "n.口哨,汽笛;口哨声,汽笛声 v.吹口哨;鸣笛"
+  },
+  {
+    "word": "white",
+    "meaning": "a.白色的；苍白的；白种的 n.白色；白种人"
+  },
+  {
+    "word": "who",
+    "meaning": "pron.谁，什么人；…的人；他，她，他们"
+  },
+  {
+    "word": "whoever",
+    "meaning": "pron.[引导名词从句]谁；无论谁；究竟是谁"
+  },
+  {
+    "word": "whole",
+    "meaning": "n.全部 a.全体的；全部的；完整的；无缺的"
+  },
+  {
+    "word": "wholesome",
+    "meaning": "a.卫生的;有益的;健康的,有益健康的"
+  },
+  {
+    "word": "wholly",
+    "meaning": "ad.完全地,全部,一概"
+  },
+  {
+    "word": "whom",
+    "meaning": "pron.谁；哪个人(who的宾格)"
+  },
+  {
+    "word": "whose",
+    "meaning": "pron.谁的；哪(个)人的，那些(人)的"
+  },
+  {
+    "word": "why",
+    "meaning": "ad./conj.为什么；…的理由 int.咳，哎呀"
+  },
+  {
+    "word": "wicked",
+    "meaning": "a.坏的;邪恶的;不道德的;恶劣的;淘气的"
+  },
+  {
+    "word": "wide",
+    "meaning": "a.宽阔的;睁大的;远离的 ad.广阔地;偏差地"
+  },
+  {
+    "word": "widespread",
+    "meaning": "a.分布广泛的,普遍的"
+  },
+  {
+    "word": "widow",
+    "meaning": "n.寡妇"
+  },
+  {
+    "word": "width",
+    "meaning": "n.宽度;宽阔,广阔"
+  },
+  {
+    "word": "wife",
+    "meaning": "n.妻子，夫人，太太"
+  },
+  {
+    "word": "wild",
+    "meaning": "a.野性的,野生的;野蛮的;狂热的;荒芜的"
+  },
+  {
+    "word": "will",
+    "meaning": "aux./v. 将；会；愿意 n.意志；决心；愿望"
+  },
+  {
+    "word": "willing",
+    "meaning": "a.愿意的，乐意的，心甘情愿的"
+  },
+  {
+    "word": "win",
+    "meaning": "vi.获胜，赢 vt.赢得；在…中获胜 n.胜利"
+  },
+  {
+    "word": "wind",
+    "meaning": "n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行"
+  },
+  {
+    "word": "window",
+    "meaning": "n.窗,窗口"
+  },
+  {
+    "word": "wine",
+    "meaning": "n.葡萄酒,果酒"
+  },
+  {
+    "word": "wing",
+    "meaning": "n.翅,翅膀;翼,机翼;派别 vt.装以翼"
+  },
+  {
+    "word": "wink",
+    "meaning": "v.(使)眨眼；眨眼示意 n.眨眼；小睡，打盹"
+  },
+  {
+    "word": "winter",
+    "meaning": "n.冬季，冬天"
+  },
+  {
+    "word": "wipe",
+    "meaning": "v./n.擦,揩,抹"
+  },
+  {
+    "word": "wire",
+    "meaning": "n.金属线,电线;电报,电信 v.发电报(给)"
+  },
+  {
+    "word": "wisdom",
+    "meaning": "n.智慧,明智;名言,格言"
+  },
+  {
+    "word": "wise",
+    "meaning": "a.有智慧的,聪明的"
+  },
+  {
+    "word": "wish",
+    "meaning": "v.希望；但愿；祝 n.愿望，希望；[pl.]祝愿"
+  },
+  {
+    "word": "wit",
+    "meaning": "n.智力,才智,智慧"
+  },
+  {
+    "word": "witch",
+    "meaning": "n.女巫, 巫婆，巫师"
+  },
+  {
+    "word": "with",
+    "meaning": "prep.跟…一起；用；具有；关于；因；随着"
+  },
+  {
+    "word": "withdraw",
+    "meaning": "v.收回,撤消;缩回,退出;提取(钱)"
+  },
+  {
+    "word": "withhold",
+    "meaning": "vt.使停止;拒给;保留;抑制 vi.忍住"
+  },
+  {
+    "word": "within",
+    "meaning": "prep.在…里面,在…以内 ad.在内"
+  },
+  {
+    "word": "without",
+    "meaning": "prep.无，没有 n.外面，外部"
+  },
+  {
+    "word": "withstand",
+    "meaning": "vt.抵抗,经受住"
+  },
+  {
+    "word": "witness",
+    "meaning": "n.目击者,证人;证据,证明 v.目击,目睹;作证"
+  },
+  {
+    "word": "wolf",
+    "meaning": "n.狼"
+  },
+  {
+    "word": "woman",
+    "meaning": "n.(pl.）women妇女，成年女子"
+  },
+  {
+    "word": "wonder",
+    "meaning": "n.惊奇,惊异;奇迹,奇事 v.(at)诧异;想知道"
+  },
+  {
+    "word": "wonderful",
+    "meaning": "a.惊人的,奇妙的;极好的"
+  },
+  {
+    "word": "wood",
+    "meaning": "n.木材，木头，木料；(pl.)森林，林地"
+  },
+  {
+    "word": "wooden",
+    "meaning": "a.木制的;呆笨的"
+  },
+  {
+    "word": "wool",
+    "meaning": "n.羊毛,毛线,毛织品"
+  },
+  {
+    "word": "word",
+    "meaning": "n.词，词语；言语，话；谈话；消息，信息"
+  },
+  {
+    "word": "work",
+    "meaning": "n.工作(量)；作品；[pl.]工厂 v.工作；运转"
+  },
+  {
+    "word": "worker",
+    "meaning": "n.工人，工作者，工作人员"
+  },
+  {
+    "word": "workshop",
+    "meaning": "n.车间，工场，修理厂；研讨会，讲习班"
+  },
+  {
+    "word": "world",
+    "meaning": "n.世界，地球；…界，领域；世间；全世界"
+  },
+  {
+    "word": "worldwide",
+    "meaning": "a.全世界的,世界范围的 ad.遍及全世界"
+  },
+  {
+    "word": "worm",
+    "meaning": "n.虫,蠕虫"
+  },
+  {
+    "word": "worry",
+    "meaning": "v.烦恼;(about)对…感到烦恼 n.烦恼,焦虑"
+  },
+  {
+    "word": "worse",
+    "meaning": "a./ad.更坏,更差(的/地)"
+  },
+  {
+    "word": "worship",
+    "meaning": "n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜"
+  },
+  {
+    "word": "worst",
+    "meaning": "a./ad.最坏(的),最差(的)"
+  },
+  {
+    "word": "worth",
+    "meaning": "n.价值 a.值…的,价值…的,值得…的"
+  },
+  {
+    "word": "worthwhile",
+    "meaning": "a.值得(做)的"
+  },
+  {
+    "word": "worthy",
+    "meaning": "a.(of)值得…的,配得上…的;有价值的"
+  },
+  {
+    "word": "would",
+    "meaning": "aux./v.将；可能；将会；总是，总会；宁愿"
+  },
+  {
+    "word": "wound",
+    "meaning": "n.创伤,伤口 v.伤,伤害"
+  },
+  {
+    "word": "wrap",
+    "meaning": "v.裹,缠,卷,包 n.披肩,围巾"
+  },
+  {
+    "word": "wreath",
+    "meaning": "n.花环,花圈"
+  },
+  {
+    "word": "wreck",
+    "meaning": "n.失事船(或飞机)v.(船等)失事,遇难;破坏"
+  },
+  {
+    "word": "wrench",
+    "meaning": "v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受"
+  },
+  {
+    "word": "wretched",
+    "meaning": "a.可怜的;悲惨的;肮脏的;恶劣的"
+  },
+  {
+    "word": "wrinkle",
+    "meaning": "n.皱纹 v.起皱,皱眉"
+  },
+  {
+    "word": "wrist",
+    "meaning": "n.腕,腕关节"
+  },
+  {
+    "word": "write",
+    "meaning": "v.写，书写，写字；写作；写信(给)，函告"
+  },
+  {
+    "word": "writing",
+    "meaning": "n.写,写作;著作,作品"
+  },
+  {
+    "word": "wrong",
+    "meaning": "a.错的 ad.错误地，不正确地 n.错误 v.委屈"
+  }
+]

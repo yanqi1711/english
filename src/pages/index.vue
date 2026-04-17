@@ -1,33 +1,23 @@
 <script setup>
 import { computed, onMounted, ref } from 'vue'
 
-const words = ref([])
+const LETTERS = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))
+
+const wordsByLetter = ref({})
+const loadingLetters = ref(new Set())
+const loadedLetters = ref(new Set())
 const currentLetter = ref('A')
 const mainElement = ref(null)
 const isShowToTop = ref(false)
 
+const displayWords = computed(() => wordsByLetter.value[currentLetter.value] || [])
+
 const groupedWords = computed(() => {
   const groups = {}
-  for (let i = 0; i < 26; i++) {
-    const char = String.fromCharCode(65 + i)
-    groups[char] = []
-  }
-
-  if (words.value.length > 0) {
-    words.value.forEach((item) => {
-      if (item.word) {
-        const firstLetter = item.word.charAt(0).toUpperCase()
-        if (groups[firstLetter]) {
-          groups[firstLetter].push(item)
-        }
-      }
-    })
-  }
+  LETTERS.forEach((letter) => {
+    groups[letter] = wordsByLetter.value[letter] || []
+  })
   return groups
-})
-
-const displayWords = computed(() => {
-  return groupedWords.value[currentLetter.value] || []
 })
 
 // 滚动监听逻辑
@@ -43,15 +33,56 @@ function toTop() {
   })
 }
 
+async function loadWordsByLetter(letter) {
+  if (loadedLetters.value.has(letter) || loadingLetters.value.has(letter))
+    return
+
+  loadingLetters.value.add(letter)
+  try {
+    const data = await fetch(`/words/${letter}.json`).then(res => res.json())
+    wordsByLetter.value = {
+      ...wordsByLetter.value,
+      [letter]: data,
+    }
+    loadedLetters.value.add(letter)
+  }
+  catch (error) {
+    console.error(`Failed to load words for letter ${letter}`, error)
+  }
+  finally {
+    loadingLetters.value.delete(letter)
+  }
+}
+
+function prefetchRemainingWords() {
+  const queue = LETTERS.filter(letter => !loadedLetters.value.has(letter))
+  if (queue.length === 0)
+    return
+
+  const prefetchNext = () => {
+    const nextLetter = queue.shift()
+    if (!nextLetter)
+      return
+
+    loadWordsByLetter(nextLetter).finally(() => {
+      if (queue.length)
+        setTimeout(prefetchNext, 120)
+    })
+  }
+
+  if (typeof window !== 'undefined' && 'requestIdleCallback' in window) {
+    window.requestIdleCallback(prefetchNext)
+  }
+  else {
+    setTimeout(prefetchNext, 200)
+  }
+}
+
 // 切换字母逻辑：更新字母并回顶
 function selectLetter(letter) {
   currentLetter.value = letter
+  loadWordsByLetter(letter)
   toTop()
-}
-
-async function loadWords() {
-  const data = await fetch('/data.json').then(res => res.json())
-  words.value = data
 }
 
 function gotoGoogle(word) {
@@ -59,7 +90,10 @@ function gotoGoogle(word) {
   window.open(link, '_blank')
 }
 
-onMounted(loadWords)
+onMounted(async () => {
+  await loadWordsByLetter(currentLetter.value)
+  prefetchRemainingWords()
+})
 </script>
 
 <template>

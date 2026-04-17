@@ -1,0 +1,466 @@
+[
+  {
+    "word": "nail",
+    "meaning": "n.指甲,爪;钉 v.将…钉牢,钉住"
+  },
+  {
+    "word": "naive",
+    "meaning": "a.天真的"
+  },
+  {
+    "word": "naked",
+    "meaning": "a.裸体的,无遮敝的,无掩饰的"
+  },
+  {
+    "word": "name",
+    "meaning": "n.名字(称/声/义) vt.给…取名；列举；提名"
+  },
+  {
+    "word": "namely",
+    "meaning": "ad.即,也就是"
+  },
+  {
+    "word": "nap",
+    "meaning": "n.小睡,打盹"
+  },
+  {
+    "word": "napkin",
+    "meaning": "n.餐巾,餐巾纸,<英>尿布"
+  },
+  {
+    "word": "narrative",
+    "meaning": "a.叙述性的 n.叙述"
+  },
+  {
+    "word": "narrow",
+    "meaning": "a.狭窄的,狭的,狭隘的"
+  },
+  {
+    "word": "nasty",
+    "meaning": "a.肮脏的,卑劣的,下流的;令人厌恶的"
+  },
+  {
+    "word": "nation",
+    "meaning": "n.民族,国家"
+  },
+  {
+    "word": "national",
+    "meaning": "a.民族的,国家的,国立的"
+  },
+  {
+    "word": "nationality",
+    "meaning": "n.国籍,民族"
+  },
+  {
+    "word": "native",
+    "meaning": "a.本地的,本国的;天生的 n.本地人,本国人"
+  },
+  {
+    "word": "natural",
+    "meaning": "a.正常的;自然界的,天然的,天赋的,固有的"
+  },
+  {
+    "word": "nature",
+    "meaning": "n.自然界,大自然;性质,本性,天性"
+  },
+  {
+    "word": "naughty",
+    "meaning": "a.顽皮的,淘气的"
+  },
+  {
+    "word": "naval",
+    "meaning": "n.海军的,军舰的"
+  },
+  {
+    "word": "navigation",
+    "meaning": "n.航海,航空;导航,领航"
+  },
+  {
+    "word": "navy",
+    "meaning": "n.海军"
+  },
+  {
+    "word": "near",
+    "meaning": "a.近的，接近的；亲近的 prep.靠近 ad.接近"
+  },
+  {
+    "word": "nearby",
+    "meaning": "a.附近的 ad.在附近 prep.在…附近"
+  },
+  {
+    "word": "nearly",
+    "meaning": "ad.差不多,几乎"
+  },
+  {
+    "word": "neat",
+    "meaning": "a.整洁的,干净的,优美的,精致的"
+  },
+  {
+    "word": "necessary",
+    "meaning": "a.必需的,必要的;必然的 n.必需品"
+  },
+  {
+    "word": "necessitate",
+    "meaning": "v.使成为必要,需要"
+  },
+  {
+    "word": "necessity",
+    "meaning": "n.必要性,需要;必然性;(pl.)必需品"
+  },
+  {
+    "word": "neck",
+    "meaning": "n.颈脖"
+  },
+  {
+    "word": "necklace",
+    "meaning": "n.项链，项圈"
+  },
+  {
+    "word": "need",
+    "meaning": "aux.v./v.需要；必须 n.需要；贫困，困窘"
+  },
+  {
+    "word": "needle",
+    "meaning": "n.针,指针,针状物"
+  },
+  {
+    "word": "negative",
+    "meaning": "a.否定的,消极的,阴性的n.负数;(摄影)底片"
+  },
+  {
+    "word": "neglect",
+    "meaning": "v./n.忽视;疏忽,漏做,忽略"
+  },
+  {
+    "word": "negligible",
+    "meaning": "a.可忽略不计的，微不足道的"
+  },
+  {
+    "word": "negotiate",
+    "meaning": "v.商订；谈判，洽谈，交涉"
+  },
+  {
+    "word": "Negro",
+    "meaning": "n.黑人 a.黑人的"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "n.(neighbour)邻居"
+  },
+  {
+    "word": "neighborhood",
+    "meaning": "n.(neighbourhood)邻居;四邻,街道"
+  },
+  {
+    "word": "neither",
+    "meaning": "a.两者都不 pron.两者都不 ad.也不"
+  },
+  {
+    "word": "nephew",
+    "meaning": "n.侄子,外甥"
+  },
+  {
+    "word": "nerve",
+    "meaning": "n.神经;勇敢,胆量"
+  },
+  {
+    "word": "nervous",
+    "meaning": "a.神经的;神经过敏的,紧张不安的"
+  },
+  {
+    "word": "nest",
+    "meaning": "n.窝,巢 v.筑巢"
+  },
+  {
+    "word": "net",
+    "meaning": "n.网,网状物 v.用网捕,使落网 a.纯净的"
+  },
+  {
+    "word": "network",
+    "meaning": "n.网状物;广播网,电视网;网络"
+  },
+  {
+    "word": "neutral",
+    "meaning": "a.中立的;中性的,中和的"
+  },
+  {
+    "word": "never",
+    "meaning": "ad.永不，从不，决不；从来没有；不，没有"
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "conj.(nonetheless)然而,不过ad.仍然,不过"
+  },
+  {
+    "word": "new",
+    "meaning": "a.新(近)的；新来的；不熟悉的；没经验的"
+  },
+  {
+    "word": "news",
+    "meaning": "n.新闻，消息；新闻报道，新闻广播"
+  },
+  {
+    "word": "newspaper",
+    "meaning": "n.报纸"
+  },
+  {
+    "word": "next",
+    "meaning": "a.紧接的，其次的；贴近的 ad.其次；居后"
+  },
+  {
+    "word": "nice",
+    "meaning": "a.美好的，令人愉快的；友好的，亲切的"
+  },
+  {
+    "word": "nickel",
+    "meaning": "n.镍;镍币;五美分"
+  },
+  {
+    "word": "nickname",
+    "meaning": "n.绰号，浑名vt.给…起绰号"
+  },
+  {
+    "word": "niece",
+    "meaning": "n.侄女,甥女"
+  },
+  {
+    "word": "night",
+    "meaning": "n.夜间；夜；晚(上)"
+  },
+  {
+    "word": "nightmare",
+    "meaning": "n.恶梦；可怕的事物，无法摆脱的恐惧"
+  },
+  {
+    "word": "nine",
+    "meaning": "num.九 pron./ad.九(个，只...)"
+  },
+  {
+    "word": "nineteen",
+    "meaning": "num./a.十九 pron.十九(个，只...)"
+  },
+  {
+    "word": "ninety",
+    "meaning": "num.九十，九十个"
+  },
+  {
+    "word": "nitrogen",
+    "meaning": "n.[化]氮"
+  },
+  {
+    "word": "no",
+    "meaning": "ad.不是，不 a.没有的；不允许 n.不，拒绝"
+  },
+  {
+    "word": "noble",
+    "meaning": "a.高尚的;贵族的,高贵的 n.贵族"
+  },
+  {
+    "word": "nobody",
+    "meaning": "pron.谁也不,无人 n.小人物"
+  },
+  {
+    "word": "nod",
+    "meaning": "v.点(头),点头招呼 n.点头招呼;打盹,瞌睡"
+  },
+  {
+    "word": "noise",
+    "meaning": "n.喧闹声,噪声,吵嚷声"
+  },
+  {
+    "word": "noisy",
+    "meaning": "a.吵闹的,喧闹的"
+  },
+  {
+    "word": "nominal",
+    "meaning": "a.名义上的;(金额,租金)微不足道的"
+  },
+  {
+    "word": "nominate",
+    "meaning": "v.提名,任命"
+  },
+  {
+    "word": "none",
+    "meaning": "pron.没有任何人(东西)；都不 ad.一点也不"
+  },
+  {
+    "word": "nonetheless",
+    "meaning": "ad.[nevertheless]虽然如此, 但是"
+  },
+  {
+    "word": "nonsense",
+    "meaning": "n.胡说,废话"
+  },
+  {
+    "word": "noodle",
+    "meaning": "n.(常用复数)面条"
+  },
+  {
+    "word": "noon",
+    "meaning": "n.中午，正午"
+  },
+  {
+    "word": "nor",
+    "meaning": "conj.／ad.也不，也没有"
+  },
+  {
+    "word": "norm",
+    "meaning": "n.准则,规范,准则,平均数"
+  },
+  {
+    "word": "normal",
+    "meaning": "a.正常的,普通的;正规的,标准的"
+  },
+  {
+    "word": "normalization",
+    "meaning": "n.(normalisation)正常化,标准化"
+  },
+  {
+    "word": "north",
+    "meaning": "n.北,北方a.北方的,北部 ad.向北方,在北方"
+  },
+  {
+    "word": "northeast",
+    "meaning": "n.东北 a.东北方的 ad.向东北,在东北"
+  },
+  {
+    "word": "northern",
+    "meaning": "a.北方的,北部的"
+  },
+  {
+    "word": "northwest",
+    "meaning": "n.西北方,西北部a.西北的ad.向西北,在西北"
+  },
+  {
+    "word": "nose",
+    "meaning": "n.鼻子;(飞机,船等的)前端,突出部分"
+  },
+  {
+    "word": "not",
+    "meaning": "ad.不，不是，不会；没有"
+  },
+  {
+    "word": "notable",
+    "meaning": "n.值得注意的,显著的,著名的"
+  },
+  {
+    "word": "note",
+    "meaning": "n.笔记;按语,注释;钞票,纸币v.记下,摘下"
+  },
+  {
+    "word": "notebook",
+    "meaning": "n.笔记本"
+  },
+  {
+    "word": "nothing",
+    "meaning": "n.没有东西；什么也没有；无关紧要的人或事"
+  },
+  {
+    "word": "notice",
+    "meaning": "n.通知,通告,布告;注意,认识v.注意到,注意"
+  },
+  {
+    "word": "noticeable",
+    "meaning": "a.显而易见的,值得注意的,重要的"
+  },
+  {
+    "word": "notify",
+    "meaning": "v.通知,告知,报告"
+  },
+  {
+    "word": "notion",
+    "meaning": "n.概念,想法,意念,看法,观点"
+  },
+  {
+    "word": "notorious",
+    "meaning": "a.臭名昭著的,声名狼藉的"
+  },
+  {
+    "word": "notwithstanding",
+    "meaning": "prep./ad./conj.尽管"
+  },
+  {
+    "word": "noun",
+    "meaning": "n.名词"
+  },
+  {
+    "word": "nourish",
+    "meaning": "v.提供养分,养育,怀有(希望,仇恨等)"
+  },
+  {
+    "word": "novel",
+    "meaning": "n.(长篇)小说 a.新奇的,新颖的"
+  },
+  {
+    "word": "novelty",
+    "meaning": "n.新奇,新颖,新奇的事物"
+  },
+  {
+    "word": "November",
+    "meaning": "n.十一月"
+  },
+  {
+    "word": "now",
+    "meaning": "ad.现在，如今，目前；当时，于是，然后"
+  },
+  {
+    "word": "nowadays",
+    "meaning": "ad.现今,现在"
+  },
+  {
+    "word": "nowhere",
+    "meaning": "ad.任何地方都不,没有地方"
+  },
+  {
+    "word": "nuclear",
+    "meaning": "a.核心的,中心的;原子核的,核能的"
+  },
+  {
+    "word": "nucleus",
+    "meaning": "n.(pl.nuclei)核,核心,原子核"
+  },
+  {
+    "word": "nuisance",
+    "meaning": "n.讨厌的人(或东西);麻烦事"
+  },
+  {
+    "word": "numb",
+    "meaning": "a.麻木的,失去感觉的 v.使麻木"
+  },
+  {
+    "word": "number",
+    "meaning": "n.数,数字,数量,号码,一群 v.共计,编号"
+  },
+  {
+    "word": "numerical",
+    "meaning": "a.数字的，用数字表示的，数值的"
+  },
+  {
+    "word": "numerous",
+    "meaning": "a.众多的,许多的,大批的"
+  },
+  {
+    "word": "nurse",
+    "meaning": "n.护士,保姆 v.护理,看护"
+  },
+  {
+    "word": "nursery",
+    "meaning": "n.托儿所"
+  },
+  {
+    "word": "nurture",
+    "meaning": "n./v.养育,教育,教养 n.营养品v.给与营养物"
+  },
+  {
+    "word": "nut",
+    "meaning": "n.坚果;螺母,螺帽"
+  },
+  {
+    "word": "nutrition",
+    "meaning": "n.营养,营养学"
+  },
+  {
+    "word": "nylon",
+    "meaning": "n.尼龙"
+  }
+]
