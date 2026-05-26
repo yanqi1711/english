@@ -1,10 +1,19 @@
-<script lang="ts" setup>
+<script setup lang="ts">
+import { useWords } from '~/composables/useWords'
+
 useTitle('单词背诵')
-const showTranslation = ref(false)
-const newWords = ref('')
-const words = ref<{ word: string, translation: string }[]>([])
-const textareaRef = ref<HTMLTextAreaElement | null>(null)
-const color = ref('bg-[#888]')
+
+const {
+  words,
+  newWords,
+  showTranslation,
+  addWord,
+  deleteWord,
+  clearList,
+  toggleTranslation,
+} = useWords()
+
+const textareaRef = useTemplateRef<HTMLTextAreaElement>('textarea')
 
 function autoResize() {
   const el = textareaRef.value
@@ -14,137 +23,81 @@ function autoResize() {
   }
 }
 
-function getBgColor() {
-  if (showTranslation.value) {
-    return 'bg-transparent'
-  }
-  return color.value
-}
-
-function toggleTranslation() {
-  showTranslation.value = !showTranslation.value
-}
-
-function loadWords() {
-  const savedWords = localStorage.getItem('words')
-  if (savedWords) {
-    words.value = JSON.parse(savedWords)
-  }
-}
-
-function saveWords() {
-  localStorage.setItem('words', JSON.stringify(words.value))
-}
-
-function addWord() {
-  const el = textareaRef.value
-  let fore = ''
-  let rear = ''
-  const trimmedWords = newWords.value
-    .split('\n')
-    .map(word => word.trim())
-    .filter(word => word.length > 0)
-
-  trimmedWords.forEach((word) => {
-    if (!words.value.some(item => item.word === word)) {
-      // eslint-disable-next-line regexp/no-super-linear-backtracking
-      const match = word.match(/^([a-z\s;,]+)([^a-z].*)$/i)
-      if (match) {
-        fore = match[1].trim()
-        rear = match[2].trim()
-      }
-
-      words.value.push({ word: fore, translation: rear })
+function onSubmit() {
+  addWord()
+  nextTick(() => {
+    if (textareaRef.value) {
+      textareaRef.value.style.height = 'auto'
     }
   })
-
-  newWords.value = ''
-  saveWords()
-  if (el) {
-    el.style.height = 'auto'
-  }
-}
-
-function clearList() {
-  // eslint-disable-next-line no-alert
-  if (confirm('确定要清空所有单词吗？')) {
-    words.value = []
-    localStorage.removeItem('words')
-  }
-}
-
-function deleteWord(word: string) {
-  words.value = words.value.filter(item => item.word !== word)
-  saveWords()
 }
 
 onMounted(() => {
-  loadWords()
   nextTick(() => autoResize())
 })
 </script>
 
 <template>
-  <div
-    flex="~ items-center"
-    fixed right-36 top-4 z-panel-nav border border-base rounded-full bg-glass shadow
-  >
-    <div
-
-      h-10 w-10 rounded-full op50 hover:bg-active hover:op100 flex="~ items-center justify-center"
+  <div class="fixed right-36 top-4 z-panel-nav flex items-center rounded-full border border-base bg-glass shadow">
+    <button
+      class="flex h-10 w-10 items-center justify-center rounded-full op50 hover:bg-active hover:op100"
+      aria-label="Toggle translation visibility"
       @click="toggleTranslation"
     >
       <div v-if="showTranslation" i-carbon-view-filled text-xl />
       <div v-else i-carbon-view-off-filled text-xl />
-    </div>
+    </button>
 
-    <div
-
-      h-10 w-10 rounded-full op50 hover:bg-active hover:op100 flex="~ items-center justify-center"
+    <button
+      class="flex h-10 w-10 items-center justify-center rounded-full op50 hover:bg-active hover:op100"
+      aria-label="Clear all words"
       @click="clearList"
     >
       <div i-carbon-close-outline text-xl />
-    </div>
+    </button>
   </div>
-  <div mt-2 p-2>
-    <div
-      class="mb-4 flex items-center justify-center"
-    >
+
+  <div class="mt-2 p-2">
+    <div class="mb-4 flex items-center justify-center">
       <textarea
-        ref="textareaRef"
+        ref="textarea"
         v-model="newWords"
         placeholder="示例: bully 欺负, 恃强凌弱"
         rows="1"
-        class="mr-4 w-screen-md resize-none overflow-hidden border-b-1 border-b-[#888] bg-transparent p-2 outline-transparent outline"
+        class="mr-4 w-screen-md resize-none overflow-hidden border-b border-b-[#888] bg-transparent p-2 outline-transparent"
         @input="autoResize"
       />
       <button
-        class="border-1 border-[#9ca3af33] rounded-md p-2 px-5 hover:border-[#0a9cae] hover:text-[#0a9cae]"
-        @click="addWord"
+        class="rounded-md border border-[#9ca3af33] px-5 py-2 hover:border-[#0a9cae] hover:text-[#0a9cae]"
+        @click="onSubmit"
       >
         保存
       </button>
     </div>
-    <div
-      v-for="item in words" :key="item.word"
-      class="flex items-center justify-center"
-    >
-      <div mb-2 w-2xl flex justify-between border rounded-xl bg-base p-2 dark:border-gray-7>
-        <div>
-          <span mr-2 font-size-6 font-bold>{{ item.word }}</span>
-          <span
-            :class="getBgColor()"
-            font-size-6 font-bold
-            class="getBgColor() text-[#888] transition-all duration-300 ease-in-out hover:bg-transparent"
-          >{{ item.translation }}</span>
-        </div>
-        <div
-          ml-2 h-10 w-10 rounded-full op50 hover:bg-active hover:op100 flex="~ items-center justify-center"
-          @click="deleteWord(item.word)"
-        >
-          <div i-carbon-close-outline text-xl />
+
+    <TransitionGroup name="list" tag="div">
+      <div
+        v-for="item in words"
+        :key="item.word"
+        class="mb-2 flex items-center justify-center"
+      >
+        <div class="flex w-2xl items-center justify-between rounded-xl border bg-base p-2 dark:border-gray-7">
+          <div>
+            <span class="mr-2 text-6 font-bold">{{ item.word }}</span>
+            <span
+              class="text-6 font-bold transition-all duration-300 ease-in-out"
+              :class="showTranslation ? 'bg-transparent' : 'bg-[#888] text-[#888] hover:bg-transparent'"
+            >{{ item.translation }}</span>
+          </div>
+          <button
+            class="ml-2 flex h-10 w-10 items-center justify-center rounded-full op50 hover:bg-active hover:op100"
+            aria-label="Delete word"
+            @click="deleteWord(item.word)"
+          >
+            <div i-carbon-close-outline text-xl />
+          </button>
         </div>
       </div>
-    </div>
+    </TransitionGroup>
   </div>
 </template>

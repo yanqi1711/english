@@ -1,71 +1,33 @@
-<script setup>
-import { computed, onMounted, ref } from 'vue'
+<script setup lang="ts">
+import { useWordList } from '~/composables/useWordList'
 
-const letters = Array.from({ length: 26 }, (_, index) => String.fromCharCode(65 + index))
-const words = ref([])
-const currentLetter = ref('A')
-const mainElement = ref(null)
-const isShowToTop = ref(false)
-const isLoading = ref(false)
-const loadedLetterWords = new Map()
-const letterCounts = ref({})
+const {
+  currentLetter,
+  words,
+  isLoading,
+  groupedWords,
+  selectLetter,
+  init,
+} = useWordList()
 
-const groupedWords = computed(() => {
-  return Object.fromEntries(letters.map(letter => [letter, letterCounts.value[letter] || 0]))
-})
+const mainRef = useTemplateRef<HTMLElement>('main')
+const isShowToTop = shallowRef(false)
 
-const displayWords = computed(() => {
-  return words.value
-})
-
-// 滚动监听逻辑
-function handleScroll(e) {
-  isShowToTop.value = e.target.scrollTop > 300
+function handleScroll(e: Event) {
+  const target = e.target as HTMLElement
+  isShowToTop.value = target.scrollTop > 300
 }
 
-// 回到顶部逻辑
 function toTop() {
-  mainElement.value?.scrollTo({
-    top: 0,
-    behavior: 'smooth',
-  })
+  mainRef.value?.scrollTo({ top: 0, behavior: 'smooth' })
 }
 
-// 切换字母逻辑：更新字母并回顶
-function selectLetter(letter) {
-  currentLetter.value = letter
-  loadWordsByLetter(letter)
+function onSelectLetter(letter: string) {
+  selectLetter(letter)
   toTop()
 }
 
-async function loadWordsByLetter(letter) {
-  if (loadedLetterWords.has(letter)) {
-    words.value = loadedLetterWords.get(letter)
-    return
-  }
-
-  isLoading.value = true
-  try {
-    const data = await fetch(`/data/${letter}.json`).then(res => res.json())
-    loadedLetterWords.set(letter, data)
-    words.value = data
-  }
-  finally {
-    isLoading.value = false
-  }
-}
-
-async function loadLetterIndex() {
-  const index = await fetch('/data/index.json').then(res => res.json())
-  letterCounts.value = index
-}
-
-async function init() {
-  await loadLetterIndex()
-  await loadWordsByLetter(currentLetter.value)
-}
-
-function gotoGoogle(word) {
+function gotoGoogle(word: string) {
   const link = `https://translate.google.com/details?sl=en&tl=zh-CN&text=${word}&op=translate`
   window.open(link, '_blank')
 }
@@ -75,57 +37,49 @@ onMounted(init)
 
 <template>
   <div class="flex h-screen overflow-hidden">
-    <aside
-      class="w-16 flex flex-col items-center py-4 shrink-0 overflow-y-auto"
-    >
+    <aside class="flex w-16 shrink-0 flex-col items-center gap-1 overflow-y-auto py-4">
       <button
-        v-for="(list, letter) in groupedWords"
+        v-for="(_count, letter) in groupedWords"
         :key="letter"
-        class="w-10 h-10 mb-2 rounded-full transition-all text-sm font-bold flex items-center justify-center"
-        :class="currentLetter === letter ? 'bg-blue-500 text-white shadow-lg' : ''"
-        @click="selectLetter(letter)"
+        class="flex h-10 w-10 items-center justify-center rounded-full text-sm font-bold transition-all"
+        :class="currentLetter === letter ? 'bg-blue-500 text-white shadow-lg' : 'hover:bg-active'"
+        @click="onSelectLetter(letter)"
       >
         {{ letter }}
       </button>
     </aside>
 
     <main
-      ref="mainElement"
-      class="flex-1 overflow-y-auto p-4 relative"
+      ref="main"
+      class="relative flex-1 overflow-y-auto p-4"
       @scroll="handleScroll"
     >
-      <h2 class="text-3xl font-black mb-6 uppercase">
+      <h2 class="mb-6 text-3xl font-black uppercase">
         {{ currentLetter }}
       </h2>
-      <p class="text-sm text-gray-500 mb-4">
+      <p class="mb-4 text-sm op50">
         {{ groupedWords[currentLetter] }} words
       </p>
 
       <div
         v-if="!isLoading"
-        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3"
+        class="grid grid-cols-1 gap-3 md:grid-cols-2 lg:grid-cols-3"
       >
         <Card
-          v-for="item in displayWords"
+          v-for="item in words"
           :key="item.word"
           :word="item.word"
           :meaning="item.meaning"
           @click="gotoGoogle(item.word)"
         />
       </div>
-      <div
-        v-else
-        class="text-gray-500"
-      >
+      <div v-else class="op50">
         Loading words...
       </div>
 
       <button
-        v-if="isShowToTop"
-        fixed bottom-6 right-6 z-100 h-12 w-12 rounded-full
-        bg-blue-500 text-white shadow-xl
-        flex items-center justify-center
-        transition duration-300 hover:scale-110
+        v-show="isShowToTop"
+        class="fixed bottom-6 right-6 z-100 flex h-12 w-12 items-center justify-center rounded-full bg-blue-500 text-white shadow-xl transition duration-300 hover:scale-110"
         @click="toTop"
       >
         <div i-ri-arrow-up-line />

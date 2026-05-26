@@ -1,27 +1,25 @@
-<script setup>
-defineProps({
-  word: {
-    type: String,
-    required: true,
-  },
-  meaning: {
-    type: String,
-    default: '',
-  },
-})
+<script setup lang="ts">
+interface Props {
+  word: string
+  meaning: string
+}
 
-defineEmits(['click'])
+defineProps<Props>()
+
+const emit = defineEmits<{
+  click: []
+}>()
 </script>
 
 <template>
   <div
-    class="p-4 border rounded-2xl hover:border-blue-400 shadow-sm hover:shadow-md transition-all cursor-pointer group"
-    @click="$emit('click')"
+    class="group cursor-pointer rounded-2xl border border-base p-4 shadow-sm transition-all hover:border-blue-400 hover:shadow-md"
+    @click="emit('click')"
   >
     <div class="text-lg font-bold">
       {{ word }}
     </div>
-    <div class="text-sm text-gray-500  mt-1 line-clamp-2">
+    <div class="mt-1 line-clamp-2 text-sm color-base op50">
       {{ meaning }}
     </div>
   </div>

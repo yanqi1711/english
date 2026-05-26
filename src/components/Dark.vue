@@ -1,36 +1,38 @@
 <script setup lang="ts">
-import { toggleDark } from '~/composables/dark'
+import { useAppDark } from '~/composables/dark'
 
 const route = useRoute()
+const { toggleDark } = useAppDark()
 </script>
 
 <template>
-  <div
-    flex="~ items-center"
-    fixed right-4 top-4 z-panel-nav border border-base rounded-full shadow bg-glass
-  >
+  <nav class="fixed right-4 top-4 z-panel-nav flex items-center gap-0 rounded-full border border-base bg-glass shadow">
     <router-link
-      h-10 w-10 rounded-full hover:bg-active op50 hover:op100
-      flex="~ items-center justify-center"
       :to="route.path === '/' ? '/notes' : '/'"
+      class="flex h-10 w-10 items-center justify-center rounded-full op50 hover:bg-active hover:op100"
+      :aria-label="route.path === '/' ? 'Go to notes' : 'Go to home'"
     >
       <div v-if="route.path === '/notes'" i-carbon-home text-xl />
       <div v-else i-carbon-notebook text-xl />
     </router-link>
+
     <a
-      h-10 w-10 rounded-full hover:bg-active op50 hover:op100
-      flex="~ items-center justify-center"
-      href="https://github.com/yanqi1711/english" target="_blank"
+      class="flex h-10 w-10 items-center justify-center rounded-full op50 hover:bg-active hover:op100"
+      href="https://github.com/yanqi1711/english"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="GitHub repository"
     >
       <div i-ri-github-fill text-xl />
     </a>
+
     <button
-      h-10 w-10 rounded-full hover:bg-active op50 hover:op100
-      flex="~ items-center justify-center"
+      class="flex h-10 w-10 items-center justify-center rounded-full op50 hover:bg-active hover:op100"
       title="Toggle Dark Mode"
+      aria-label="Toggle dark mode"
       @click="toggleDark()"
     >
       <div i-ph-sun-duotone dark:i-ph-moon-duotone text-xl />
     </button>
-  </div>
+  </nav>
 </template>
